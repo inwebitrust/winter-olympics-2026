@@ -1,0 +1,30 @@
+{
+  "name": "winter-olympics-medal-chances",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=18.17.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "next": "^14.2.5",
+    "papaparse": "^5.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@types/papaparse": "^5.3.14",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.4",
+    "typescript": "^5.5.3"
+  }
+}
