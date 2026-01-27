@@ -1,14 +1,16 @@
 "use client";
 
 import { CalendarDay } from "@/types";
+import Link from "next/link";
 
 interface CalendarHeaderProps {
   days: string[];
   selectedDay: string | null;
   onDaySelect: (day: string | null) => void;
+  onMethodologyClick: () => void;
 }
 
-export default function CalendarHeader({ days, selectedDay, onDaySelect }: CalendarHeaderProps) {
+export default function CalendarHeader({ days, selectedDay, onDaySelect, onMethodologyClick }: CalendarHeaderProps) {
   // Sort days as integers (numeric sort)
   const uniqueDays = Array.from(new Set(days)).sort((a, b) => {
     const numA = parseInt(a, 10);
@@ -23,8 +25,25 @@ export default function CalendarHeader({ days, selectedDay, onDaySelect }: Calen
 
   return (
     <header className="calendar-header sticky top-0 z-50 bg-white border-b border-gray-200">
-      <div className="calendar-header-top h-5 bg-[#014a5c] flex items-center px-6">
+      <div className="calendar-header-top h-5 bg-[#014a5c] flex items-center justify-between px-6">
         <span className="text-white text-xs font-medium">Winter Olympics 2026 - Medal Chances by sports and countries</span>
+        <div className="flex items-center gap-3">
+          <button
+            onClick={onMethodologyClick}
+            className="text-white text-xs font-medium hover:underline"
+          >
+            Methodology
+          </button>
+          <span className="text-white text-xs">|</span>
+          <Link
+            href="https://github.com/inwebitrust/winter-olympics-2026"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-white text-xs font-medium hover:underline"
+          >
+            made by @inwebitrust
+          </Link>
+        </div>
       </div>
       <div className="calendar-header-container flex items-center gap-4 px-6 py-4">
         <div className="calendar-day-buttons flex gap-2 flex-wrap">

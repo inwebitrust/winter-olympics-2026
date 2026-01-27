@@ -5,6 +5,7 @@ import CalendarHeader from "@/components/CalendarHeader";
 import FilterSidebar from "@/components/FilterSidebar";
 import AthleteList from "@/components/AthleteList";
 import SportIcon from "@/components/SportIcon";
+import MethodologyModal from "@/components/MethodologyModal";
 import { Athlete, Disciplin, CalendarDay, FilterState } from "@/types";
 
 export default function Home() {
@@ -17,6 +18,7 @@ export default function Home() {
     selectedSports: [],
     selectedCountries: [],
   });
+  const [isMethodologyModalOpen, setIsMethodologyModalOpen] = useState(false);
 
   useEffect(() => {
     async function fetchData() {
@@ -209,6 +211,11 @@ export default function Home() {
         days={days}
         selectedDay={filters.selectedDay}
         onDaySelect={handleDaySelect}
+        onMethodologyClick={() => setIsMethodologyModalOpen(true)}
+      />
+      <MethodologyModal
+        isOpen={isMethodologyModalOpen}
+        onClose={() => setIsMethodologyModalOpen(false)}
       />
       <div className="flex flex-1">
         <FilterSidebar
