@@ -206,7 +206,7 @@ export default function Home() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-50 flex flex-col">
+    <div className="min-h-screen bg-gray-50 flex flex-col min-w-[800px]">
       <CalendarHeader
         days={days}
         selectedDay={filters.selectedDay}

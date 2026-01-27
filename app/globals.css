@@ -2,6 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+  min-width: 800px;
+}
+
+body {
+  min-width: 800px;
+  overflow-x: auto;
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
