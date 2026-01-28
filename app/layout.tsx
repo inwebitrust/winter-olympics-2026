@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Bebas_Neue, Open_Sans } from "next/font/google";
 import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
+import "./responsive.scss";
 
 const bebasNeue = Bebas_Neue({
   weight: "400",
@@ -19,12 +20,6 @@ const openSans = Open_Sans({
 export const metadata: Metadata = {
   title: "Winter Olympics Medal Chances",
   description: "Track medal chances for Winter Olympics athletes",
-  viewport: {
-    width: "device-width",
-    initialScale: 1,
-    maximumScale: 5,
-    userScalable: true,
-  },
 };
 
 export default function RootLayout({

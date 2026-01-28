@@ -2,15 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
-  min-width: 800px;
-}
-
-body {
-  min-width: 800px;
-  overflow-x: auto;
-}
-
 :root {
   --background: #ffffff;
   --foreground: #171717;
@@ -28,6 +19,7 @@ body {
   background: var(--background);
   font-family: var(--font-open-sans), Arial, Helvetica, sans-serif;
 }
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-bebas), Arial, Helvetica, sans-serif;

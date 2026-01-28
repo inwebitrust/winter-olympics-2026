@@ -9,6 +9,8 @@ interface FilterSidebarProps {
   countryPower: Map<string, number>;
   selectedCountries: string[];
   onCountryToggle: (country: string) => void;
+  isOpen: boolean;
+  onToggle: () => void;
 }
 
 export default function FilterSidebar({
@@ -16,9 +18,26 @@ export default function FilterSidebar({
   countryPower,
   selectedCountries,
   onCountryToggle,
+  isOpen,
+  onToggle,
 }: FilterSidebarProps) {
   return (
-    <aside className="filter-sidebar sticky top-[73px] self-start w-64 bg-white border-r border-gray-200 p-6 h-[calc(100vh-73px)] overflow-y-auto flex flex-col">
+    <aside className={`filter-sidebar fixed top-[73px] left-0 w-64 bg-white border-r border-gray-200 p-6 h-[calc(100vh-73px)] overflow-y-auto flex flex-col ${isOpen ? 'sidebar-open' : ''}`}>
+      <button
+        onClick={onToggle}
+        className={`burger-button hidden ${isOpen ? 'open' : ''}`}
+        aria-label="Toggle sidebar"
+      >
+        {isOpen ? (
+          <span className="text-2xl font-bold text-[#014a5c] leading-none">✕</span>
+        ) : (
+          <>
+            <span></span>
+            <span></span>
+            <span></span>
+          </>
+        )}
+      </button>
       <div className="filter-sidebar-container flex-1 flex flex-col">
         {/* Countries Filter */}
         <div className="filter-section filter-section-countries flex-1 flex flex-col">

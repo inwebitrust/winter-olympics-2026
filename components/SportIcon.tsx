@@ -23,29 +23,27 @@ export default function SportIcon({ sport, isSelected, isDimmed, onClick }: Spor
   return (
     <button
       onClick={onClick}
-      className={`sport-icon flex flex-col items-center gap-2 transition-all self-start group ${
+      className={`sport-icon flex flex-col items-center gap-2 transition-all self-start hover:opacity-50 ${
         isDimmed ? "opacity-30" : ""
       }`}
     >
       <div className={`sport-icon-circle w-16 h-16 rounded-full border-2 flex items-center justify-center overflow-hidden transition-all ${
         isSelected 
           ? "bg-[#014a5c] border-[#014a5c]" 
-          : "bg-white border-[#014a5c] group-hover:bg-[#014a5c]"
+          : "bg-white border-[#014a5c]"
       }`}>
         <img
           src={iconPath}
           alt={sport}
-          className={`w-12 h-12 object-contain transition-all ${
-            isSelected || "group-hover:brightness-0 group-hover:invert"
-          } ${isSelected ? "brightness-0 invert" : ""}`}
+          className={`w-12 h-12 object-contain ${isSelected ? "brightness-0 invert" : ""}`}
           onError={(e) => {
             // Hide broken images
             e.currentTarget.style.display = "none";
           }}
         />
       </div>
-      <span className={`sport-icon-label text-xs font-medium text-center max-w-[80px] transition-colors ${
-        isSelected ? "text-[#014a5c]" : "text-gray-700 group-hover:text-[#014a5c]"
+      <span className={`sport-icon-label text-xs font-medium text-center max-w-[80px] ${
+        isSelected ? "text-[#014a5c]" : "text-gray-700"
       }`}>
         {sport}
       </span>

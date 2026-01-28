@@ -105,7 +105,7 @@ export default function AthleteList({ athletes, calendar }: AthleteListProps) {
                     <Flag country={athlete.country} className="athlete-flag w-4 h-4 object-cover rounded flex-shrink-0" />
                     <Link 
                       href={`/athlete/${createAthleteSlug(athlete.firstname, athlete.lastname)}`}
-                      className="athlete-name font-semibold text-[0.9rem] hover:text-blue-600 cursor-pointer"
+                      className="athlete-name font-semibold text-[0.9rem] text-gray-900 hover:text-blue-600 cursor-pointer"
                     >
                       {athlete.firstname} {athlete.lastname}
                     </Link>

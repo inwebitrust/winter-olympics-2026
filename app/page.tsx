@@ -19,6 +19,7 @@ export default function Home() {
     selectedCountries: [],
   });
   const [isMethodologyModalOpen, setIsMethodologyModalOpen] = useState(false);
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
   useEffect(() => {
     async function fetchData() {
@@ -206,7 +207,7 @@ export default function Home() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-50 flex flex-col min-w-[800px]">
+    <div className="min-h-screen bg-gray-50 flex flex-col">
       <CalendarHeader
         days={days}
         selectedDay={filters.selectedDay}
@@ -217,18 +218,31 @@ export default function Home() {
         isOpen={isMethodologyModalOpen}
         onClose={() => setIsMethodologyModalOpen(false)}
       />
-      <div className="flex flex-1">
+      {/* Spacer for fixed header */}
+      <div className="h-[89px] flex-shrink-0"></div>
+      <div className="flex flex-1 relative">
+        {isSidebarOpen && (
+          <div 
+            className="sidebar-overlay md:hidden"
+            onClick={() => setIsSidebarOpen(false)}
+          />
+        )}
         <FilterSidebar
           countries={countries}
           countryPower={countryPower}
           selectedCountries={filters.selectedCountries}
           onCountryToggle={handleCountryToggle}
+          isOpen={isSidebarOpen}
+          onToggle={() => setIsSidebarOpen(!isSidebarOpen)}
         />
-        <div className="flex-1 flex flex-col">
+        {/* Spacer for fixed sidebar */}
+        <div className="sidebar-spacer w-64 flex-shrink-0"></div>
+        <div className="flex-1 flex flex-col min-w-0">
           {/* Sports Icons */}
           <div className="sports-container px-6 py-4">
             <h3 className="text-sm font-semibold text-gray-700 mb-3">Sports</h3>
-            <div className="sports-icons flex flex-wrap gap-3 items-start justify-center pb-3 border-b border-gray-300">
+            <div className="sports-icons-wrapper overflow-x-auto overflow-y-hidden pb-3 border-b border-gray-300">
+              <div className="sports-icons flex flex-nowrap gap-3 items-start w-max">
               {sports.map((sport) => (
                 <SportIcon
                   key={sport}
@@ -238,6 +252,7 @@ export default function Home() {
                   onClick={() => handleSportToggle(sport)}
                 />
               ))}
+              </div>
             </div>
           </div>
           {/* Athlete List */}
