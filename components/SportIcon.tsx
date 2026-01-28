@@ -20,12 +20,18 @@ export default function SportIcon({ sport, isSelected, isDimmed, onClick }: Spor
   const slug = sportToSlug(sport);
   const iconPath = `/icons/${slug}.svg`;
 
+  // Determine opacity based on state
+  const getOpacityClass = () => {
+    if (isSelected) return ""; // No opacity class, will be handled by inline style
+    if (isDimmed) return "opacity-30 hover:opacity-50";
+    return "hover:opacity-50";
+  };
+
   return (
     <button
       onClick={onClick}
-      className={`sport-icon flex flex-col items-center gap-2 transition-all self-start hover:opacity-50 ${
-        isDimmed ? "opacity-30" : ""
-      }`}
+      className={`sport-icon flex flex-col items-center gap-2 transition-all self-start ${getOpacityClass()}`}
+      style={isSelected ? { opacity: 1 } : undefined}
     >
       <div className={`sport-icon-circle w-16 h-16 rounded-full border-2 flex items-center justify-center overflow-hidden transition-all ${
         isSelected 
