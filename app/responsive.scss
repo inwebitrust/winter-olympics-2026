@@ -61,9 +61,9 @@
     &.sidebar-open {
       width: 280px !important;
       left: 0;
-      top: 73px;
+      top: 89px;
       z-index: 100;
-      height: calc(100vh - 73px) !important;
+      height: calc(100vh - 89px) !important;
       box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
       padding: 1.5rem !important;
       
@@ -97,7 +97,7 @@
   
   .sidebar-overlay {
     position: fixed;
-    top: 73px;
+    top: 89px;
     left: 0;
     right: 0;
     bottom: 0;

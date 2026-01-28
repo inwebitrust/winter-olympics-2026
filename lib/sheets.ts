@@ -158,3 +158,28 @@ export async function getCalendar(): Promise<any[]> {
     return calendar;
   });
 }
+
+export async function getEvents(): Promise<any[]> {
+  const rows = await fetchData("events");
+  if (rows.length === 0) return [];
+  
+  const headers = rows[0];
+  const dataRows = rows.slice(1);
+  
+  // Normalize header names to match expected format
+  const normalizeKey = (header: string): string => {
+    const normalized = header.toLowerCase().trim().replace(/\s+/g, "_");
+    // Handle common variations
+    if (normalized === "discipline_id" || normalized === "disciplin_id") return "disciplin_id";
+    return normalized;
+  };
+  
+  return dataRows.map((row) => {
+    const event: any = {};
+    headers.forEach((header: string, index: number) => {
+      const key = normalizeKey(header);
+      event[key] = row[index] || "";
+    });
+    return event;
+  });
+}

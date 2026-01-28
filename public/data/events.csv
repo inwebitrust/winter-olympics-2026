@@ -1,0 +1,96 @@
+day,disciplin_id,time_begin,time_end,desc,is_medal,is_game,team_1,team_2
+7,alpine-skiing-downhill-men,11:30:00,12:30:00,Final,1,,,
+7,crosscountry-skiing-skiathlon-women,13:00:00,14:00:00,Final,1,,,
+7,curling-mixed-doubles,10:05:00,12:05:00,Round Robin,,1,gbr,can
+7,curling-mixed-doubles,10:05:00,12:05:00,Round Robin,,1,sui,swe
+7,curling-mixed-doubles,14:35:00,16:35:00,Round Robin,,1,est,nor
+7,curling-mixed-doubles,14:35:00,16:35:00,Round Robin,,1,cze,kor
+7,curling-mixed-doubles,14:35:00,16:35:00,Round Robin,,1,swe,ita
+7,curling-mixed-doubles,14:35:00,16:35:00,Round Robin,,1,gbr,usa
+7,curling-mixed-doubles,19:05:00,21:05:00,Round Robin,,1,kor,usa
+7,curling-mixed-doubles,19:05:00,21:05:00,Round Robin,,1,can,est
+7,curling-mixed-doubles,19:05:00,21:05:00,Round Robin,,1,cze,sui
+7,curling-mixed-doubles,19:05:00,21:05:00,Round Robin,,1,nor,ita
+7,figure-skarting-team-event,19:45:00,21:45:00,Men Short Program,,,,
+7,figure-skarting-team-event,22:05:00,00:05:00,Ice Dance Free,,,,
+7,freeski-slopestyle-women,10:30:00,11:30:00,Qualification Run 1,,,,
+7,freeski-slopestyle-women,11:35:00,12:35:00,Qualification Run 2,,,,
+7,freeski-slopestyle-men,14:00:00,15:00:00,Qualification Run 1,,,,
+7,freeski-slopestyle-men,15:05:00,16:05:00,Qualification Run 2,,,,
+7,ice-hockey-women,12:10:00,13:40:00,Prelim. Round,,1,ger,jpn
+7,ice-hockey-women,14:40:00,16:10:00,Prelim. Round,,1,swe,ita
+7,ice-hockey-women,16:40:00,18:10:00,Prelim. Round,,1,usa,fin
+7,ice-hockey-women,21:10:00,22:40:00,Prelim. Round,,1,sui,can
+7,luge-singles-men,17:00:00,18:00:00,Run 1,,,,
+7,luge-singles-men,18:32:00,19:32:00,Run 2,,,,
+7,ski-jumping-normal-hill-women,18:45:00,19:45:00,1st Round,,,,
+7,ski-jumping-normal-hill-women,19:57:00,20:57:00,Final Round,1,,,
+7,snowboarding-bigair-men,19:30:00,19:50:00,Final Run 1,,,,
+7,snowboarding-bigair-men,19:53:00,20:13:00,Final Run 2,,,,
+7,snowboarding-bigair-men,20:17:00,20:37:00,Final Run 3,1,,,
+7,speedskating-3000m-women,16:00:00,17:00:00,Final,1,,,
+8,alpine-skiing-downhill-women,11:30:00,12:30:00,Final,1,,,
+8,biathlon-relay-mixed,14:05:00,15:05:00,Final,1,,,
+8,crosscountry-skiing-skiathlon-men,12:30:00,13:30:00,Final,1,,,
+8,curling-mixed-doubles,10:05:00,12:05:00,,,1,nor,cze
+8,curling-mixed-doubles,10:05:00,12:05:00,,,1,kor,est
+8,curling-mixed-doubles,14:35:00,16:35:00,,,1,can,swe
+8,curling-mixed-doubles,14:35:00,16:35:00,,,1,gbr,sui
+8,curling-mixed-doubles,14:35:00,16:35:00,,,1,usa,est
+8,curling-mixed-doubles,14:35:00,16:35:00,,,1,ita,cze
+8,curling-mixed-doubles,19:05:00,21:05:00,,,1,ita,gbr
+8,curling-mixed-doubles,19:05:00,21:05:00,,,1,usa,swe
+8,curling-mixed-doubles,19:05:00,21:05:00,,,1,sui,nor
+8,curling-mixed-doubles,19:05:00,21:05:00,,,1,can,kor
+8,figure-skarting-team-event,19:30:00,20:30:00,Pair Free,,,,
+8,figure-skarting-team-event,20:45:00,21:50:00,Women Free,,,,
+8,figure-skarting-team-event,21:55:00,22:55:00,Men Free,1,,,
+8,ice-hockey-women,16:40:00,19:10:00,,,1,fra,swe
+8,ice-hockey-women,21:10:00,22:40:00,,,1,cze,fin
+8,luge-singles-men,17:00:00,18:00:00,Run 3,,,,
+8,luge-singles-men,18:34:00,19:34:00,Run 4,1,,,
+8,snowboarding-slalom-women,09:00:00,10:00:00,Qualification Run,,,,
+8,snowboarding-slalom-men,10:00:00,11:00:00,Qualification Run,,,,
+8,snowboarding-slalom-women,13:00:00,13:20:00,1/8 & 1/4 Finals,,,,
+8,snowboarding-slalom-men,13:24:00,13:44:00,1/8 & 1/4 Finals,,,,
+8,snowboarding-slalom-women,14:12:00,14:18:00,Semifinals,,,,
+8,snowboarding-slalom-men,14:19:00,14:25:00,Semifinals,,,,
+8,snowboarding-slalom-women,14:26:00,14:35:00,Finals,1,,,
+8,snowboarding-slalom-men,14:36:00,14:45:00,Finals,1,,,
+8,snowboarding-bigair-women,19:30:00,20:10:00,Qualification Run 1,,,,
+8,snowboarding-bigair-women,20:15:00,20:50:00,Qualification Run 2,,,,
+8,snowboarding-bigair-women,21:00:00,22:00:00,Qualification Run 3,,,,
+8,speedskating-5000m-men,16:00:00,17:00:00,Final,1,,,
+4,curling-mixed-doubles,19:05:00,21:05:00,,,1,swe,kor
+4,curling-mixed-doubles,19:05:00,21:05:00,,,1,gbr,nor
+4,curling-mixed-doubles,19:05:00,21:05:00,,,1,can,cze
+4,curling-mixed-doubles,19:05:00,21:05:00,,,1,est,sui
+5,curling-mixed-doubles,10:05:00,12:05:00,,,1,gbr,est
+5,curling-mixed-doubles,10:05:00,12:05:00,,,1,swe,cze
+5,curling-mixed-doubles,10:05:00,12:05:00,,,1,nor,usa
+5,curling-mixed-doubles,10:05:00,12:05:00,,,1,kor,ita
+5,curling-mixed-doubles,14:35:00,16:35:00,,,1,usa,sui
+5,curling-mixed-doubles,14:35:00,16:35:00,,,1,nor,can
+5,curling-mixed-doubles,19:05:00,21:05:00,,,1,can,ita
+5,curling-mixed-doubles,19:05:00,21:05:00,,,1,sui,kor
+5,curling-mixed-doubles,19:05:00,21:05:00,,,1,est,swe
+5,curling-mixed-doubles,19:05:00,21:05:00,,,1,cze,gbr
+5,ice-hockey-women,12:10:00,13:40:00,,,1,swe,ger
+5,ice-hockey-women,14:40:00,16:10:00,,,1,ita,fra
+5,ice-hockey-women,16:40:00,18:10:00,,,1,usa,cze
+5,ice-hockey-women,21:10:00,22:40:00,,,1,fin,can
+5,snowboarding-bigair-men,19:30:00,20:10:00,Qualification Run 1,,,,
+5,snowboarding-bigair-men,20:15:00,20:50:00,Qualification Run 2,,,,
+5,snowboarding-bigair-men,21:00:00,22:00:00,Qualification Run 3,,,,
+6,curling-mixed-doubles,10:05:00,12:05:00,,,1,swe,gbr
+6,curling-mixed-doubles,10:05:00,12:05:00,,,1,ita,sui
+6,curling-mixed-doubles,10:05:00,12:05:00,,,1,usa,can
+6,curling-mixed-doubles,14:35:00,16:35:00,,,1,cze,usa
+6,curling-mixed-doubles,14:35:00,16:35:00,,,1,est,ita
+6,curling-mixed-doubles,14:35:00,16:35:00,,,1,kor,gbr
+6,curling-mixed-doubles,14:35:00,16:35:00,,,1,swe,nor
+6,figure-skarting-team-event,09:55:00,11:00:00,Ice Dance Rhythm,,,,
+6,figure-skarting-team-event,11:35:00,13:00:00,Pair Short Program,,,,
+6,figure-skarting-team-event,13:35:00,15:00:00,Women Short Program,,,,
+6,ice-hockey-women,12:10:00,13:40:00,,,1,fra,jpn
+6,ice-hockey-women,14:40:00,16:10:00,,,1,cze,sui
