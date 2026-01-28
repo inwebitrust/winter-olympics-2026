@@ -329,13 +329,15 @@ export default function CalendarPage() {
         onDaySelect={handleDaySelect}
         onMethodologyClick={() => setIsMethodologyModalOpen(true)}
         showAllDays={false}
+        activePage="calendar"
+        disciplins={disciplins}
       />
       <MethodologyModal
         isOpen={isMethodologyModalOpen}
         onClose={() => setIsMethodologyModalOpen(false)}
       />
       {/* Spacer for fixed header */}
-      <div className="h-[89px] flex-shrink-0"></div>
+      <div className="h-[125px] flex-shrink-0"></div>
       <div className="flex flex-1 relative">
         {isSidebarOpen && (
           <div
@@ -393,14 +395,25 @@ export default function CalendarPage() {
 
             if (sessionEvts.length === 0) return null;
 
+            // Sort events by display time for single-column layout
+            const sortedSessionEvts = [...sessionEvts].sort((a, b) => {
+              const timeA = useLocalTime 
+                ? convertItalyTimeToLocal(a.time_begin, a.day) 
+                : a.time_begin;
+              const timeB = useLocalTime 
+                ? convertItalyTimeToLocal(b.time_begin, b.day) 
+                : b.time_begin;
+              return timeA.localeCompare(timeB);
+            });
+
             return (
               <div key={session.name} className="mb-8">
                 <h2 className="text-xl font-bold text-gray-700 mb-4 border-b pb-2">
                   {session.name}
                 </h2>
 
-                {/* Grid container */}
-                <div className="calendar-grid relative">
+                {/* Grid layout for large screens (>1280px) */}
+                <div className="calendar-grid-desktop hidden xl:block">
                   {/* Sports header row */}
                   <div className="flex border-b border-gray-300 mb-2">
                     <div className="w-16 flex-shrink-0 text-xs font-semibold text-gray-500 p-2">
@@ -449,6 +462,7 @@ export default function CalendarPage() {
                                   athletes={athletes}
                                   selectedCountries={filters.selectedCountries}
                                   useLocalTime={useLocalTime}
+                                  showSport={false}
                                 />
                               ))}
                             </div>
@@ -456,6 +470,21 @@ export default function CalendarPage() {
                         })}
                       </div>
                     </div>
+                  ))}
+                </div>
+
+                {/* Single-column layout for small screens (<=1280px) */}
+                <div className="calendar-grid-mobile xl:hidden space-y-1">
+                  {sortedSessionEvts.map((event, idx) => (
+                    <EventCard
+                      key={idx}
+                      event={event}
+                      disciplins={disciplins}
+                      athletes={athletes}
+                      selectedCountries={filters.selectedCountries}
+                      useLocalTime={useLocalTime}
+                      showSport={true}
+                    />
                   ))}
                 </div>
               </div>
@@ -513,13 +542,15 @@ function EventCard({
   disciplins, 
   athletes, 
   selectedCountries,
-  useLocalTime
+  useLocalTime,
+  showSport = false
 }: { 
   event: Event; 
   disciplins: Disciplin[]; 
   athletes: Athlete[];
   selectedCountries: string[];
   useLocalTime: boolean;
+  showSport?: boolean;
 }) {
   const [showFavorites, setShowFavorites] = useState(false);
   
@@ -605,6 +636,7 @@ function EventCard({
             e.currentTarget.style.display = "none";
           }}
         />
+        {showSport && <span className="text-gray-500 font-normal">{sport} -</span>}
         <span className="truncate">{disciplinName}</span>
       </div>
       <div className="text-gray-500 truncate">

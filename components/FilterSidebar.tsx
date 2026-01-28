@@ -22,7 +22,7 @@ export default function FilterSidebar({
   onToggle,
 }: FilterSidebarProps) {
   return (
-    <aside className={`filter-sidebar z-10 fixed top-[89px] left-0 w-64 bg-white border-r border-gray-200 p-6 h-[calc(100vh-89px)] overflow-y-auto flex flex-col ${isOpen ? 'sidebar-open' : ''}`}>
+    <aside className={`filter-sidebar z-10 fixed top-[125px] left-0 w-64 bg-white border-r border-gray-200 p-6 h-[calc(100vh-125px)] overflow-y-auto flex flex-col ${isOpen ? 'sidebar-open' : ''}`}>
       <button
         onClick={onToggle}
         className={`burger-button hidden ${isOpen ? 'open' : ''}`}

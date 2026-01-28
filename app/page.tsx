@@ -213,13 +213,15 @@ export default function Home() {
         selectedDay={filters.selectedDay}
         onDaySelect={handleDaySelect}
         onMethodologyClick={() => setIsMethodologyModalOpen(true)}
+        activePage="home"
+        disciplins={disciplins}
       />
       <MethodologyModal
         isOpen={isMethodologyModalOpen}
         onClose={() => setIsMethodologyModalOpen(false)}
       />
       {/* Spacer for fixed header */}
-      <div className="h-[89px] flex-shrink-0"></div>
+      <div className="h-[125px] flex-shrink-0"></div>
       <div className="flex flex-1 relative">
         {isSidebarOpen && (
           <div 

@@ -5,8 +5,10 @@ import { useParams } from "next/navigation";
 import Link from "next/link";
 import Flag from "@/components/Flag";
 import CalendarIcon from "@/components/CalendarIcon";
+import CalendarHeader from "@/components/CalendarHeader";
+import MethodologyModal from "@/components/MethodologyModal";
 import { chanceToNumber, getStars } from "@/lib/utils";
-import { Athlete, Disciplin, CalendarDay, ChanceCategory } from "@/types";
+import { Athlete, Disciplin, CalendarDay, ChanceCategory, Event } from "@/types";
 
 const chanceOrder: Record<ChanceCategory, number> = {
   "Big Favourite": 1,
@@ -16,6 +18,47 @@ const chanceOrder: Record<ChanceCategory, number> = {
   "Wildcard": 5,
 };
 
+// Convert sport name to slug for icon filename
+function sportToSlug(sport: string): string {
+  return sport
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, "-")
+    .replace(/[^a-z0-9-]/g, "");
+}
+
+// Convert disciplin_id to slug for background image
+function disciplinToSlug(disciplinId: string): string {
+  return disciplinId
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, "-")
+    .replace(/[^a-z0-9-]/g, "");
+}
+
+// Helper to format day number as full date (Winter Olympics 2026: Feb 6-22)
+function formatDayAsDate(dayNumber: string | null): string {
+  if (!dayNumber) return "";
+  
+  const day = parseInt(dayNumber, 10);
+  if (isNaN(day)) return `Day ${dayNumber}`;
+  
+  // Winter Olympics 2026 is in February, day number = date in February
+  const date = new Date(2026, 1, day); // Month is 0-indexed, so 1 = February
+  
+  const weekday = date.toLocaleDateString("en-US", { weekday: "long" });
+  const month = date.toLocaleDateString("en-US", { month: "long" });
+  
+  // Add ordinal suffix
+  const getOrdinal = (n: number) => {
+    const s = ["th", "st", "nd", "rd"];
+    const v = n % 100;
+    return n + (s[(v - 20) % 10] || s[v] || s[0]);
+  };
+  
+  return `${weekday}, ${month} ${getOrdinal(day)}`;
+}
+
 export default function DisciplinPage() {
   const params = useParams();
   const disciplinId = params?.disciplin_id as string;
@@ -23,7 +66,9 @@ export default function DisciplinPage() {
   const [athletes, setAthletes] = useState<Athlete[]>([]);
   const [disciplins, setDisciplins] = useState<Disciplin[]>([]);
   const [calendar, setCalendar] = useState<CalendarDay[]>([]);
+  const [events, setEvents] = useState<Event[]>([]);
   const [loading, setLoading] = useState(true);
+  const [isMethodologyModalOpen, setIsMethodologyModalOpen] = useState(false);
 
   useEffect(() => {
     async function fetchData() {
@@ -33,6 +78,7 @@ export default function DisciplinPage() {
         setAthletes(data.athletes || []);
         setDisciplins(data.disciplins || []);
         setCalendar(data.calendar || []);
+        setEvents(data.events || []);
       } catch (error) {
         console.error("Error fetching data:", error);
       } finally {
@@ -98,6 +144,33 @@ export default function DisciplinPage() {
     }));
   }, [athletes, disciplinId, disciplin, calendar]);
 
+  // Get events for this discipline, sorted by day and time
+  const disciplinEvents = useMemo(() => {
+    if (!disciplinId) return [];
+    
+    return events
+      .filter(
+        (e) => String(e.disciplin_id || "").trim().toLowerCase() === 
+               String(disciplinId || "").trim().toLowerCase()
+      )
+      .sort((a, b) => {
+        // Sort by day first
+        const dayA = parseInt(a.day, 10) || 0;
+        const dayB = parseInt(b.day, 10) || 0;
+        if (dayA !== dayB) return dayA - dayB;
+        // Then by time
+        return (a.time_begin || "").localeCompare(b.time_begin || "");
+      });
+  }, [events, disciplinId]);
+
+  // Get days from calendar for the header
+  const days = useMemo(() => {
+    return calendar.map((c) => c.day).filter((d) => d);
+  }, [calendar]);
+
+  // Dummy handler for day select (not used on this page but required by CalendarHeader)
+  const handleDaySelect = () => {};
+
   if (loading) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gray-50">
@@ -127,26 +200,93 @@ export default function DisciplinPage() {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <div className="max-w-4xl mx-auto p-6">
-        {/* Header */}
-        <div className="mb-6">
-          <Link href="/" className="text-blue-600 hover:underline mb-4 inline-block">
-            ← Back to main page
-          </Link>
-          <h1 className="text-3xl font-bold text-gray-800 mb-2">{disciplin.name}</h1>
-          <div className="flex items-center gap-4 text-gray-700">
-            <span className="text-lg">Sport: {disciplin.sport}</span>
+      <CalendarHeader
+        days={days}
+        selectedDay={null}
+        onDaySelect={handleDaySelect}
+        onMethodologyClick={() => setIsMethodologyModalOpen(true)}
+        showAllDays={false}
+        activePage="sports"
+        disciplins={disciplins}
+      />
+      <MethodologyModal
+        isOpen={isMethodologyModalOpen}
+        onClose={() => setIsMethodologyModalOpen(false)}
+      />
+      {/* Spacer for fixed header */}
+      <div className="h-[125px] flex-shrink-0"></div>
+      
+      {/* Disciplin Header with background image */}
+      <div 
+        className="disciplin-head w-full relative bg-cover bg-no-repeat"
+        style={{
+          backgroundImage: `linear-gradient(to bottom, rgba(0,0,0,0.4), rgba(0,0,0,0.6)), url('/disciplins/${disciplinToSlug(disciplin.disciplin_id)}.png')`,
+          backgroundPosition: '50% top',
+          minHeight: '200px',
+        }}
+      >
+        <div className="max-w-4xl mx-auto p-6 flex flex-col justify-end h-full min-h-[200px]">
+          <h1 className="text-3xl font-bold text-white mb-2 drop-shadow-lg">{disciplin.name}</h1>
+          <div className="flex items-center gap-4 text-white flex-wrap">
+            <div className="flex items-center gap-2">
+              <img
+                src={`/icons/${sportToSlug(disciplin.sport)}.svg`}
+                alt={disciplin.sport}
+                className="w-6 h-6 object-contain brightness-0 invert"
+                onError={(e) => {
+                  e.currentTarget.style.display = "none";
+                }}
+              />
+              <span className="text-lg drop-shadow">{disciplin.sport}</span>
+            </div>
             {day && (
               <div className="flex items-center gap-2">
-                <span>Date:</span>
                 <CalendarIcon day={day} />
-                <span>Day {day}</span>
+                <span className="drop-shadow">{formatDayAsDate(day)}</span>
               </div>
             )}
           </div>
         </div>
+      </div>
+
+      <div className="max-w-4xl mx-auto p-6">
+        {/* Events/Schedule */}
+        {disciplinEvents.length > 0 && (
+          <div className="mb-8">
+            <h2 className="text-xl font-bold text-gray-800 mb-4">Schedule</h2>
+            <div className="space-y-2">
+              {disciplinEvents.map((event, index) => (
+                <div 
+                  key={index}
+                  className={`event-card rounded-lg px-4 py-3 border ${
+                    event.is_medal === "1" 
+                      ? "bg-yellow-50 border-yellow-300" 
+                      : "bg-white border-gray-200"
+                  }`}
+                >
+                  <div className="flex items-center gap-3 flex-wrap">
+                    <div className="flex items-center gap-2">
+                      <CalendarIcon day={event.day} />
+                      <span className="text-sm text-gray-600">{formatDayAsDate(event.day)}</span>
+                    </div>
+                    <span className="text-sm font-medium text-gray-800">
+                      {event.time_begin}
+                      {event.desc && ` | ${event.desc}`}
+                    </span>
+                    {event.is_medal === "1" && (
+                      <span className="text-xs font-semibold text-yellow-700 bg-yellow-100 px-2 py-0.5 rounded">
+                        🏅 Medal Event
+                      </span>
+                    )}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
 
         {/* Athletes List */}
+        <h2 className="text-xl font-bold text-gray-800">Medal Favorites</h2>
         <div className="space-y-2">
           {disciplinAthletes.map((athlete, index) => {
             const showCategoryHeader = currentCategory !== athlete.chance;
@@ -177,7 +317,7 @@ export default function DisciplinPage() {
                   {/* First line: flag - name */}
                   <div className="athlete-name-line flex items-center gap-2 pr-16">
                     <Flag country={athlete.country} className="athlete-flag w-4 h-4 object-cover rounded flex-shrink-0" />
-                    <span className="athlete-name font-semibold text-base">
+                    <span className="athlete-name font-semibold text-base text-gray-900">
                       {athlete.firstname} {athlete.lastname}
                     </span>
                   </div>

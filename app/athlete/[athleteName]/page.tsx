@@ -5,6 +5,8 @@ import { useParams } from "next/navigation";
 import Link from "next/link";
 import Flag from "@/components/Flag";
 import CalendarIcon from "@/components/CalendarIcon";
+import CalendarHeader from "@/components/CalendarHeader";
+import MethodologyModal from "@/components/MethodologyModal";
 import { chanceToNumber, getStars } from "@/lib/utils";
 import { parseAthleteSlug } from "@/lib/slug";
 import { Athlete, Disciplin, CalendarDay, ChanceCategory } from "@/types";
@@ -25,6 +27,7 @@ export default function AthletePage() {
   const [disciplins, setDisciplins] = useState<Disciplin[]>([]);
   const [calendar, setCalendar] = useState<CalendarDay[]>([]);
   const [loading, setLoading] = useState(true);
+  const [isMethodologyModalOpen, setIsMethodologyModalOpen] = useState(false);
 
   useEffect(() => {
     async function fetchData() {
@@ -106,6 +109,14 @@ export default function AthletePage() {
     return disciplinEntries;
   }, [athleteData, athletes, disciplins, calendar]);
 
+  // Get days from calendar for the header
+  const days = useMemo(() => {
+    return calendar.map((c) => c.day).filter((d) => d);
+  }, [calendar]);
+
+  // Dummy handler for day select (not used on this page but required by CalendarHeader)
+  const handleDaySelect = () => {};
+
   if (loading) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gray-50">
@@ -135,10 +146,25 @@ export default function AthletePage() {
 
   return (
     <div className="min-h-screen bg-gray-50">
+      <CalendarHeader
+        days={days}
+        selectedDay={null}
+        onDaySelect={handleDaySelect}
+        onMethodologyClick={() => setIsMethodologyModalOpen(true)}
+        showAllDays={false}
+        activePage="sports"
+        disciplins={disciplins}
+      />
+      <MethodologyModal
+        isOpen={isMethodologyModalOpen}
+        onClose={() => setIsMethodologyModalOpen(false)}
+      />
+      {/* Spacer for fixed header */}
+      <div className="h-[125px] flex-shrink-0"></div>
       <div className="max-w-4xl mx-auto p-6">
-        {/* Header */}
+        {/* Page Header */}
         <div className="mb-6">
-          <Link href="/" className="text-blue-600 hover:underline mb-4 inline-block">
+          <Link href="/" className="text-[#014a5c] hover:underline mb-4 inline-block">
             ← Back to main page
           </Link>
           <div className="flex items-center gap-3 mb-4">

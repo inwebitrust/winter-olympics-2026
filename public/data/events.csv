@@ -45,8 +45,8 @@ day,disciplin_id,time_begin,time_end,desc,is_medal,is_game,team_1,team_2
 8,figure-skarting-team-event,19:30:00,20:30:00,Pair Free,,,,
 8,figure-skarting-team-event,20:45:00,21:50:00,Women Free,,,,
 8,figure-skarting-team-event,21:55:00,22:55:00,Men Free,1,,,
-8,ice-hockey-women,16:40:00,19:10:00,,,1,fra,swe
-8,ice-hockey-women,21:10:00,22:40:00,,,1,cze,fin
+8,ice-hockey-women,16:40:00,19:10:00,Prelim. Round,,1,fra,swe
+8,ice-hockey-women,21:10:00,22:40:00,Prelim. Round,,1,cze,fin
 8,luge-singles-men,17:00:00,18:00:00,Run 3,,,,
 8,luge-singles-men,18:34:00,19:34:00,Run 4,1,,,
 8,snowboarding-slalom-women,09:00:00,10:00:00,Qualification Run,,,,
@@ -75,10 +75,10 @@ day,disciplin_id,time_begin,time_end,desc,is_medal,is_game,team_1,team_2
 5,curling-mixed-doubles,19:05:00,21:05:00,,,1,sui,kor
 5,curling-mixed-doubles,19:05:00,21:05:00,,,1,est,swe
 5,curling-mixed-doubles,19:05:00,21:05:00,,,1,cze,gbr
-5,ice-hockey-women,12:10:00,13:40:00,,,1,swe,ger
-5,ice-hockey-women,14:40:00,16:10:00,,,1,ita,fra
-5,ice-hockey-women,16:40:00,18:10:00,,,1,usa,cze
-5,ice-hockey-women,21:10:00,22:40:00,,,1,fin,can
+5,ice-hockey-women,12:10:00,13:40:00,Prelim. Round,,1,swe,ger
+5,ice-hockey-women,14:40:00,16:10:00,Prelim. Round,,1,ita,fra
+5,ice-hockey-women,16:40:00,18:10:00,Prelim. Round,,1,usa,cze
+5,ice-hockey-women,21:10:00,22:40:00,Prelim. Round,,1,fin,can
 5,snowboarding-bigair-men,19:30:00,20:10:00,Qualification Run 1,,,,
 5,snowboarding-bigair-men,20:15:00,20:50:00,Qualification Run 2,,,,
 5,snowboarding-bigair-men,21:00:00,22:00:00,Qualification Run 3,,,,
@@ -92,5 +92,399 @@ day,disciplin_id,time_begin,time_end,desc,is_medal,is_game,team_1,team_2
 6,figure-skarting-team-event,09:55:00,11:00:00,Ice Dance Rhythm,,,,
 6,figure-skarting-team-event,11:35:00,13:00:00,Pair Short Program,,,,
 6,figure-skarting-team-event,13:35:00,15:00:00,Women Short Program,,,,
-6,ice-hockey-women,12:10:00,13:40:00,,,1,fra,jpn
-6,ice-hockey-women,14:40:00,16:10:00,,,1,cze,sui
+6,ice-hockey-women,12:10:00,13:40:00,Prelim. Round,,1,fra,jpn
+6,ice-hockey-women,14:40:00,16:10:00,Prelim. Round,,1,cze,sui
+9,alpine-skiing-team-combined-men,10:30:00,11:30:00,Downhill,,,,
+9,alpine-skiing-team-combined-men,14:00:00,15:00:00,Slalom,1,,,
+9,curling-mixed-doubles,10:05:00,12:05:00,,,1,sui,can
+9,curling-mixed-doubles,10:05:00,12:05:00,,,1,ita,usa
+9,curling-mixed-doubles,10:05:00,12:05:00,,,1,nor,kor
+9,curling-mixed-doubles,10:05:00,12:05:00,,,1,cze,est
+9,curling-mixed-doubles,18:05:00,20:05:00,Semi-final,,,,
+9,curling-mixed-doubles,18:05:00,20:05:00,Semi-final,,,,
+9,figure-skating-ice-dance,19:20:00,20:30:00,Ice Dance Rhythm,,,,
+9,freeski-slopestyle-women,12:30:00,13:00:00,Final Run 1,,,,
+9,freeski-slopestyle-women,13:00:00,13:25:00,Final Run 2,,,,
+9,freeski-slopestyle-women,13:28:00,14:00:00,Final Run 3,1,,,
+9,ice-hockey-women,12:10:00,13:40:00,Prelim. Round,,1,jpn,ita
+9,ice-hockey-women,16:40:00,18:10:00,Prelim. Round,,1,ger,fra
+9,ice-hockey-women,20:40:00,22:10:00,Prelim. Round,,1,sui,usa
+9,ice-hockey-women,21:10:00,22:40:00,Prelim. Round,,1,can,cze
+9,luge-singles-women,17:00:00,18:00:00,Run 1,,,,
+9,luge-singles-women,18:35:00,19:35:00,Run 2,,,,
+9,ski-jumping-normal-hill-men,19:00:00,20:00:00,1st Round,,,,
+9,ski-jumping-normal-hill-men,20:12:00,21:12:00,Final Round,1,,,
+9,snowboarding-bigair-women,19:30:00,19:50:00,Final Run 1,,,,
+9,snowboarding-bigair-women,19:53:00,20:15:00,Final Run 2,,,,
+9,snowboarding-bigair-women,20:17:00,20:30:00,Final Run 3,1,,,
+9,speedskating-1000m-women,17:30:00,18:30:00,Final,1,,,
+10,alpine-skiing-team-combined-women,10:30:00,11:30:00,Downhill,,,,
+10,alpine-skiing-team-combined-women,14:00:00,15:00:00,Slalom,1,,,
+10,biathlon-individual-men,13:30:00,15:00:00,Final,1,,,
+10,crosscountry-skiing-sprint-classic-women,09:15:00,09:50:00,Qualification,,,,
+10,crosscountry-skiing-sprint-classic-men,09:55:00,10:50:00,Qualification,,,,
+10,crosscountry-skiing-sprint-classic-women,11:45:00,12:10:00,1/4 Finals,,,,
+10,crosscountry-skiing-sprint-classic-men,12:15:00,12:40:00,1/4 Finals,,,,
+10,crosscountry-skiing-sprint-classic-women,12:45:00,12:55:00,Semifinals,,,,
+10,crosscountry-skiing-sprint-classic-men,12:57:00,13:10:00,Semifinals,,,,
+10,crosscountry-skiing-sprint-classic-women,13:13:00,13:20:00,Final,1,,,
+10,crosscountry-skiing-sprint-classic-men,13:25:00,13:35:00,Final,1,,,
+10,curling-mixed-doubles,14:05:00,16:05:00,Bronze Medal Game,1,,,
+10,curling-mixed-doubles,18:05:00,20:05:00,Gold Medal Game,1,,,
+10,figure-skarting-single-men,18:30:00,20:00:00,Short Program,,,,
+10,moguls-men,11:15:00,12:15:00,Qualification 1,,,,
+10,moguls-women,14:15:00,15:00:00,Qualification 1,,,,
+10,freeski-slopestyle-men,12:30:00,12:55:00,Final Run 1,,,,
+10,freeski-slopestyle-men,12:59:00,13:25:00,Final Run 2,,,,
+10,freeski-slopestyle-men,13:28:00,14:00:00,Final Run 3,1,,,
+10,ice-hockey-women,12:10:00,13:40:00,Prelim. Round,,1,jpn,swe
+10,ice-hockey-women,16:40:00,18:10:00,Prelim. Round,,1,ita,ger
+10,ice-hockey-women,20:10:00,21:40:00,Prelim. Round,,1,can,usa
+10,ice-hockey-women,21:10:00,22:40:00,Prelim. Round,,1,fin,sui
+10,luge-singles-women,17:00:00,18:00:00,Run 3,,,,
+10,luge-singles-women,18:34:00,19:30:00,Run 4,1,,,
+10,short-track-500m-women,10:30:00,11:00:00,Heats,,,,
+10,short-track-1000m-men,11:08:00,11:50:00,Heats,,,,
+10,short-track-mixed-team-relay,11:53:00,12:20:00,1/4 Finals,,,,
+10,short-track-mixed-team-relay,12:23:00,12:45:00,Semifinals,,,,
+10,short-track-mixed-team-relay,12:56:00,13:05:00,Final,1,,,
+10,ski-jumping-mixed-team,18:45:00,19:45:00,1st Round,,,,
+10,ski-jumping-mixed-team,20:00:00,21:00:00,Final Round,1,,,
+11,alpine-skiing-superg-men,11:30:00,12:30:00,Final,1,,,
+11,biathlon-individual-women,14:15:00,15:30:00,Final,1,,,
+11,curling-team-men,19:05:00,21:05:00,Round Robin,,1,swe,ita
+11,curling-team-men,19:05:00,21:05:00,Round Robin,,1,can,ger
+11,curling-team-men,19:05:00,21:05:00,Round Robin,,1,cze,usa
+11,curling-team-men,19:05:00,21:05:00,Round Robin,,1,chn,gbr
+11,figure-skating-ice-dance,19:30:00,21:00:00,Free Dance,1,,,
+11,moguls-women,11:00:00,12:00:00,Qualification 2,,,,
+11,moguls-women,14:15:00,14:50:00,Final 1,,,,
+11,moguls-women,14:55:00,15:30:00,Final 2,1,,,
+11,ice-hockey-men,16:40:00,18:10:00,Prelim. Round,,1,svk,fin
+11,ice-hockey-men,21:10:00,22:40:00,Prelim. Round,,1,swe,ita
+11,luge-doubles-women,17:00:00,17:45:00,Run 1,,,,
+11,luge-doubles-men,17:51:00,18:40:00,Run 1,,,,
+11,luge-doubles-women,18:53:00,19:35:00,Run 2,,,,
+11,luge-doubles-men,19:44:00,20:30:00,Run 2,,,,
+11,nordic-combined-normal-hill,10:00:00,11:30:00,Ski Jumping,,,,
+11,nordic-combined-normal-hill,13:45:00,15:00:00,10km Cross-Country,1,,,
+11,snowboarding-halfpipe-women,10:30:00,11:20:00,Qualification Run 1,,,,
+11,snowboarding-halfpipe-women,11:27:00,12:10:00,Qualification Run 2,,,,
+11,snowboarding-halfpipe-men,19:30:00,20:20:00,Qualification Run 1,,,,
+11,snowboarding-halfpipe-men,20:27:00,21:10:00,Qualification Run 2,,,,
+11,speedskating-1000m-men,18:30:00,20:00:00,Final,1,,,
+12,alpine-skiing-superg-women,11:30:00,12:30:00,Final,1,,,
+12,crosscountry-skiing-10km-free-women,13:00:00,14:30:00,Final,1,,,
+12,curling-team-men,14:05:00,16:05:00,Round Robin,,1,nor,ger
+12,curling-team-men,14:05:00,16:05:00,Round Robin,,1,usa,sui
+12,curling-team-men,14:05:00,16:05:00,Round Robin,,1,gbr,swe
+12,curling-team-women,09:05:00,11:05:00,Round Robin,,1,kor,usa
+12,curling-team-women,09:05:00,11:05:00,Round Robin,,1,jpn,swe
+12,curling-team-women,09:05:00,11:05:00,Round Robin,,1,ita,sui
+12,curling-team-women,09:05:00,11:05:00,Round Robin,,1,can,den
+12,curling-team-women,19:05:00,21:05:00,Round Robin,,1,chn,gbr
+12,curling-team-women,19:05:00,21:05:00,Round Robin,,1,ita,kor
+12,curling-team-women,19:05:00,21:05:00,Round Robin,,1,den,jpn
+12,curling-team-women,19:05:00,21:05:00,Round Robin,,1,swe,usa
+12,moguls-men,10:00:00,11:00:00,Qualification 2,,,,
+12,moguls-men,12:15:00,12:50:00,Final 1,,,,
+12,moguls-men,12:55:00,13:30:00,Final 2,1,,,
+12,ice-hockey-men,12:10:00,13:40:00,Prelim. Round,,1,sui,fra
+12,ice-hockey-men,16:40:00,18:10:00,Prelim. Round,,1,cze,can
+12,ice-hockey-men,21:10:00,22:40:00,Prelim. Round,,1,lat,usa
+12,ice-hockey-men,21:10:00,22:40:00,Prelim. Round,,1,ger,den
+12,luge-team-relay,18:30:00,19:30:00,Final,1,,,
+12,short-track-500m-women,20:15:00,20:25:00,1/4 Finals,,,,
+12,short-track-500m-women,20:58:00,21:05:00,Semifinals,,,,
+12,short-track-500m-women,21:31:00,21:35:00,Final,1,,,
+12,short-track-1000m-men,20:29:00,20:50:00,1/4 Finals,,,,
+12,short-track-1000m-men,21:05:00,21:20:00,Semifinals,,,,
+12,short-track-1000m-men,21:43:00,22:00:00,Final,1,,,
+12,skeleton-men,09:30:00,10:30:00,Heat 1,,,,
+12,skeleton-men,11:08:00,12:30:00,Heat 2,,,,
+12,snowboard-cross-men,10:00:00,12:00:00,Seeding Run 1 & 2,,,,
+12,snowboard-cross-men,13:45:00,14:30:00,1/8 & 1/4 Finals,,,,
+12,snowboard-cross-men,14:39:00,14:55:00,Semifinals,,,,
+12,snowboard-cross-men,15:01:00,15:05:00,Final,1,,,
+12,snowboarding-halfpipe-women,19:30:00,19:55:00,Final Run 1,,,,
+12,snowboarding-halfpipe-women,19:59:00,20:25:00,Final Run 2,,,,
+12,snowboarding-halfpipe-women,20:28:00,21:00:00,Final Run 3,1,,,
+12,speedskating-5000m-women,16:30:00,18:00:00,Final,1,,,
+13,biathlon-sprint-men,14:00:00,15:00:00,Final,1,,,
+13,crosscountry-skiing-10km-free-men,11:45:00,13:00:00,Final,1,,,
+13,curling-team-men,09:05:00,11:05:00,Round Robin,,1,can,usa
+13,curling-team-men,09:05:00,11:05:00,Round Robin,,1,gbr,ita
+13,curling-team-men,09:05:00,11:05:00,Round Robin,,1,chn,nor
+13,curling-team-men,09:05:00,11:05:00,Round Robin,,1,sui,cze
+13,curling-team-men,19:05:00,21:05:00,Round Robin,,1,sui,chn
+13,curling-team-men,19:05:00,21:05:00,Round Robin,,1,cze,nor
+13,curling-team-men,19:05:00,21:05:00,Round Robin,,1,ger,ita
+13,curling-team-men,19:05:00,21:05:00,Round Robin,,1,can,swe
+13,curling-team-women,14:05:00,16:05:00,Round Robin,,1,den,swe
+13,curling-team-women,14:05:00,16:05:00,Round Robin,,1,chn,sui
+13,curling-team-women,14:05:00,16:05:00,Round Robin,,1,usa,can
+13,curling-team-women,14:05:00,16:05:00,Round Robin,,1,gbr,kor
+13,figure-skarting-single-men,19:00:00,21:00:00,Free Skating,1,,,
+13,ice-hockey-men,12:10:00,13:40:00,Prelim. Round,,1,fin,swe
+13,ice-hockey-men,12:10:00,13:40:00,Prelim. Round,,1,ita,svk
+13,ice-hockey-men,16:40:00,18:10:00,Prelim. Round,,1,fra,cze
+13,ice-hockey-men,21:10:00,22:40:00,Prelim. Round,,1,can,sui
+13,ice-hockey-women,16:40:00,18:10:00,Quarterfinal,,,,
+13,ice-hockey-women,21:10:00,22:40:00,Quarterfinal,,,,
+13,skeleton-men,19:30:00,20:50:00,Heat 3,,,,
+13,skeleton-men,21:05:00,22:00:00,Heat 4,1,,,
+13,skeleton-women,16:00:00,17:00:00,Heat 1,,,,
+13,skeleton-women,17:48:00,18:50:00,Heat 2,,,,
+13,snowboard-cross-women,10:00:00,12:00:00,Seeding Run 1 & 2,,,,
+13,snowboard-cross-women,13:30:00,14:20:00,1/8 & 1/4 Finals,,,,
+13,snowboard-cross-women,14:24:00,14:40:00,Semifinals,,,,
+13,snowboard-cross-women,14:46:00,14:55:00,Final,1,,,
+13,snowboarding-halfpipe-men,19:30:00,19:55:00,Final Run 1,,,,
+13,snowboarding-halfpipe-men,19:59:00,20:25:00,Final Run 2,,,,
+13,snowboarding-halfpipe-men,20:28:00,21:00:00,Final Run 3,1,,,
+13,speedskating-10000m-men,16:00:00,17:30:00,Final,1,,,
+14,alpine-skiing-giant-slalom-men,10:00:00,11:30:00,Run 1,,,,
+14,alpine-skiing-giant-slalom-men,13:30:00,15:00:00,Run 2,1,,,
+14,biathlon-sprint-women,14:45:00,16:00:00,Final,1,,,
+14,crosscountry-skiing-relay-women,12:00:00,13:30:00,Final,1,,,
+14,curling-team-women,09:05:00,11:05:00,Round Robin,,1,ita,chn
+14,curling-team-women,09:05:00,11:05:00,Round Robin,,1,gbr,can
+14,curling-team-women,09:05:00,11:05:00,Round Robin,,1,sui,jpn
+14,curling-team-men,14:05:00,16:05:00,Round Robin,,1,cze,gbr
+14,curling-team-men,14:05:00,16:05:00,Round Robin,,1,swe,chn
+14,curling-team-men,14:05:00,16:05:00,Round Robin,,1,sui,can
+14,curling-team-men,14:05:00,16:05:00,Round Robin,,1,ger,usa
+14,curling-team-women,19:05:00,21:05:00,Round Robin,,1,can,sui
+14,curling-team-women,19:05:00,21:05:00,Round Robin,,1,jpn,usa
+14,curling-team-women,19:05:00,21:05:00,Round Robin,,1,kor,den
+14,curling-team-women,19:05:00,21:05:00,Round Robin,,1,ita,swe
+14,dual-moguls-women,10:30:00,11:30:00,1/16 & 1/8 & 1/4 Finals,,,,
+14,dual-moguls-women,11:35:00,11:45:00,Semifinals,,,,
+14,dual-moguls-women,11:46:00,11:50:00,Finals,1,,,
+14,freeski-bigair-women,19:30:00,20:10:00,Qualification Run 1,,,,
+14,freeski-bigair-women,20:15:00,21:00:00,Qualification Run 2,,,,
+14,freeski-bigair-women,21:00:00,21:45:00,Qualification Run 3,1,,,
+14,ice-hockey-men,12:10:00,13:40:00,Prelim. Round,,1,swe,svk
+14,ice-hockey-men,12:10:00,13:40:00,Prelim. Round,,1,ger,lat
+14,ice-hockey-men,16:40:00,18:10:00,Prelim. Round,,1,fin,ita
+14,ice-hockey-women,16:40:00,18:10:00,Quarterfinal,,,,
+14,ice-hockey-women,21:10:00,22:40:00,Quarterfinal,,,,
+14,ice-hockey-men,21:10:00,22:40:00,Prelim. Round,,1,usa,den
+14,short-track-1500m-men,20:15:00,20:50:00,1/4 Finals,,,,
+14,short-track-1000m-women,20:59:00,21:40:00,Heats,,,,
+14,short-track-1500m-men,21:44:00,22:00:00,Semifinals,,,,
+14,short-track-relay-women,22:00:00,22:25:00,Semifinals,,,,
+14,short-track-1500m-men,22:34:00,22:40:00,Final,1,,,
+14,skeleton-women,18:00:00,19:00:00,Heat 3,,,,
+14,skeleton-women,19:44:00,20:44:00,Heat 4,1,,,
+14,ski-jumping-large-hill-men,18:45:00,19:50:00,1st Round,,,,
+14,ski-jumping-large-hill-men,19:57:00,21:00:00,Final Round,1,,,
+14,speedskating-team-pursuit-women,16:00:00,17:00:00,1/4 Finals,,,,
+14,speedskating-500m-men,17:00:00,18:00:00,Final,1,,,
+15,alpine-skiing-giant-slalom-women,10:00:00,11:00:00,Run 1,,,,
+15,alpine-skiing-giant-slalom-women,13:30:00,14:30:00,Run 2,1,,,
+15,biathlon-pursuit-men,11:15:00,13:00:00,Final,1,,,
+15,biathlon-pursuit-women,14:45:00,16:00:00,Final,1,,,
+15,bobsled-monobob-women,10:00:00,11:30:00,Heat 1,,,,
+15,bobsled-monobob-women,11:50:00,13:30:00,Heat 2,,,,
+15,crosscountry-skiing-relay-men,12:00:00,13:30:00,Final,1,,,
+15,curling-team-men,09:05:00,11:05:00,Round Robin,,1,usa,swe
+15,curling-team-men,09:05:00,11:05:00,Round Robin,,1,ger,gbr
+15,curling-team-men,09:05:00,11:05:00,Round Robin,,1,nor,ita
+15,curling-team-women,14:05:00,16:05:00,Round Robin,,1,jpn,kor
+15,curling-team-women,14:05:00,16:05:00,Round Robin,,1,den,ita
+15,curling-team-women,14:05:00,16:05:00,Round Robin,,1,gbr,swe
+15,curling-team-women,14:05:00,16:05:00,Round Robin,,1,usa,chn
+15,curling-team-men,19:05:00,21:05:00,Round Robin,,1,chn,can
+15,curling-team-men,19:05:00,21:05:00,Round Robin,,1,nor,usa
+15,curling-team-men,19:05:00,21:05:00,Round Robin,,1,ita,cze
+15,curling-team-men,19:05:00,21:05:00,Round Robin,,1,gbr,sui
+15,figure-skating-pair,19:45:00,21:30:00,Short Program,,,,
+15,dual-moguls-men,10:30:00,11:30:00,1/16 & 1/8 & 1/4 Finals,,,,
+15,dual-moguls-men,11:35:00,11:45:00,Semifinals,,,,
+15,dual-moguls-men,11:46:00,11:50:00,Finals,1,,,
+15,freeski-bigair-men,19:30:00,20:10:00,Qualification Run 1,,,,
+15,freeski-bigair-men,20:15:00,21:00:00,Qualification Run 2,,,,
+15,freeski-bigair-men,21:00:00,21:45:00,Qualification Run 3,,,,
+15,ice-hockey-men,12:10:00,13:40:00,Prelim. Round,,1,sui,cze
+15,ice-hockey-men,16:40:00,18:10:00,Prelim. Round,,1,can,fra
+15,ice-hockey-men,19:10:00,20:40:00,Prelim. Round,,1,den,lat
+15,ice-hockey-men,21:10:00,22:40:00,Prelim. Round,,1,usa,ger
+15,skeleton-mixed-team,18:00:00,20:00:00,Final,1,,,
+15,ski-jumping-large-hill-women,18:45:00,19:50:00,1st Round,,,,
+15,ski-jumping-large-hill-women,19:57:00,21:00:00,Final Round,1,,,
+15,snowboard-cross-mixed-team,13:45:00,14:10:00,1/4 Finals,,,,
+15,snowboard-cross-mixed-team,14:15:00,14:30:00,Semifinals,,,,
+15,snowboard-cross-mixed-team,14:40:00,14:50:00,Final,1,,,
+15,speedskating-team-pursuit-men,16:00:00,17:00:00,1/4 Finals,,,,
+15,speedskating-500m-women,17:03:00,18:00:00,Final,1,,,
+16,alpine-skiing-slalom-men,10:00:00,11:30:00,Run 1,,,,
+16,alpine-skiing-slalom-men,13:30:00,14:30:00,Run 2,1,,,
+16,bobsled-2-men,10:00:00,11:30:00,Heat 1,,,,
+16,bobsled-2-men,11:57:00,13:00:00,Heat 2,,,,
+16,bobsled-monobob-women,19:00:00,20:30:00,Heat 3,,,,
+16,bobsled-monobob-women,21:06:00,22:00:00,Heat 4,1,,,
+16,curling-team-women,09:05:00,11:05:00,Round Robin,,1,swe,sui
+16,curling-team-women,09:05:00,11:05:00,Round Robin,,1,chn,can
+16,curling-team-women,09:05:00,11:05:00,Round Robin,,1,den,gbr
+16,curling-team-men,14:05:00,16:05:00,Round Robin,,1,gbr,nor
+16,curling-team-men,14:05:00,16:05:00,Round Robin,,1,cze,can
+16,curling-team-men,14:05:00,16:05:00,Round Robin,,1,swe,ger
+16,curling-team-men,14:05:00,16:05:00,Round Robin,,1,ita,chn
+16,curling-team-women,19:05:00,21:05:00,Round Robin,,1,usa,ita
+16,curling-team-women,19:05:00,21:05:00,Round Robin,,1,kor,chn
+16,curling-team-women,19:05:00,21:05:00,Round Robin,,1,sui,gbr
+16,curling-team-women,19:05:00,21:05:00,Round Robin,,1,jpn,can
+16,figure-skating-pair,20:00:00,21:30:00,Free Skating,1,,,
+16,freeski-bigair-women,19:30:00,19:50:00,Final Run 1,,,,
+16,freeski-bigair-women,19:53:00,20:15:00,Final Run 2,,,,
+16,freeski-bigair-women,20:17:00,20:30:00,Final Run 3,,,,
+16,ice-hockey-women,16:40:00,18:10:00,Semifinal,,,,
+16,ice-hockey-women,21:10:00,22:40:00,Semifinal,,,,
+16,short-track-1000m-women,11:00:00,11:15:00,1/4 Finals,,,,
+16,short-track-1000m-women,11:55:00,12:00:00,Semifinals,,,,
+16,short-track-1000m-women,12:42:00,12:50:00,Final,1,,,
+16,short-track-500m-men,11:18:00,11:50:00,Heats,,,,
+16,short-track-relay-men,12:04:00,12:30:00,Semifinals,,,,
+16,ski-jumping-men-team,19:00:00,20:10:00,1st & 2nd Round,,,,
+16,ski-jumping-men-team,20:20:00,21:00:00,Final Round,1,,,
+16,snowboarding-slopestyle-women,10:30:00,12:00:00,Qualification Run 1&2,,,,
+16,snowboarding-slopestyle-men,14:00:00,15:40:00,Qualification Run 1&2,,,,
+17,biathlon-relay-men,14:30:00,15:30:00,Final,1,,,
+17,bobsled-2-men,19:00:00,20:30:00,Heat 3,,,,
+17,bobsled-2-men,21:05:00,22:00:00,Heat 4,1,,,
+17,curling-team-men,09:05:00,11:05:00,Round Robin,,1,sui,swe
+17,curling-team-men,09:05:00,11:05:00,Round Robin,,1,usa,chn
+17,curling-team-men,09:05:00,11:05:00,Round Robin,,1,cze,ger
+17,curling-team-women,14:05:00,16:05:00,Round Robin,,1,swe,can
+17,curling-team-women,14:05:00,16:05:00,Round Robin,,1,ita,jpn
+17,curling-team-women,14:05:00,16:05:00,Round Robin,,1,den,usa
+17,curling-team-women,14:05:00,16:05:00,Round Robin,,1,kor,sui
+17,curling-team-men,19:05:00,21:05:00,Round Robin,,1,ger,sui
+17,curling-team-men,19:05:00,21:05:00,Round Robin,,1,usa,ita
+17,curling-team-men,19:05:00,21:05:00,Round Robin,,1,can,gbr
+17,curling-team-men,19:05:00,21:05:00,Round Robin,,1,swe,nor
+17,figure-skarting-single-women,18:45:00,21:00:00,Short Program,,,,
+17,aerials-women,10:45:00,12:30:00,Qualification 1&2,,,,
+17,aerials-men,13:30:00,15:00:00,Qualification 1&2,,,,
+17,freeski-bigair-men,19:30:00,19:50:00,Final Run 1,,,,
+17,freeski-bigair-men,19:53:00,20:15:00,Final Run 2,,,,
+17,freeski-bigair-men,20:17:00,20:40:00,Final Run 3,1,,,
+17,ice-hockey-men,12:10:00,13:40:00,Play-off,,,,
+17,ice-hockey-men,12:10:00,13:40:00,Play-off,,,,
+17,ice-hockey-men,16:40:00,18:10:00,Play-off,,,,
+17,ice-hockey-men,21:10:00,22:40:00,Play-off,,,,
+17,nordic-combined-large-hill,10:00:00,11:00:00,Ski Jumping,,,,
+17,nordic-combined-large-hill,13:45:00,15:00:00,10km Cross-Country,1,,,
+17,snowboarding-slopestyle-women,13:00:00,13:25:00,Final Run 1,,,,
+17,snowboarding-slopestyle-women,13:27:00,13:50:00,Final Run 2,,,,
+17,snowboarding-slopestyle-women,13:54:00,14:20:00,Final Run 3,1,,,
+17,speedskating-team-pursuit-men,14:30:00,14:50:00,Semifinals,,,,
+17,speedskating-team-pursuit-men,16:22:00,16:40:00,Finals,1,,,
+17,speedskating-team-pursuit-women,14:52:00,15:20:00,Semifinals,,,,
+17,speedskating-team-pursuit-women,16:41:00,16:50:00,Finals,1,,,
+18,alpine-skiing-slalom-women,10:00:00,11:00:00,Run 1,,,,
+18,alpine-skiing-slalom-women,13:30:00,14:30:00,Run 2,1,,,
+18,biathlon-relay-women,14:45:00,16:00:00,Final,1,,,
+18,crosscountry-skiing-team-sprint-women,09:45:00,10:10:00,Qualification,,,,
+18,crosscountry-skiing-team-sprint-women,11:45:00,12:15:00,Final,1,,,
+18,crosscountry-skiing-team-sprint-men,10:15:00,11:00:00,Qualification,,,,
+18,crosscountry-skiing-team-sprint-men,12:15:00,12:30:00,Final,1,,,
+18,curling-team-women,09:05:00,11:05:00,Round Robin,,1,chn,den
+18,curling-team-women,09:05:00,11:05:00,Round Robin,,1,usa,gbr
+18,curling-team-women,09:05:00,11:05:00,Round Robin,,1,swe,kor
+18,curling-team-men,14:05:00,16:05:00,Round Robin,,1,ita,can
+18,curling-team-men,14:05:00,16:05:00,Round Robin,,1,chn,cze
+18,curling-team-men,14:05:00,16:05:00,Round Robin,,1,nor,sui
+18,curling-team-men,14:05:00,16:05:00,Round Robin,,1,usa,gbr
+18,curling-team-women,19:05:00,21:05:00,Round Robin,,1,gbr,jpn
+18,curling-team-women,19:05:00,21:05:00,Round Robin,,1,sui,den
+18,curling-team-women,19:05:00,21:05:00,Round Robin,,1,can,ita
+18,curling-team-women,19:05:00,21:05:00,Round Robin,,1,chn,swe
+18,aerials-women,11:30:00,12:15:00,Final 1,,,,
+18,aerials-women,12:15:00,13:00:00,Final 2,1,,,
+18,ice-hockey-men,12:10:00,13:40:00,Quarterfinal,,,,
+18,ice-hockey-men,16:40:00,18:10:00,Quarterfinal,,,,
+18,ice-hockey-men,18:10:00,19:40:00,Quarterfinal,,,,
+18,ice-hockey-men,21:10:00,22:40:00,Quarterfinal,,,,
+18,short-track-500m-men,20:15:00,20:40:00,1/4 Finals,,,,
+18,short-track-500m-men,20:42:00,20:50:00,Semifinals,,,,
+18,short-track-500m-men,21:29:00,21:40:00,Final,1,,,
+18,short-track-relay-women,20:59:00,21:15:00,Final,1,,,
+18,snowboarding-slopestyle-men,12:30:00,12:55:00,Final Run 1,,,,
+18,snowboarding-slopestyle-men,12:59:00,13:25:00,Final Run 2,,,,
+18,snowboarding-slopestyle-men,13:28:00,14:00:00,Final Run 3,1,,,
+19,curling-team-men,09:05:00,11:05:00,Round Robin,,1,swe,cze
+19,curling-team-men,09:05:00,11:05:00,Round Robin,,1,ita,sui
+19,curling-team-men,09:05:00,11:05:00,Round Robin,,1,chn,ger
+19,curling-team-women,14:05:00,16:05:00,Round Robin,,1,sui,usa
+19,curling-team-women,14:05:00,16:05:00,Round Robin,,1,can,kor
+19,curling-team-women,14:05:00,16:05:00,Round Robin,,1,jpn,chn
+19,curling-team-women,14:05:00,16:05:00,Round Robin,,1,gbr,ita
+19,curling-team-men,19:05:00,21:05:00,Semifinal,,,,
+19,curling-team-men,19:05:00,21:05:00,Semifinal,,,,
+19,curling-team-men,09:05:00,11:05:00,Round Robin,,1,nor,can
+19,figure-skarting-single-women,19:00:00,20:30:00,Free Skating,1,,,
+19,freeski-halfpipe-men,10:30:00,12:00:00,Qualification Run 1&2,,,,
+19,aerials-men,11:30:00,12:15:00,Final 1,,,,
+19,aerials-men,12:30:00,13:15:00,Final 2,1,,,
+19,freeski-halfpipe-women,19:30:00,21:00:00,Qualification Run 1&2,,,,
+19,ice-hockey-women,14:40:00,16:10:00,Bronze Medal Game,1,,,
+19,ice-hockey-women,19:10:00,20:40:00,Gold Medal Game,1,,,
+19,nordic-combined-team-sprint,10:00:00,11:30:00,Ski Jumping,,,,
+19,nordic-combined-team-sprint,14:00:00,15:30:00,Cross-Country,1,,,
+19,ski-mountaineering-sprint-women,09:50:00,10:20:00,Heats,,,,
+19,ski-mountaineering-sprint-men,10:30:00,11:00:00,Heats,,,,
+19,ski-mountaineering-sprint-women,12:55:00,13:20:00,Semifinals,,,,
+19,ski-mountaineering-sprint-men,13:25:00,13:50:00,Semifinals,,,,
+19,ski-mountaineering-sprint-women,13:55:00,14:10:00,Final,1,,,
+19,ski-mountaineering-sprint-men,14:15:00,14:30:00,Final,1,,,
+19,speedskating-1500m-men,16:30:00,17:30:00,Final,1,,,
+20,biathlon-mass-start-men,14:15:00,15:30:00,Final,1,,,
+20,bobsled-2-women,18:00:00,19:30:00,Heat 1,,,,
+20,bobsled-2-women,19:50:00,21:00:00,Heat 2,,,,
+20,curling-team-women,14:05:00,16:05:00,Semifinal,,,,
+20,curling-team-women,14:05:00,16:05:00,Semifinal,,,,
+20,curling-team-men,19:05:00,21:05:00,Bronze Medal Game,1,,,
+20,skicross-women,10:00:00,11:00:00,Seeding Run,,,,
+20,skicross-women,12:00:00,12:50:00,1/8 & 1/4 Finals,,,,
+20,skicross-women,12:54:00,13:10:00,Semifinals,,,,
+20,skicross-women,13:15:00,13:25:00,Final,1,,,
+20,freeski-halfpipe-men,19:30:00,19:55:00,Final Run 1,,,,
+20,freeski-halfpipe-men,19:59:00,20:25:00,Final Run 2,,,,
+20,freeski-halfpipe-men,20:28:00,21:00:00,Final Run 3,1,,,
+20,ice-hockey-men,16:40:00,18:10:00,Semifinal,,,,
+20,ice-hockey-men,21:10:00,22:40:00,Semifinal,,,,
+20,short-track-1500m-women,20:15:00,20:50:00,1/4 Finals,,,,
+20,short-track-1500m-women,21:00:00,21:15:00,Semifinals,,,,
+20,short-track-1500m-women,22:03:00,22:15:00,Final,1,,,
+20,short-track-relay-men,21:29:00,21:50:00,Final,1,,,
+20,speedskating-1500m-women,16:30:00,17:30:00,Final,1,,,
+21,biathlon-mass-start-women,14:15:00,15:40:00,Final,1,,,
+21,bobsled-4-men,10:00:00,11:30:00,Heat 1,,,,
+21,bobsled-4-men,11:57:00,13:00:00,Heat 2,,,,
+21,bobsled-2-women,19:00:00,20:30:00,Heat 3,,,,
+21,bobsled-2-women,21:05:00,22:00:00,Heat 4,1,,,
+21,crosscountry-skiing-50km-classic-men,11:00:00,14:00:00,Final,1,,,
+21,curling-team-women,14:05:00,16:05:00,Bronze Medal Game,1,,,
+21,curling-team-men,19:05:00,21:05:00,Gold Medal Game,1,,,
+21,skicross-men,10:00:00,11:00:00,Seeding Run,,,,
+21,skicross-men,12:00:00,12:50:00,1/8 & 1/4 Finals,,,,
+21,skicross-men,12:54:00,13:10:00,Semifinals,,,,
+21,skicross-men,13:15:00,13:25:00,Final,1,,,
+21,aerials-mixed-teams,10:45:00,11:30:00,Final 1,,,,
+21,aerials-mixed-teams,11:45:00,12:30:00,Final 2,1,,,
+21,freeski-halfpipe-women,19:30:00,19:55:00,Final Run 1,,,,
+21,freeski-halfpipe-women,19:59:00,20:25:00,Final Run 2,,,,
+21,freeski-halfpipe-women,20:28:00,21:00:00,Final Run 3,1,,,
+21,ice-hockey-men,20:40:00,22:11:00,Bronze Medal Game,1,,,
+21,ski-mountaineering-mixed-relay,13:30:00,14:00:00,Final,1,,,
+21,speedskating-mass-start-men,15:00:00,15:40:00,Semi-final,,,,
+21,speedskating-mass-start-women,15:50:00,16:30:00,Semi-final,,,,
+21,speedskating-mass-start-men,16:40:00,17:10:00,Final,1,,,
+21,speedskating-mass-start-women,17:15:00,18:00:00,Final,1,,,
+22,bobsled-4-men,10:00:00,11:30:00,Heat 3,,,,
+22,bobsled-4-men,12:15:00,13:30:00,Heat 4,1,,,
+22,crosscountry-skiing-50km-classic-women,10:00:00,14:00:00,Final,1,,,
+22,curling-team-women,11:05:00,13:05:00,Gold Medal Game,1,,,
+22,ice-hockey-men,14:10:00,16:10:00,Gold Medal Game,1,,,

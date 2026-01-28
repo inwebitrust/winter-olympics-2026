@@ -23,6 +23,31 @@
   }
 }
 
+// Sports menu responsive - custom 800px breakpoint
+// Hide mobile version by default, show desktop version
+.md-sports\:block {
+  display: block !important;
+}
+
+.md-sports\:hidden {
+  display: none !important;
+}
+
+@media (max-width: 800px) {
+  // Under 800px: hide desktop version, show mobile version
+  .md-sports\:block {
+    display: none !important;
+  }
+  
+  .md-sports\:hidden {
+    display: block !important;
+  }
+  
+  .sports-menu-mobile {
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
 // Responsive styles for mobile devices
 @media (max-width: 600px) {
   .sports-icons {
@@ -61,9 +86,9 @@
     &.sidebar-open {
       width: 280px !important;
       left: 0;
-      top: 89px;
+      top: 125px;
       z-index: 100;
-      height: calc(100vh - 89px) !important;
+      height: calc(100vh - 125px) !important;
       box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
       padding: 1.5rem !important;
       
@@ -97,7 +122,7 @@
   
   .sidebar-overlay {
     position: fixed;
-    top: 89px;
+    top: 125px;
     left: 0;
     right: 0;
     bottom: 0;
