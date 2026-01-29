@@ -180,9 +180,10 @@ export default function Home() {
   const handleSportToggle = (sport: string) => {
     setFilters((prev) => ({
       ...prev,
+      // Single select: only one sport at a time; click again to deselect (show all)
       selectedSports: prev.selectedSports.includes(sport)
-        ? prev.selectedSports.filter((s) => s !== sport)
-        : [...prev.selectedSports, sport],
+        ? []
+        : [sport],
     }));
   };
 

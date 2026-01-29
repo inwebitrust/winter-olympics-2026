@@ -32,16 +32,16 @@ day,disciplin_id,time_begin,time_end,desc,is_medal,is_game,team_1,team_2
 8,alpine-skiing-downhill-women,11:30:00,12:30:00,Final,1,,,
 8,biathlon-relay-mixed,14:05:00,15:05:00,Final,1,,,
 8,crosscountry-skiing-skiathlon-men,12:30:00,13:30:00,Final,1,,,
-8,curling-mixed-doubles,10:05:00,12:05:00,,,1,nor,cze
-8,curling-mixed-doubles,10:05:00,12:05:00,,,1,kor,est
-8,curling-mixed-doubles,14:35:00,16:35:00,,,1,can,swe
-8,curling-mixed-doubles,14:35:00,16:35:00,,,1,gbr,sui
-8,curling-mixed-doubles,14:35:00,16:35:00,,,1,usa,est
-8,curling-mixed-doubles,14:35:00,16:35:00,,,1,ita,cze
-8,curling-mixed-doubles,19:05:00,21:05:00,,,1,ita,gbr
-8,curling-mixed-doubles,19:05:00,21:05:00,,,1,usa,swe
-8,curling-mixed-doubles,19:05:00,21:05:00,,,1,sui,nor
-8,curling-mixed-doubles,19:05:00,21:05:00,,,1,can,kor
+8,curling-mixed-doubles,10:05:00,12:05:00,Round Robin,,1,nor,cze
+8,curling-mixed-doubles,10:05:00,12:05:00,Round Robin,,1,kor,est
+8,curling-mixed-doubles,14:35:00,16:35:00,Round Robin,,1,can,swe
+8,curling-mixed-doubles,14:35:00,16:35:00,Round Robin,,1,gbr,sui
+8,curling-mixed-doubles,14:35:00,16:35:00,Round Robin,,1,usa,est
+8,curling-mixed-doubles,14:35:00,16:35:00,Round Robin,,1,ita,cze
+8,curling-mixed-doubles,19:05:00,21:05:00,Round Robin,,1,ita,gbr
+8,curling-mixed-doubles,19:05:00,21:05:00,Round Robin,,1,usa,swe
+8,curling-mixed-doubles,19:05:00,21:05:00,Round Robin,,1,sui,nor
+8,curling-mixed-doubles,19:05:00,21:05:00,Round Robin,,1,can,kor
 8,figure-skarting-team-event,19:30:00,20:30:00,Pair Free,,,,
 8,figure-skarting-team-event,20:45:00,21:50:00,Women Free,,,,
 8,figure-skarting-team-event,21:55:00,22:55:00,Men Free,1,,,
@@ -61,20 +61,20 @@ day,disciplin_id,time_begin,time_end,desc,is_medal,is_game,team_1,team_2
 8,snowboarding-bigair-women,20:15:00,20:50:00,Qualification Run 2,,,,
 8,snowboarding-bigair-women,21:00:00,22:00:00,Qualification Run 3,,,,
 8,speedskating-5000m-men,16:00:00,17:00:00,Final,1,,,
-4,curling-mixed-doubles,19:05:00,21:05:00,,,1,swe,kor
-4,curling-mixed-doubles,19:05:00,21:05:00,,,1,gbr,nor
-4,curling-mixed-doubles,19:05:00,21:05:00,,,1,can,cze
-4,curling-mixed-doubles,19:05:00,21:05:00,,,1,est,sui
-5,curling-mixed-doubles,10:05:00,12:05:00,,,1,gbr,est
-5,curling-mixed-doubles,10:05:00,12:05:00,,,1,swe,cze
-5,curling-mixed-doubles,10:05:00,12:05:00,,,1,nor,usa
-5,curling-mixed-doubles,10:05:00,12:05:00,,,1,kor,ita
-5,curling-mixed-doubles,14:35:00,16:35:00,,,1,usa,sui
-5,curling-mixed-doubles,14:35:00,16:35:00,,,1,nor,can
-5,curling-mixed-doubles,19:05:00,21:05:00,,,1,can,ita
-5,curling-mixed-doubles,19:05:00,21:05:00,,,1,sui,kor
-5,curling-mixed-doubles,19:05:00,21:05:00,,,1,est,swe
-5,curling-mixed-doubles,19:05:00,21:05:00,,,1,cze,gbr
+4,curling-mixed-doubles,19:05:00,21:05:00,Round Robin,,1,swe,kor
+4,curling-mixed-doubles,19:05:00,21:05:00,Round Robin,,1,gbr,nor
+4,curling-mixed-doubles,19:05:00,21:05:00,Round Robin,,1,can,cze
+4,curling-mixed-doubles,19:05:00,21:05:00,Round Robin,,1,est,sui
+5,curling-mixed-doubles,10:05:00,12:05:00,Round Robin,,1,gbr,est
+5,curling-mixed-doubles,10:05:00,12:05:00,Round Robin,,1,swe,cze
+5,curling-mixed-doubles,10:05:00,12:05:00,Round Robin,,1,nor,usa
+5,curling-mixed-doubles,10:05:00,12:05:00,Round Robin,,1,kor,ita
+5,curling-mixed-doubles,14:35:00,16:35:00,Round Robin,,1,usa,sui
+5,curling-mixed-doubles,14:35:00,16:35:00,Round Robin,,1,nor,can
+5,curling-mixed-doubles,19:05:00,21:05:00,Round Robin,,1,can,ita
+5,curling-mixed-doubles,19:05:00,21:05:00,Round Robin,,1,sui,kor
+5,curling-mixed-doubles,19:05:00,21:05:00,Round Robin,,1,est,swe
+5,curling-mixed-doubles,19:05:00,21:05:00,Round Robin,,1,cze,gbr
 5,ice-hockey-women,12:10:00,13:40:00,Prelim. Round,,1,swe,ger
 5,ice-hockey-women,14:40:00,16:10:00,Prelim. Round,,1,ita,fra
 5,ice-hockey-women,16:40:00,18:10:00,Prelim. Round,,1,usa,cze
@@ -82,13 +82,13 @@ day,disciplin_id,time_begin,time_end,desc,is_medal,is_game,team_1,team_2
 5,snowboarding-bigair-men,19:30:00,20:10:00,Qualification Run 1,,,,
 5,snowboarding-bigair-men,20:15:00,20:50:00,Qualification Run 2,,,,
 5,snowboarding-bigair-men,21:00:00,22:00:00,Qualification Run 3,,,,
-6,curling-mixed-doubles,10:05:00,12:05:00,,,1,swe,gbr
-6,curling-mixed-doubles,10:05:00,12:05:00,,,1,ita,sui
-6,curling-mixed-doubles,10:05:00,12:05:00,,,1,usa,can
-6,curling-mixed-doubles,14:35:00,16:35:00,,,1,cze,usa
-6,curling-mixed-doubles,14:35:00,16:35:00,,,1,est,ita
-6,curling-mixed-doubles,14:35:00,16:35:00,,,1,kor,gbr
-6,curling-mixed-doubles,14:35:00,16:35:00,,,1,swe,nor
+6,curling-mixed-doubles,10:05:00,12:05:00,Round Robin,,1,swe,gbr
+6,curling-mixed-doubles,10:05:00,12:05:00,Round Robin,,1,ita,sui
+6,curling-mixed-doubles,10:05:00,12:05:00,Round Robin,,1,usa,can
+6,curling-mixed-doubles,14:35:00,16:35:00,Round Robin,,1,cze,usa
+6,curling-mixed-doubles,14:35:00,16:35:00,Round Robin,,1,est,ita
+6,curling-mixed-doubles,14:35:00,16:35:00,Round Robin,,1,kor,gbr
+6,curling-mixed-doubles,14:35:00,16:35:00,Round Robin,,1,swe,nor
 6,figure-skarting-team-event,09:55:00,11:00:00,Ice Dance Rhythm,,,,
 6,figure-skarting-team-event,11:35:00,13:00:00,Pair Short Program,,,,
 6,figure-skarting-team-event,13:35:00,15:00:00,Women Short Program,,,,
@@ -96,10 +96,10 @@ day,disciplin_id,time_begin,time_end,desc,is_medal,is_game,team_1,team_2
 6,ice-hockey-women,14:40:00,16:10:00,Prelim. Round,,1,cze,sui
 9,alpine-skiing-team-combined-men,10:30:00,11:30:00,Downhill,,,,
 9,alpine-skiing-team-combined-men,14:00:00,15:00:00,Slalom,1,,,
-9,curling-mixed-doubles,10:05:00,12:05:00,,,1,sui,can
-9,curling-mixed-doubles,10:05:00,12:05:00,,,1,ita,usa
-9,curling-mixed-doubles,10:05:00,12:05:00,,,1,nor,kor
-9,curling-mixed-doubles,10:05:00,12:05:00,,,1,cze,est
+9,curling-mixed-doubles,10:05:00,12:05:00,Round Robin,,1,sui,can
+9,curling-mixed-doubles,10:05:00,12:05:00,Round Robin,,1,ita,usa
+9,curling-mixed-doubles,10:05:00,12:05:00,Round Robin,,1,nor,kor
+9,curling-mixed-doubles,10:05:00,12:05:00,Round Robin,,1,cze,est
 9,curling-mixed-doubles,18:05:00,20:05:00,Semi-final,,,,
 9,curling-mixed-doubles,18:05:00,20:05:00,Semi-final,,,,
 9,figure-skating-ice-dance,19:20:00,20:30:00,Ice Dance Rhythm,,,,

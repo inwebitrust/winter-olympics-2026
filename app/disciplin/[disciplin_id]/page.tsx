@@ -8,6 +8,7 @@ import CalendarIcon from "@/components/CalendarIcon";
 import CalendarHeader from "@/components/CalendarHeader";
 import MethodologyModal from "@/components/MethodologyModal";
 import { chanceToNumber, getStars } from "@/lib/utils";
+import { getCountryName } from "@/lib/countries";
 import { Athlete, Disciplin, CalendarDay, ChanceCategory, Event } from "@/types";
 
 const chanceOrder: Record<ChanceCategory, number> = {
@@ -279,6 +280,31 @@ export default function DisciplinPage() {
                       </span>
                     )}
                   </div>
+                  {event.is_game === "1" && (event.team_1 || event.team_2) && (
+                    <div className="flex items-center gap-2 mt-2 text-sm text-gray-700">
+                      <span className="flex items-center gap-1.5">
+                        {event.team_1 ? (
+                          <>
+                            <Flag country={event.team_1} className="w-4 h-4 object-cover rounded flex-shrink-0" />
+                            <span>{getCountryName(event.team_1)}</span>
+                          </>
+                        ) : (
+                          <span className="text-gray-400">TBD</span>
+                        )}
+                      </span>
+                      <span className="text-gray-400 font-medium">vs</span>
+                      <span className="flex items-center gap-1.5">
+                        {event.team_2 ? (
+                          <>
+                            <Flag country={event.team_2} className="w-4 h-4 object-cover rounded flex-shrink-0" />
+                            <span>{getCountryName(event.team_2)}</span>
+                          </>
+                        ) : (
+                          <span className="text-gray-400">TBD</span>
+                        )}
+                      </span>
+                    </div>
+                  )}
                 </div>
               ))}
             </div>
