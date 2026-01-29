@@ -1,18 +1,21 @@
 firstname,lastname,country,disciplin_id,chance,desc
 Marco,Odermatt,sui,alpine-skiing-downhill-men,4,The technical master and heavy favorite whose only hurdle is the immense pressure of securing the one major title missing from his resume.
 Franjo,Von Allmen,sui,alpine-skiing-downhill-men,3,"The sport’s newest sensation who has proven he can beat Odermatt straight-up and possesses the fearless ""young gun"" energy needed for the Stelvio."
-Dominik,Paris,ita,alpine-skiing-downhill-men,3,"A literal ""King of Bormio"" who knows every ice patch on this track and will be fueled by a career-defining opportunity to win gold on home soil."
-VIncent,Kriechmayer,aut,alpine-skiing-downhill-men,3,"The veteran tactician who excels when courses are icy and technical, making him the most reliable threat to disrupt a Swiss-Italian podium."
-Florian,Schieder,ita,alpine-skiing-downhill-men,2,A model of consistency who has become a permanent fixture in the World Cup Top 5 and thrives on the high-intensity vibrations of the Italian tracks.
-Alexis,Monney,sui,alpine-skiing-downhill-men,1,A rising Swiss talent with incredible gliding speed who faces the brutal challenge of simply qualifying for a spot on the four-man Swiss Olympic roster.
-Giovanni,Franzoni,ita,alpine-skiing-downhill-men,2,"A ""Stelvio specialist"" in the making whose recent breakthrough World Cup win in Super-G proves he has the elite speed to medal in Downhill as well."
-Nils,Allègre,fra,alpine-skiing-downhill-men,2,"A dark horse who relies on perfect snow conditions but has the ""all-or-nothing"" style that can occasionally produce a podium-worthy run."
-Ryan,Cochran-Siegle,usa,alpine-skiing-downhill-men,2,"North America’s best hope, whose elite aerodynamic tuck and comfort on injected ice make him a threat if the race becomes a battle of ""glide."""
-Nils,Alphand,fra,alpine-skiing-downhill-men,1,"Carrying legendary DNA, he is a late-bloomer who has finally found the top-gear speed necessary to sneak into the medals from a late starting number."
+Dominik,Paris,ita,alpine-skiing-downhill-men,2,"A literal ""King of Bormio"" who knows every ice patch on this track and will be fueled by a career-defining opportunity to win gold on home soil."
+Vincent,Kriechmayer,aut,alpine-skiing-downhill-men,2,"The veteran tactician who excels when courses are icy and technical, making him the most reliable threat to disrupt a Swiss-Italian podium."
+Florian,Schieder,ita,alpine-skiing-downhill-men,1,A model of consistency who has become a permanent fixture in the World Cup Top 5 and thrives on the high-intensity vibrations of the Italian tracks.
+Alexis,Monney,sui,alpine-skiing-downhill-men,2,A rising Swiss talent with incredible gliding speed who faces the brutal challenge of simply qualifying for a spot on the four-man Swiss Olympic roster.
+Giovanni,Franzoni,ita,alpine-skiing-downhill-men,3,"A ""Stelvio specialist"" in the making whose recent breakthrough World Cup win in Super-G proves he has the elite speed to medal in Downhill as well."
+Nils,Allègre,fra,alpine-skiing-downhill-men,1,"A dark horse who relies on perfect snow conditions but has the ""all-or-nothing"" style that can occasionally produce a podium-worthy run."
+Ryan,Cochran-Siegle,usa,alpine-skiing-downhill-men,1,"North America’s best hope, whose elite aerodynamic tuck and comfort on injected ice make him a threat if the race becomes a battle of ""glide."""
+Maxence,Muzaton,fra,alpine-skiing-downhill-men,1,"Carrying legendary DNA, he is a late-bloomer who has finally found the top-gear speed necessary to sneak into the medals from a late starting number."
 Mattia,Casse,ita,alpine-skiing-downhill-men,1,The veteran warrior of the Italian team who has overcome major injury to find the best form of his life just in time for his home Olympics.
-Stefan,Rogentin,sui,alpine-skiing-downhill-men,1,"Often overshadowed by Odermatt, he is arguably the best ""pure glider"" in the world and can win any race that features long, high-speed flats."
-Elian,Lehto,fin,alpine-skiing-downhill-men,1,"The ""Flying Finn"" who has become a consistent Top-10 disruptor and represents the biggest threat to the traditional alpine powerhouses."
-Cameron,Alexander,can,alpine-skiing-downhill-men,1,A big-event performer who already has a World Championship medal and the high-risk style required to master a track as punishing as the Stelvio.
+Stefan,Rogentin,sui,alpine-skiing-downhill-men,2,"Often overshadowed by Odermatt, he is arguably the best ""pure glider"" in the world and can win any race that features long, high-speed flats."
+Elian,Lehto,fin,alpine-skiing-downhill-men,,"The ""Flying Finn"" who has become a consistent Top-10 disruptor and represents the biggest threat to the traditional alpine powerhouses."
+Cameron,Alexander,can,alpine-skiing-downhill-men,,A big-event performer who already has a World Championship medal and the high-risk style required to master a track as punishing as the Stelvio.
+Niels,Hintermann,sui,alpine-skiing-downhill-men,1,
+Aleksander,Aamodt Kilde,nor,alpine-skiing-downhill-men,1,
+Daniel,Hemetsberger,aut,alpine-skiing-downhill-men,1,
 Sofia,Goggia,ita,alpine-skiing-downhill-women,4,"The home-soil ""Queen of Speed"" whose only real opponent is her own tendency to push past the laws of physics."
 Lindsey,Vonn,usa,alpine-skiing-downhill-women,4,A 41-year-old sporting miracle who is technically and mentally superior to the field on this specific track.
 Kira,Weidle-Winkelmann,ger,alpine-skiing-downhill-women,3,A powerhouse specialist who arrives with massive confidence after a 2nd place finish behind Nicol Delago in the Tarvisio Downhill last week.
@@ -49,9 +52,9 @@ Armand,Marchant,bel,alpine-skiing-slalom-men,1,"Belgium’s historic trailblazer
 Linus,Strasser,ger,alpine-skiing-slalom-men,1,A specialist who excels in the shadows and ice of the most difficult tracks on the circuit.
 Alex,Vinatzer,ita,alpine-skiing-slalom-men,1,"The local favorite and ""icy track"" specialist who will rely on his elite technical power and the energy of the home crowd in Bormio to finally secure his first Olympic podium."
 Michael,Matt,aut,alpine-skiing-slalom-men,1,"A veteran big-event performer and Olympic medalist who has maintained top-15 consistency all season, waiting to pounce if the younger favorites falter under the Olympic pressure."
-Mikaela,Shiffrin,usa,alpine-skiing-slalom-women,4,"The reigning queen of the discipline who enters the Olympics in peak ""107-win"" form and remains the standard by which all others are measured."
-Camille,Rast,sui,alpine-skiing-slalom-women,4,A technical revelation who has finally unlocked the speed necessary to challenge Shiffrin for the top step of the podium.
-Wendy,Holdener,sui,alpine-skiing-slalom-women,3,The ultimate veteran strategist who specializes in navigating difficult courses and capitalising on the mistakes of others.
+Mikaela,Shiffrin,usa,alpine-skiing-slalom-women,5,"The reigning queen of the discipline who enters the Olympics in peak ""107-win"" form and remains the standard by which all others are measured."
+Camille,Rast,sui,alpine-skiing-slalom-women,3,A technical revelation who has finally unlocked the speed necessary to challenge Shiffrin for the top step of the podium.
+Wendy,Holdener,sui,alpine-skiing-slalom-women,2,The ultimate veteran strategist who specializes in navigating difficult courses and capitalising on the mistakes of others.
 Laura,Colturi,alb,alpine-skiing-slalom-women,2,The 19-year-old phenom who has already racked up four slalom podiums this season for Albania and is the biggest threat to secure a historic first-ever medal for her adopted nation.
 Emma,Aicher,ger,alpine-skiing-slalom-women,2,"Germany’s versatile young star who possesses the fearless ""all-or-nothing"" style that translates perfectly to Olympic pressure."
 Paula,Moltzan,usa,alpine-skiing-slalom-women,2,A high-octane charger who just proved she can go 1-2 with Shiffrin and is finally finding the consistency to match her elite speed.
@@ -59,7 +62,10 @@ Katharina,Truppe,aut,alpine-skiing-slalom-women,2,"Austria’s ""last woman stan
 Lena,Durr,ger,alpine-skiing-slalom-women,1,"A veteran specialist who remains Germany’s most reliable podium bet, having secured a 2nd place behind Shiffrin in Copper Mountain earlier this season."
 Zrinka,Ljutic,cro,alpine-skiing-slalom-women,1,The future of the sport who skis with a violent precision that can beat anyone on an icy track.
 Anna,Swenn-Larsson,swe,alpine-skiing-slalom-women,1,"Sweden’s technical leader who excels on the steepest, iciest pitches and is a constant top-10 presence waiting for the perfect run to jump onto the podium."
-Sara,Hector,swe,alpine-skiing-slalom-women,1,"The reigning Giant Slalom Olympic champion who has significantly improved her slalom form this winter, securing a strong 7th place in Flachau just last week."
+Sara,Hector,swe,alpine-skiing-slalom-women,2,"The reigning Giant Slalom Olympic champion who has significantly improved her slalom form this winter, securing a strong 7th place in Flachau just last week."
+Eliane,Christen,sui,alpine-skiing-slalom-women,1,
+Dzenifera,Germane,lat,alpine-skiing-slalom-women,1,
+Lara,Delle Mea,ita,alpine-skiing-slalom-women,1,
 Team,USA 1 - Alpine Skiing Women,usa,alpine-skiing-team-combined-women,5,
 Team,Germany 1 - Alpine Skiing Women,ger,alpine-skiing-team-combined-women,3,
 Team,Autria 1 - Alpine Skiing Women,aut,alpine-skiing-team-combined-women,2,
@@ -70,19 +76,22 @@ Team,USA 2 - Alpine Skiing Women,usa,alpine-skiing-team-combined-women,2,
 Team,Norway 1 - Alpine Skiing Women,nor,alpine-skiing-team-combined-women,1,
 Team,Italy 2 - Alpine Skiing Women,ita,alpine-skiing-team-combined-women,1,
 Team,Switzerland 2 - Alpine Skiing Women,sui,alpine-skiing-team-combined-women,1,
-Marco,Odermatt,sui,alpine-skiing-superg-men,5,The surgical master of speed who enters as the heavy favorite to claim the one gold medal that defines his era.
+Marco,Odermatt,sui,alpine-skiing-superg-men,4,The surgical master of speed who enters as the heavy favorite to claim the one gold medal that defines his era.
 Vincent,Kriechmayer,aut,alpine-skiing-superg-men,3,"A veteran tactician who excels when the conditions are ""brutal"" and remains the primary obstacle to a Swiss sweep."
-Giovanni,Franzoni,ita,alpine-skiing-superg-men,3,The red-hot home favorite who is riding a wave of momentum after his maiden World Cup win in Wengen last week.
+Giovanni,Franzoni,ita,alpine-skiing-superg-men,2,The red-hot home favorite who is riding a wave of momentum after his maiden World Cup win in Wengen last week.
 Marco,Schwarz,aut,alpine-skiing-superg-men,2,The most versatile skier in the world who has transformed from a tech specialist into a legitimate Super-G powerhouse this winter.
-Stefan,Babinsky,aut,alpine-skiing-superg-men,2,"An Austrian specialist who has finally found his peak form this January, securing his first career World Cup podium with a brilliant 2nd place in the Wengen Super-G."
-Raphael,Hasser,aut,alpine-skiing-superg-men,2,"A technician with a ""Giant Slalom heart"" who uses his superior carving ability to find time in the Stelvio's most difficult sections."
-Franjo,Von Allmen,sui,alpine-skiing-superg-men,1,"The sport’s most aggressive newcomer who possesses the raw speed to win gold if he avoids the ""rookie"" mistakes that have plagued his season."
+Stefan,Babinsky,aut,alpine-skiing-superg-men,1,"An Austrian specialist who has finally found his peak form this January, securing his first career World Cup podium with a brilliant 2nd place in the Wengen Super-G."
+Raphael,Haaser,aut,alpine-skiing-superg-men,2,"A technician with a ""Giant Slalom heart"" who uses his superior carving ability to find time in the Stelvio's most difficult sections."
+Franjo,Von Allmen,sui,alpine-skiing-superg-men,3,"The sport’s most aggressive newcomer who possesses the raw speed to win gold if he avoids the ""rookie"" mistakes that have plagued his season."
 Stefan,Rogentin,sui,alpine-skiing-superg-men,1,"A master of high-speed gliding who has remained a permanent top-10 threat throughout the season and excels when the course setting allows for long, sweeping arcs."
 Ryan,Cochran-Siegle,usa,alpine-skiing-superg-men,1,"An aerodynamic specialist whose elite ""touch"" on ice makes him a threat if the race becomes a battle of technical precision."
-Alexis,Monney,sui,alpine-skiing-superg-men,1,The young Swiss sensation who solidified his Olympic medal credentials with a stunning 2nd place finish in Livigno this December.
+Alexis,Monney,sui,alpine-skiing-superg-men,2,The young Swiss sensation who solidified his Olympic medal credentials with a stunning 2nd place finish in Livigno this December.
 Jan,Zabystran,cze,alpine-skiing-superg-men,1,"The historic ""giant-killer"" of the 2026 season who shocked the world by defeating Marco Odermatt to win in Val Gardena, proving he can beat anyone on his day."
-Dominik,Paris,ita,alpine-skiing-superg-men,1,A local legend who knows every bump on the Stelvio and will be fueled by the once-in-a-lifetime chance to win an Olympic medal in his own backyard.
+Dominik,Paris,ita,alpine-skiing-superg-men,2,A local legend who knows every bump on the Stelvio and will be fueled by the once-in-a-lifetime chance to win an Olympic medal in his own backyard.
 Nils,Allegre,fra,alpine-skiing-superg-men,1,"A French veteran known for his tactical intelligence who consistently hovers near the podium and thrives on the dark, icy conditions typical of the Stelvio."
+Mattia,Casse,ita,alpine-skiing-superg-men,1,
+Aleksander,Aamodt Kilde,nor,alpine-skiing-superg-men,1,
+Adrian,Sejersted,nor,alpine-skiing-superg-men,1,
 Sofia,Goggia,ita,alpine-skiing-superg-women,4,"The home-soil ""Queen of Speed"" who enters the Olympics with the red bib and a singular focus on home-court dominance."
 Lindsey,Vonn,usa,alpine-skiing-superg-women,4,"A 41-year-old miracle who is using her legendary ""Strahler"" (gliding) ability to defy age and the laws of physics."
 Alice,Robinson,nzl,alpine-skiing-superg-women,3,A fearless charger from New Zealand whose aggressive Giant Slalom turns make her a nightmare for the European favorites.
@@ -94,17 +103,18 @@ Etster,Ledecka,cze,alpine-skiing-superg-women,1,"The ""Shadow Queen"" who consis
 Cornelia,Hütter,aut,alpine-skiing-superg-women,1,Austria’s most reliable speed specialist who thrives when the track is icy and the pressure is at its peak.
 Kajsa Vickhoff,Lie,nor,alpine-skiing-superg-women,1,"Norway’s ""Attacking Viking"" who prioritizes Super-G as her main discipline and arrives in Cortina with a reputation for taking the massive risks necessary to secure a major championship medal."
 Keely,Cashman,usa,alpine-skiing-superg-women,1,"The rising American talent who just delivered a career-best 5th place finish in the Tarvisio Super-G, marking her as the ultimate dark horse entering the Olympics in peak form."
-Marco,Odermatt,sui,alpine-skiing-giant-slalom-men,5,The surgical master of the discipline who is currently on a trajectory to become the greatest Giant Slalom skier in history.
+Marco,Odermatt,sui,alpine-skiing-giant-slalom-men,4,The surgical master of the discipline who is currently on a trajectory to become the greatest Giant Slalom skier in history.
 Marco,Schwarz,aut,alpine-skiing-giant-slalom-men,3,Austria’s comeback king who proved in Alta Badia that he is the only man capable of beating Odermatt in a head-to-head technical battle.
-Henrik,Kristoffersen,nor,alpine-skiing-giant-slalom-men,3,A modern legend who has sacrificed everything to find the perfect setup for one last shot at Olympic GS Gold.
-Lucas,Pinheiro Braathen,bra,alpine-skiing-giant-slalom-men,2,"The flamboyant ""dancing"" specialist who is determined to bring Brazil its first-ever Winter Olympic medal through sheer technical brilliance."
-Loic,Meillard,sui,alpine-skiing-giant-slalom-men,2,"The Swiss technician whose flawless carving ability makes him the most dangerous ""second option"" in the world."
-Stefan,Brennsteiner,aut,alpine-skiing-giant-slalom-men,3,"A high-speed ""gambler"" who possesses the raw pace to win the race if he can stay on his skis for both runs."
-Alex,Vinatzer,ita,alpine-skiing-giant-slalom-men,2,"The local hero who has finally found his Giant Slalom ""touch"" just in time to challenge for a medal on his home mountains."
-Atle Lie,McGrath,nor,alpine-skiing-giant-slalom-men,1,A top Norwegian contender who just took the Slalom lead in Wengen and is hunting for his first Olympic Giant Slalom medal in 2026.
-Timon,Haugan,nor,alpine-skiing-giant-slalom-men,1,"A consistent technical powerhouse for Norway, currently sitting near the top of the World Cup standings and looking to improve on his previous Olympic appearances."
+Henrik,Kristoffersen,nor,alpine-skiing-giant-slalom-men,2,A modern legend who has sacrificed everything to find the perfect setup for one last shot at Olympic GS Gold.
+Lucas,Pinheiro Braathen,bra,alpine-skiing-giant-slalom-men,3,"The flamboyant ""dancing"" specialist who is determined to bring Brazil its first-ever Winter Olympic medal through sheer technical brilliance."
+Loic,Meillard,sui,alpine-skiing-giant-slalom-men,3,"The Swiss technician whose flawless carving ability makes him the most dangerous ""second option"" in the world."
+Stefan,Brennsteiner,aut,alpine-skiing-giant-slalom-men,2,"A high-speed ""gambler"" who possesses the raw pace to win the race if he can stay on his skis for both runs."
+Alex,Vinatzer,ita,alpine-skiing-giant-slalom-men,1,"The local hero who has finally found his Giant Slalom ""touch"" just in time to challenge for a medal on his home mountains."
+Atle Lie,McGrath,nor,alpine-skiing-giant-slalom-men,2,A top Norwegian contender who just took the Slalom lead in Wengen and is hunting for his first Olympic Giant Slalom medal in 2026.
+Timon,Haugan,nor,alpine-skiing-giant-slalom-men,2,"A consistent technical powerhouse for Norway, currently sitting near the top of the World Cup standings and looking to improve on his previous Olympic appearances."
 River,Radamus,usa,alpine-skiing-giant-slalom-men,1,America’s most creative technical skier who is consistently knocking on the door of the elite podium.
 Luca,Aerni,sui,alpine-skiing-giant-slalom-men,1,A Swiss veteran and former World Champion in combined who remains a dangerous threat in the technical Giant Slalom events for the upcoming Games.
+Fabian,Gratz,ger,alpine-skiing-giant-slalom-men,1,
 Julia,Scheib,aut,alpine-skiing-giant-slalom-women,5,"The absolute breakout star of the season; she is holding the red bib with three dominant victories (Sölden, Tremblant, Semmering) and looks unstoppable."
 Camille,Rast,sui,alpine-skiing-giant-slalom-women,3,"Currently second in the discipline standings, she has found incredible consistency and is skiing with career-best confidence."
 Mikaela,Shiffrin,usa,alpine-skiing-giant-slalom-women,3,"While currently 5th in the GS standings, her tactical genius and experience make her a perennial podium contender."
@@ -116,57 +126,81 @@ Lara,Colturi,alb,alpine-skiing-giant-slalom-women,1,"The teenage prodigy is cons
 Thea Louise,Stjernesund,nor,alpine-skiing-giant-slalom-women,1,Consistently knocking on the door of the top 5 and could capitalize on mistakes.
 Valerie,Grenier,can,alpine-skiing-giant-slalom-women,1,"Having successfully returned from injury with a bronze medal in Mont-Tremblant this December, she is a proven winner who excels on the steep Italian pitches."
 Zrinka,Ljutic,cro,alpine-skiing-giant-slalom-women,1,A slalom specialist whose giant slalom skills have improved enough to threaten for a surprise medal.
-Lou,Jeanmonnot,fra,biathlon-individual-women,4,"As the current discipline leader with the best shooting percentage in the field, she is the safest bet for this format where accuracy is king."
-Lisa,Vittozzi,ita,biathlon-individual-women,3,"The defending World Champion in this event and home favorite has the perfect blend of speed and calm shooting, though pressure will be immense."
+Lou,Jeanmonnot,fra,biathlon-individual-women,3,"As the current discipline leader with the best shooting percentage in the field, she is the safest bet for this format where accuracy is king."
+Lisa,Vittozzi,ita,biathlon-individual-women,4,"The defending World Champion in this event and home favorite has the perfect blend of speed and calm shooting, though pressure will be immense."
 Dorothea,Wierer,ita,biathlon-individual-women,3,
 Suvi,Minkkinen,fin,biathlon-individual-women,2,A stealthy competitor who rarely misses and currently sits high in the discipline standings.
 Maren,Kirkeeide,nor,biathlon-individual-women,2,A rising star who has climbed the World Cup standings this winter with remarkable consistency on the range.
-Justine,Braisaz-Bouchet,fra,biathlon-individual-women,1,"The fastest skier on the circuit who will win gold by a minute if she shoots clean, but risks falling out of the top 10 with just a few misses."
+Justine,Braisaz-Bouchet,fra,biathlon-individual-women,2,"The fastest skier on the circuit who will win gold by a minute if she shoots clean, but risks falling out of the top 10 with just a few misses."
 Hanna,Oeberg,swe,biathlon-individual-women,2,The 2018 Olympic Champion in this specific event knows exactly how to peak for the big occasion despite a quieter season.
-Elvira,Oeberg,swe,biathlon-individual-women,1,"Her ski speed guarantees a medal contention, but she must manage her nerves on the shooting range to avoid costly penalty minutes."
-Fransizska,Preuss,ger,biathlon-individual-women,1,A precision shooter who excels in the Individual format and has shown consistent podium form this season.
+Elvira,Oeberg,swe,biathlon-individual-women,3,"Her ski speed guarantees a medal contention, but she must manage her nerves on the shooting range to avoid costly penalty minutes."
+Fransizska,Preuss,ger,biathlon-individual-women,2,A precision shooter who excels in the Individual format and has shown consistent podium form this season.
 Camille,Bened,fra,biathlon-individual-women,2,
 Sonja,Leinamo,fin,biathlon-individual-women,1,
 Anna,Magnusson,swe,biathlon-individual-women,1,
-Julia,Simon,fra,biathlon-individual-women,1,"An elite all-rounder who can win any race, though her aggressive shooting style is slightly riskier in the 15km format."
+Marketa,Davidova,cze,biathlon-individual-women,1,
+Lisa,Hauser,aut,biathlon-individual-women,1,
+Vanessa,Voigt,ger,biathlon-individual-women,1,
+Karoline,Knotten,nor,biathlon-individual-women,1,
+Oceane,Michelon,fra,biathlon-individual-women,1,
+Rebecca,Passler,ita,biathlon-individual-women,1,
+Julia,Simon,fra,biathlon-individual-women,2,"An elite all-rounder who can win any race, though her aggressive shooting style is slightly riskier in the 15km format."
+Amy,Baserga,sui,biathlon-individual-women,1,
 Lou,Jeanmonnot,fra,biathlon-sprint-women,4,The current Sprint Crystal Globe leader and most consistent biathlete of the 2025/2026 season. Her combination of a top-tier shooting percentage and clinical finishing speed makes her the gold medal benchmark.
-Suvi,Minkkinen,fin,biathlon-sprint-women,3,"The breakout star of the season, currently 2nd in the sprint standings. While she lacks the raw power of the French or Swedes, her ability to consistently shoot 10/10 keeps her on the podium nearly every weekend."
+Suvi,Minkkinen,fin,biathlon-sprint-women,2,"The breakout star of the season, currently 2nd in the sprint standings. While she lacks the raw power of the French or Swedes, her ability to consistently shoot 10/10 keeps her on the podium nearly every weekend."
 Hanna,Oeberg,swe,biathlon-sprint-women,3,"The winner of the most recent sprint in Ruhpolding (Jan 16, 2026). She has a legendary ability to peak for major championships and is currently back to her best form."
-Elvira,Oeberg,swe,biathlon-sprint-women,2,"A true ""sprint specialist"" who won in Oberhof this month with a clean sheet. She is arguably the fastest skier on the circuit; if she hits 10/10, the gold is likely hers, but one standing miss can be her undoing."
-Maren,Kirkeeide,nor,biathlon-sprint-women,3,The U23 sensation who has carried the Norwegian team this winter. Her aggressive skiing style is perfectly suited for the 7.5km distance.
-Anna,Magnusson,swe,biathlon-sprint-women,2,Currently 6th in the world standings and a consistent top-6 finisher in the sprint format this year.
-Lisa,Vittozzi,ita,biathlon-sprint-women,2,"Though she has focused more on the long-distance Individual event this season, the home-snow advantage in Antholz-Anterselva makes her a threat if she clears the standing stage quickly."
+Elvira,Oeberg,swe,biathlon-sprint-women,3,"A true ""sprint specialist"" who won in Oberhof this month with a clean sheet. She is arguably the fastest skier on the circuit; if she hits 10/10, the gold is likely hers, but one standing miss can be her undoing."
+Maren,Kirkeeide,nor,biathlon-sprint-women,2,The U23 sensation who has carried the Norwegian team this winter. Her aggressive skiing style is perfectly suited for the 7.5km distance.
+Anna,Magnusson,swe,biathlon-sprint-women,1,Currently 6th in the world standings and a consistent top-6 finisher in the sprint format this year.
+Lisa,Vittozzi,ita,biathlon-sprint-women,3,"Though she has focused more on the long-distance Individual event this season, the home-snow advantage in Antholz-Anterselva makes her a threat if she clears the standing stage quickly."
 Dorothea,Wierer,ita,biathlon-sprint-women,2,The veteran Italian star has shown flashes of her old speed this January; a clean shooting performance in front of her home crowd could lead to a fairytale result.
-Julia,Simon,fra,biathlon-sprint-women,1,A sprint world champion (2024) who thrives on the high-intensity atmosphere of the Olympic range.
+Julia,Simon,fra,biathlon-sprint-women,2,A sprint world champion (2024) who thrives on the high-intensity atmosphere of the Olympic range.
 Camille,Bened,fra,biathlon-sprint-women,1,A rising talent on the deep French squad who has been knocking on the door of the top 5 all season.
-Fransizska,Preuss,ger,biathlon-sprint-women,1,"The reigning World Cup overall champion from last season has struggled with minor health issues this winter, but her experience makes her dangerous if she is at 100%."
-Justine,Braisaz-Bouchet,fra,biathlon-sprint-women,1,"The defending Sprint World Champion (2025). Her shooting has been erratic this winter (15th in sprint standings), but her skiing ""engine"" is so large she can medal even with a penalty."
+Fransizska,Preuss,ger,biathlon-sprint-women,2,"The reigning World Cup overall champion from last season has struggled with minor health issues this winter, but her experience makes her dangerous if she is at 100%."
+Justine,Braisaz-Bouchet,fra,biathlon-sprint-women,2,"The defending Sprint World Champion (2025). Her shooting has been erratic this winter (15th in sprint standings), but her skiing ""engine"" is so large she can medal even with a penalty."
+Oceane,Michelon,fra,biathlon-sprint-women,1,
+Lisa,Hauser,aut,biathlon-sprint-women,1,
+Anamarija,Lampic,slo,biathlon-sprint-women,1,
+Ingrid,Tandrevold,nor,biathlon-sprint-women,1,
+Marketa,Davidova,cze,biathlon-sprint-women,1,
 Lou,Jeanmonnot,fra,biathlon-pursuit-women,4,"The undisputed ""Queen of the Pursuit"" this season. She has won two pursuits already (including the most recent in Ruhpolding on Jan 18) and leads the overall standings. Her 90%+ shooting accuracy makes her almost impossible to shake once she takes the lead."
-Suvi,Minkkinen,fin,biathlon-pursuit-women,3,"The most consistent ""clean shooter"" in the field and currently 2nd in the overall standings. She rarely gains time on the skis but moves up the leaderboard by hitting 20/20 targets while others head to the penalty loop."
+Suvi,Minkkinen,fin,biathlon-pursuit-women,2,"The most consistent ""clean shooter"" in the field and currently 2nd in the overall standings. She rarely gains time on the skis but moves up the leaderboard by hitting 20/20 targets while others head to the penalty loop."
 Hanna,Oeberg,swe,biathlon-pursuit-women,3,"Currently in peak form after a massive week in Ruhpolding (1st in Sprint, 2nd in Pursuit). She is a big-event performer who loves the tactical cat-and-mouse game of the pursuit."
 Elvira,Oeberg,swe,biathlon-pursuit-women,3,"The winner of the Oberhof pursuit this January. She is the fastest ""chaser"" in the world; even if she starts 30 seconds back, she can hunt down the leaders. Her only weakness is the final standing shoot, where high-pressure misses can cost her the gold."
 Anna,Magnusson,swe,biathlon-pursuit-women,2,"A very reliable shooter who is currently 6th in the world standings; she is a ""points machine"" who could snag a medal if the favorites falter."
 Maren,Kirkeeide,nor,biathlon-pursuit-women,2,"The top Norwegian this winter. She has finished 4th in recent pursuits and is the most reliable ""closer"" on her team, capable of a late-race surge for the bronze."
 Camille,Bened,fra,biathlon-pursuit-women,2,A rising star who just secured her first pursuit podium (3rd) in Ruhpolding. She is currently riding a wave of confidence and is part of the dominant French training group.
-Lisa,Vittozzi,ita,biathlon-pursuit-women,1,"While her season started slowly due to injury, she is a master of the pursuit format. Racing in front of a home Italian crowd, her fast shooting rhythm can put immediate pressure on the leaders."
-Justine,Braisaz-Bouchet,fra,biathlon-pursuit-women,1,"She has the speed to make up massive deficits, but the four shooting stages in a pursuit often expose her inconsistency."
-Dorothea,Wierer,ita,biathlon-pursuit-women,1,
-Fransizska,Preuss,ger,biathlon-pursuit-women,1,"A steady veteran who is consistently in the top 7. If the lead group gets into a ""shooting battle,"" her experience allows her to stay calm and capitalize on their mistakes."
-Julia,Simon,fra,biathlon-pursuit-women,1,"The 2024 World Champion in this event. She has the ""killer instinct"" needed for pursuit racing, though her shooting has been slightly more erratic this winter than in previous years."
+Lisa,Vittozzi,ita,biathlon-pursuit-women,3,"While her season started slowly due to injury, she is a master of the pursuit format. Racing in front of a home Italian crowd, her fast shooting rhythm can put immediate pressure on the leaders."
+Justine,Braisaz-Bouchet,fra,biathlon-pursuit-women,2,"She has the speed to make up massive deficits, but the four shooting stages in a pursuit often expose her inconsistency."
+Dorothea,Wierer,ita,biathlon-pursuit-women,2,
+Fransizska,Preuss,ger,biathlon-pursuit-women,2,"A steady veteran who is consistently in the top 7. If the lead group gets into a ""shooting battle,"" her experience allows her to stay calm and capitalize on their mistakes."
+Julia,Simon,fra,biathlon-pursuit-women,2,"The 2024 World Champion in this event. She has the ""killer instinct"" needed for pursuit racing, though her shooting has been slightly more erratic this winter than in previous years."
 Amy,Baserga,sui,biathlon-pursuit-women,1,"Coming off a career-best 5th place in Ruhpolding, she is proving that she can compete with the elite when the conditions are difficult."
+Oceane,Michelon,fra,biathlon-pursuit-women,1,
+Lisa,Hauser,aut,biathlon-pursuit-women,1,
+Anamarija,Lampic,slo,biathlon-pursuit-women,1,
+Ingrid,Tandrevold,nor,biathlon-pursuit-women,1,
+Marketa,Davidova,cze,biathlon-pursuit-women,1,
+Marthe,Johansen,nor,biathlon-pursuit-women,1,
 Maren,Kirkeeide,nor,biathlon-mass-start-women,3,
-Lou,Jeanmonnot,fra,biathlon-mass-start-women,3,
-Justine,Braisaz-Bouchet,fra,biathlon-mass-start-women,3,
-Elvira,Oeberg,swe,biathlon-mass-start-women,2,
-Dorothea,Wierer,ita,biathlon-mass-start-women,2,
+Lou,Jeanmonnot,fra,biathlon-mass-start-women,4,
+Justine,Braisaz-Bouchet,fra,biathlon-mass-start-women,2,
+Elvira,Oeberg,swe,biathlon-mass-start-women,3,
+Dorothea,Wierer,ita,biathlon-mass-start-women,3,
 Hanna,Oeberg,swe,biathlon-mass-start-women,2,
-Camille,Bened,fra,biathlon-mass-start-women,2,
+Camille,Bened,fra,biathlon-mass-start-women,1,
 Amy,Baserga,sui,biathlon-mass-start-women,1,
-Fransizska,Preuss,ger,biathlon-mass-start-women,1,
+Fransizska,Preuss,ger,biathlon-mass-start-women,2,
 Vanessa,Voigt,ger,biathlon-mass-start-women,1,
 Karoline,Knotten,nor,biathlon-mass-start-women,1,
-Lisa,Vittozzi,ita,biathlon-mass-start-women,1,
+Lisa,Vittozzi,ita,biathlon-mass-start-women,2,
 Suvi,Minkkinen,fin,biathlon-mass-start-women,1,
+Julia,Simon,fra,biathlon-mass-start-women,2,
+Ingrid,Tandrevold,nor,biathlon-mass-start-women,1,
+Anna,Magnusson,swe,biathlon-mass-start-women,1,
+Lisa,Hauser,aut,biathlon-mass-start-women,1,
+Marketa,Davidova,cze,biathlon-mass-start-women,1,
+Oceane,Michelon,fra,biathlon-mass-start-women,1,
 Team,France - Biathlon Women,fra,biathlon-relay-women,4,
 Team,Norway - Biathlon Women,nor,biathlon-relay-women,3,
 Team,Sweden - Biathlon Women,swe,biathlon-relay-women,3,
@@ -176,60 +210,83 @@ Team,Finland - Biathlon Women,fin,biathlon-relay-women,1,
 Team,Czech Republic - Biathlon Women,cze,biathlon-relay-women,1,
 Team,France - Biathlon Mixed,fra,biathlon-relay-mixed,4,
 Team,Norway - Biathlon Mixed,nor,biathlon-relay-mixed,3,
-Team,Italy - Biathlon Mixed,ita,biathlon-relay-mixed,3,
-Team,Sweden - Biathlon Mixed,swe,biathlon-relay-mixed,2,
+Team,Italy - Biathlon Mixed,ita,biathlon-relay-mixed,2,
+Team,Sweden - Biathlon Mixed,swe,biathlon-relay-mixed,3,
 Team,Germany - Biathlon Mixed,ger,biathlon-relay-mixed,2,
 Team,USA - Biathlon Mixed,usa,biathlon-relay-mixed,1,
 Team,Czech Republic - Biathlon Mixed,cze,biathlon-relay-mixed,1,
+Team,Finland - Biathlon Mixed,fin,biathlon-relay-mixed,1,
+Team,Switzerland – Biathlon Mixed,sui,biathlon-relay-mixed,1,
 Johan-Olav,Botn,nor,biathlon-individual-men,3,The current discipline leader who can win by huge margins if his range work matches his elite ski speed.
 Eric,Perrot,fra,biathlon-individual-men,4,"The reigning World Champion and fastest skier this season, making him the man to beat if he stays calm on the mats."
 Tommaso,Giacomel,ita,biathlon-individual-men,3,The overall World Cup leader carrying the hopes of Italy; he’s a podium lock if he survives the final standing bout.
-Emilien,Jacquelin,fra,biathlon-individual-men,2,"An instinctive ""artist"" on skis whose lightning-fast shooting could deliver a medal or a collapse in this high-penalty format."
+Emilien,Jacquelin,fra,biathlon-individual-men,1,"An instinctive ""artist"" on skis whose lightning-fast shooting could deliver a medal or a collapse in this high-penalty format."
 Martin,Uldal,nor,biathlon-individual-men,2,"A model of consistency currently sitting second in the individual standings, making him a major threat for a podium."
 Sebastian,Samuelsson,swe,biathlon-individual-men,2,A tactical master at altitude who has tailored his entire 2026 preparation to peak for this specific gold medal.
-Sturla Holm,Laegreid,nor,biathlon-individual-men,2,The world’s best shooter and defending overall champ; his 90%+ accuracy makes him a safe bet for an Olympic medal.
+Sturla Holm,Laegreid,nor,biathlon-individual-men,3,The world’s best shooter and defending overall champ; his 90%+ accuracy makes him a safe bet for an Olympic medal.
 Lukas,Hofer,ita,biathlon-individual-men,1,"The veteran Italian ""speedster"" who could ride a wave of home-crowd energy to one final surprise career podium."
 Sturla Holm,Laegreid,nor,biathlon-individual-men,1,
-Quentin,Fillon Maillet,fra,biathlon-individual-men,1,"The defending champion whose experience and Olympic ""clutch"" factor make him dangerous despite a quieter season."
+Quentin,Fillon Maillet,fra,biathlon-individual-men,2,"The defending champion whose experience and Olympic ""clutch"" factor make him dangerous despite a quieter season."
 Johannes,Dale-Skjevdal,nor,biathlon-individual-men,1,"One of the fastest finishers in the world who needs a rare ""clean"" day on the range to grab a medal."
 Oscar,Lombardot,fra,biathlon-individual-men,1,A steady young Frenchman who is capable of a top-10 finish if the high-altitude conditions cause the favorites to miss.
+Vetle,Christiansen,nor,biathlon-individual-men,1,
+Martin,Ponsiluoma,swe,biathlon-individual-men,1,
+Campbell,Wright,usa,biathlon-individual-men,1,
+Fabien,Claude,fra,biathlon-individual-men,1,
+Niklas,Hartweg,sui,biathlon-individual-men,1,
+Philipp,Nawrath,ger,biathlon-individual-men,1,
+Justus,Strelow,ger,biathlon-individual-men,1,
 Tommaso,Giacomel,ita,biathlon-sprint-men,4,"The current Sprint World Cup leader. He won the Oberhof sprint (Jan 8, 2026) and was 2nd in Ruhpolding just days ago. His ski speed is currently #1 in the world, and performing in front of his home crowd in Antholz makes him the man to beat."
 Sebastian,Samuelsson,swe,biathlon-sprint-men,3,"The winner of the most recent sprint in Ruhpolding (Jan 17, 2026). He is a master of the ""short"" game and thrives in high-altitude conditions. He is high variance only because he sometimes struggles with ""shaky legs"" in the final standing stage."
 Eric,Perrot,fra,biathlon-sprint-men,3,"Currently 3rd in the sprint standings. He is the fastest finisher in the field and has finished in the top 6 of every sprint this January. If he shoots 10/10, he will likely win gold."
-Quentin,Fillon Maillet,fra,biathlon-sprint-men,2,"The veteran hasn't won a sprint this year, but his experience in Olympic pressure is unmatched. He is currently 4th in the sprint standings."
+Quentin,Fillon Maillet,fra,biathlon-sprint-men,1,"The veteran hasn't won a sprint this year, but his experience in Olympic pressure is unmatched. He is currently 4th in the sprint standings."
 Johan-Olav,Botn,nor,biathlon-sprint-men,2,"The Yellow Bib holder for much of the season. While he specializes in longer distances, his raw power makes him a threat here. He finished 4th in the Annecy sprint and is looking for his first sprint podium of the year."
 Johannes,Dale-Skjevdal,nor,biathlon-sprint-men,2,"Coming off a massive Pursuit win in Ruhpolding (Jan 18). He is arguably the fastest ""pure"" skier in Norway right now. He finished 3rd in the Oberhof sprint and is in the best form of his career."
-Sturla Holm,Laegreid,nor,biathlon-sprint-men,1,"While better suited for the 20km, his 95% shooting accuracy in sprints this season (19/20) means he is always waiting to pounce if the ""speedsters"" miss."
-Philipp,Nawarth,ger,biathlon-sprint-men,1,A powerhouse who thrives in the heavy snow conditions often found in Antholz. He secured a brilliant 2nd place in the Oberhof sprint and remains a top-10 fixture.
+Sturla Holm,Laegreid,nor,biathlon-sprint-men,2,"While better suited for the 20km, his 95% shooting accuracy in sprints this season (19/20) means he is always waiting to pounce if the ""speedsters"" miss."
+Philipp,Nawrath,ger,biathlon-sprint-men,1,A powerhouse who thrives in the heavy snow conditions often found in Antholz. He secured a brilliant 2nd place in the Oberhof sprint and remains a top-10 fixture.
 Vetle,Christiansen,nor,biathlon-sprint-men,1,"The winner of the Annecy sprint this season, he is a ""last-loop"" specialist who can snatch a medal with his superior finishing speed even if he's trailing at the final split."
 Martin,Ponsiluoma,swe,biathlon-sprint-men,1,A former Sprint World Champion who remains one of the fastest skiers on the tour; he is a podium lock if he manages to keep his standing shooting under control.
 Martin,Uldal,nor,biathlon-sprint-men,1,"Currently 5th in the sprint standings. He is the most consistent of the ""New Norwegians"" and has a very high floor, rarely finishing outside the top 10."
 Lukas,Hofer,ita,biathlon-sprint-men,1,"The local hero. He finished 8th in Oberhof and knows every centimeter of the Antholz track. A ""fairytale"" bronze in his final Olympics is not out of the question."
+Emilien,Jacquelin,fra,biathlon-sprint-men,1,
+Martin,Ponsiluoma,swe,biathlon-sprint-men,1,
+Campbell,Wright,usa,biathlon-sprint-men,1,
+Fabien,Claude,fra,biathlon-sprint-men,1,
+Philipp,Horn,ger,biathlon-sprint-men,1,
 Tommaso,Giacomel,ita,biathlon-pursuit-men,4,A relentless attacker whose aggressive skiing and rapid-fire shooting style make him the primary gold medal threat on his home tracks.
-Eric,Perrot,fra,biathlon-pursuit-men,4,"Possesses the most explosive acceleration in the field, allowing him to close gaps instantly if he can maintain composure during the standing bouts."
+Eric,Perrot,fra,biathlon-pursuit-men,3,"Possesses the most explosive acceleration in the field, allowing him to close gaps instantly if he can maintain composure during the standing bouts."
 Sebastian,Samuelsson,swe,biathlon-pursuit-men,3,"The ultimate tactical ""chess player"" who excels at pacing himself behind leaders before unleashing a powerful, decisive final lap."
-Johannes,Dale-Skjevdal,nor,biathlon-pursuit-men,3,"A pure powerhouse whose ""never-say-die"" attitude and high-speed endurance make him the most dangerous closer in a sprint finish."
-Johan-Olav,Botn,nor,biathlon-pursuit-men,2,A heavy hitter on the skis who can skyrocket up the leaderboard provided he manages the high-altitude shooting challenges of Antholz.
+Johannes,Dale-Skjevdal,nor,biathlon-pursuit-men,2,"A pure powerhouse whose ""never-say-die"" attitude and high-speed endurance make him the most dangerous closer in a sprint finish."
+Johan-Olav,Botn,nor,biathlon-pursuit-men,3,A heavy hitter on the skis who can skyrocket up the leaderboard provided he manages the high-altitude shooting challenges of Antholz.
 Martin,Ponsiluoma,swe,biathlon-pursuit-men,2,"When his rhythm is dialed in, he is arguably the fastest man on snow, capable of dominating the pursuit if he avoids the penalty loop."
 Quentin,Fillon Maillet,fra,biathlon-pursuit-men,2,"A seasoned pursuit specialist with a legendary ""clutch"" factor, he knows exactly how to navigate the psychological warfare of four shooting stages."
 Martin,Uldal,nor,biathlon-pursuit-men,1,A model of consistency and precision who relies on technical excellence to pick off rivals who buckle under the Olympic pressure.
 Emilien,Jacquelin,fra,biathlon-pursuit-men,1,"An instinctive and unpredictable racer whose ""all-or-nothing"" shooting speed can either demoralize the field or lead to high-risk errors."
-Sturla Holm,Laegreid,nor,biathlon-pursuit-men,1,"The clinical ""surgeon"" of the range; he is the most likely athlete to move from a mid-pack start to a medal through pure 20/20 accuracy."
+Sturla Holm,Laegreid,nor,biathlon-pursuit-men,2,"The clinical ""surgeon"" of the range; he is the most likely athlete to move from a mid-pack start to a medal through pure 20/20 accuracy."
 Fabien,Claude,fra,biathlon-pursuit-men,1,"An incredibly athletic skier who has matured into a reliable relay and pursuit threat, capable of a late-race surge into the top three."
-Philipp,Nawarth,ger,biathlon-pursuit-men,1,"A physical giant who thrives on tough, grinding courses where his raw strength can wear down more technical skiers."
+Philipp,Nawrath,ger,biathlon-pursuit-men,1,"A physical giant who thrives on tough, grinding courses where his raw strength can wear down more technical skiers."
+Vetle,Christiansen,nor,biathlon-pursuit-men,1,
+Fabien,Claude,fra,biathlon-pursuit-men,1,
 Campbell,Wright,usa,biathlon-pursuit-men,1,"A brilliant tactical racer with a high ceiling, he is a dark horse who consistently stays in the hunt by making smart moves in the pack."
-Tommaso,Giacomel,ita,biathlon-mass-start-men,4,A relentless home-track favorite who combines lightning-fast shooting with the world’s most explosive ski speed to lead the pack.
-Eric,Perrot,fra,biathlon-mass-start-men,3,"A physical powerhouse capable of breaking the field on the steep climbs, he is a gold medal threat whenever he manages his aggressive shooting rhythm."
+Philipp,Horn,ger,biathlon-pursuit-men,1,
+Tommaso,Giacomel,ita,biathlon-mass-start-men,3,A relentless home-track favorite who combines lightning-fast shooting with the world’s most explosive ski speed to lead the pack.
+Eric,Perrot,fra,biathlon-mass-start-men,4,"A physical powerhouse capable of breaking the field on the steep climbs, he is a gold medal threat whenever he manages his aggressive shooting rhythm."
 Vetle,Christiansen,nor,biathlon-mass-start-men,2,"The ultimate ""tactical closer"" who can lurk in the draft all race before devastating his rivals with a clinical final standing stage and a sprint finish."
 Johannes,Dale-Skjevdal,nor,biathlon-mass-start-men,3,"Known for his unmatched ""last-loop"" engine, he is the most dangerous athlete to have in a lead group heading into the final kilometers."
 Sebastian,Samuelsson,swe,biathlon-mass-start-men,2,"A smart, calculated racer who excels at high altitude and knows exactly when to initiate a decisive break to avoid a crowded sprint finish."
 Johan-Olav,Botn,nor,biathlon-mass-start-men,2,"A raw power skier who can absorb the pressure of the pack, he relies on his massive endurance to keep him in contention despite the heavy altitude."
-Sturla Holm,Laegreid,nor,biathlon-mass-start-men,2,"The most composed shooter in the field; he is the specialist most likely to stay ""clean"" while the high-speed racers succumb to the tension of the final standing bout."
+Sturla Holm,Laegreid,nor,biathlon-mass-start-men,3,"The most composed shooter in the field; he is the specialist most likely to stay ""clean"" while the high-speed racers succumb to the tension of the final standing bout."
 Justus,Strelow,ger,biathlon-mass-start-men,1,"A master of precision who stays out of trouble in the pack, waiting for a ""shooting war"" to eliminate the favorites so his accuracy can carry him to the podium."
-Emilien,Jacquelin,fra,biathlon-mass-start-men,1,"An instinctive and emotional racer who thrives in the head-to-head chaos, capable of a legendary performance if he finds his ""flow"" on the range."
+Emilien,Jacquelin,fra,biathlon-mass-start-men,2,"An instinctive and emotional racer who thrives in the head-to-head chaos, capable of a legendary performance if he finds his ""flow"" on the range."
 Campbell,Wright,usa,biathlon-mass-start-men,1,"A young, rising star with elite tactical awareness, he is a dark horse who has proven he can stay calm and competitive against the sport's biggest names."
 Joscha,Burkhalter,sui,biathlon-mass-start-men,1,A steady Swiss outsider who relies on efficient skiing and clean shooting to climb the rankings when the more aggressive favorites falter.
 Lukas,Hofer,ita,biathlon-mass-start-men,1,The local legend fueled by the home crowd; his decades of experience at Antholz make him a sentimental but very real threat for a podium in his final Games.
+Martin,Ponsiluoma,swe,biathlon-mass-start-men,1,
+Quentin,Fillon Maillet,fra,biathlon-mass-start-men,1,
+Martin,Uldal,nor,biathlon-mass-start-men,1,
+Philipp,Nawrath,ger,biathlon-mass-start-men,1,
+Fabien,Claude,fra,biathlon-mass-start-men,1,
+Niklas,Hartweg,sui,biathlon-mass-start-men,1,
 Team,Norway - Biathlon Men,nor,biathlon-relay-men,4,
 Team,France - Biathlon Men,fra,biathlon-relay-men,4,
 Team,Germany - Biathlon Men,ger,biathlon-relay-men,2,
@@ -238,10 +295,10 @@ Team,Italy - Biathlon Men,ita,biathlon-relay-men,2,
 Team,USA - Biathlon Men,usa,biathlon-relay-men,1,
 Team,Czech Republic - Biathlon Men,cze,biathlon-relay-men,1,
 Laura,Nolte,ger,bobsled-monobob-women,4,"The newly crowned 2025/2026 World Cup overall champion. She won the season opener on this very track in Cortina and has been the most consistent pilot all winter, rarely finishing off the podium."
-Bree,Walker,aus,bobsled-monobob-women,4,"The world #2 who had a historic season with three World Cup wins, including a dominant gold in St. Moritz. She is arguably the best pure driver in the field, but her medal hopes depend on her push times staying competitive with the power athletes."
+Bree,Walker,aus,bobsled-monobob-women,3,"The world #2 who had a historic season with three World Cup wins, including a dominant gold in St. Moritz. She is arguably the best pure driver in the field, but her medal hopes depend on her push times staying competitive with the power athletes."
 Kaillie,Humphries,usa,bobsled-monobob-women,3,"The defending Olympic Champion. After a slow start to her post-partum comeback season, she won the World Cup finale in Altenberg on January 17. She is the master of peaking for major championships and remains the gold medal benchmark"
 Lisa,Buckwitz,ger,bobsled-monobob-women,2,"The 2024 World Champion and overall World Cup winner of the previous two seasons. While she finished 3rd in the standings this year, her explosive push start makes her a threat to lead any race from the first corner."
-Katrin,Beierl,aut,bobsled-monobob-women,2,"Coming off a strong 5th place in the Altenberg finale, she has found her rhythm late in the season and excels on technical tracks."
+Katrin,Beierl,aut,bobsled-monobob-women,1,"Coming off a strong 5th place in the Altenberg finale, she has found her rhythm late in the season and excels on technical tracks."
 Melissa,Lotholz,can,bobsled-monobob-women,1,"A model of consistency who finished in the top six for six out of seven races this winter, proving she is always ready to capitalize on others' mistakes."
 Kaysha,Love,usa,bobsled-monobob-women,2,"The 2024 World Champion who started the season with a win in Innsbruck. She has the fastest start times in the world; if she nails her lines in Cortina, she is a lock for a medal."
 Melanie,Hasler,sui,bobsled-monobob-women,1,A remarkably consistent performer who finished on the podium in St. Moritz and was the leader after the first heat in Cortina earlier this year.
@@ -262,121 +319,138 @@ Elena,Meyers Taylor,usa,bobsled-monobob-women,1,The most decorated American bobs
 ,Hall/Lawrence,gbr,bobsled-2-men,1,"A veteran duo that found their form late in the season with a podium finish in St. Moritz (Jan 10, 2026). Hall is a fearless driver who thrives on high-speed, technical tracks and is a major threat for bronze."
 ,Kim/Kim,kor,bobsled-2-men,1,"A huge surprise this winter, finishing 5th in the overall standings. They nearly medaled in the season opener in Cortina and have proven they can match the start speeds of the Europeans."
 ,Vogt/Michel,sui,bobsled-2-men,1,"Switzerland’s top hope who secured several top-5 finishes this winter before a late-season injury scare. If fully healthy, their aerodynamic sled and smooth driving lines make them constant podium threats."
-,Team Germany - Lochner,ger,bobsled-4-men,4,"The 2025/2026 World Cup overall champion. He won the season opener on the Olympic track in Cortina and has been the most consistent pilot all winter. With a push crew that includes Georg Fleischhauer, they have the perfect balance of start power and technical driving."
-,Team Germany - Ammour,ger,bobsled-4-men,4,"The breakout star who won the final World Cup race of the season in Altenberg (Jan 18, 2026). Along with his brother Issam Ammour, he has the fastest start times in the world. If he maintains his recent form, an all-German podium sweep is a very real possibility."
+,Team Germany - Lochner,ger,bobsled-4-men,5,"The 2025/2026 World Cup overall champion. He won the season opener on the Olympic track in Cortina and has been the most consistent pilot all winter. With a push crew that includes Georg Fleischhauer, they have the perfect balance of start power and technical driving."
+,Team Germany - Ammour,ger,bobsled-4-men,3,"The breakout star who won the final World Cup race of the season in Altenberg (Jan 18, 2026). Along with his brother Issam Ammour, he has the fastest start times in the world. If he maintains his recent form, an all-German podium sweep is a very real possibility."
 ,Team Germany - Friedrich,ger,bobsled-4-men,3,"The ""G.O.A.T."" of bobsled. Although he finished 2nd in the overall standings, he won in Winterberg this January and remains the master of the four-run Olympic format. He is ""high variance"" only because he has faced mechanical issues and tighter competition this year than in previous Olympic cycles."
-,Team Italy - Baumgartner,ita,bobsled-4-men,2,"The ""Local Hero."" He secured a podium in Innsbruck earlier this season and knows the Cortina track better than anyone. Fuelled by the home fans, his familiarity with the Eugenio Monti curves could propel him into the medals."
+,Team Italy - Baumgartner,ita,bobsled-4-men,1,"The ""Local Hero."" He secured a podium in Innsbruck earlier this season and knows the Cortina track better than anyone. Fuelled by the home fans, his familiarity with the Eugenio Monti curves could propel him into the medals."
 ,Team GBR - Hall,gbr,bobsled-4-men,2,"The best non-German sled in the world, finishing 4th in the overall standings. Hall is a ""big-game hunter"" who thrives on the world's most difficult tracks. With a fully healthy Taylor Lawrence back in the sled, they are the primary threat to break the German dominance."
 ,Team Korea - Kim,kor,bobsled-4-men,1,"Made history with Korea’s first-ever 4-man podium in the Cortina season opener. While they’ve been more erratic on European tracks, they clearly love the Olympic venue."
 ,Team Austria - Treichel,aut,bobsled-4-men,1,A model of consistency who finished the season strong with a 5th place in Altenberg. He is a veteran who rarely makes mistakes and is perfectly positioned to pounce if the favorites falter.
 ,Team Switzerland - Vogt,sui,bobsled-4-men,1,"Switzerland’s top hope who secured a bronze in St. Moritz just two weeks ago. He is a technical specialist who finds speed in the transitions where other pilots struggle, making him a major podium threat on the Cortina ice."
 Ebba,Andersson,swe,crosscountry-skiing-skiathlon-women,4,"The reigning World Champion and 2026 World Cup 10km Freestyle winner. She is the strongest ""pure"" distance skier, but after finishing 3rd behind Diggins in the Trondheim World Cup, she knows she must drop the American before the final kilometer."
-Jessie,Diggins,usa,crosscountry-skiing-skiathlon-women,4,The current World Cup leader and winner of the December Trondheim Skiathlon. Her ability to survive the classic leg and unleash a lethal skating sprint makes her the definitive favorite for gold in her Olympic swan song.
-Heidi,Weng,nor,crosscountry-skiing-skiathlon-women,3,"The silver medalist from the Trondheim World Cup. She is in her best form in years and is a specialist in high-altitude racing, making her a serious threat to spoil the US-Sweden rivalry."
+Jessie,Diggins,usa,crosscountry-skiing-skiathlon-women,3,The current World Cup leader and winner of the December Trondheim Skiathlon. Her ability to survive the classic leg and unleash a lethal skating sprint makes her the definitive favorite for gold in her Olympic swan song.
+Heidi,Weng,nor,crosscountry-skiing-skiathlon-women,2,"The silver medalist from the Trondheim World Cup. She is in her best form in years and is a specialist in high-altitude racing, making her a serious threat to spoil the US-Sweden rivalry."
 Moa,Ilar,swe,crosscountry-skiing-skiathlon-women,2,The most consistent Swedish skier this January. She finished 2nd in the recent 10km Freestyle in Trondheim and has the endurance to hang with the leaders until the very end.
 Frida,Karlsson,swe,crosscountry-skiing-skiathlon-women,2,"A wildcard who can destroy the field on her best day but struggled with positioning in Trondheim (finishing 5th). Her high-risk, high-reward style makes her a gold-or-bust contender."
-Teresa,Stadlober,aut,crosscountry-skiing-skiathlon-women,2,The ultimate altitude specialist. She always finds an extra gear in Val di Fiemme and finished a strong 8th in the Trondheim World Cup tune-up.
-Astrid,Slind,nor,crosscountry-skiing-skiathlon-women,1,A marathon expert who thrives as the race gets longer and harder. She led much of the Trondheim World Cup race and will likely try to break the pack early in Val di Fiemme.
-Jonna,Sundling,swe,crosscountry-skiing-skiathlon-women,1,A sprint legend who can stay with the distance pack if the pace isn't suicidal; she remains the most dangerous person to have in a 100m dash to the line.
+Teresa,Stadlober,aut,crosscountry-skiing-skiathlon-women,1,The ultimate altitude specialist. She always finds an extra gear in Val di Fiemme and finished a strong 8th in the Trondheim World Cup tune-up.
+Astrid,Slind,nor,crosscountry-skiing-skiathlon-women,2,A marathon expert who thrives as the race gets longer and harder. She led much of the Trondheim World Cup race and will likely try to break the pack early in Val di Fiemme.
+Jonna,Sundling,swe,crosscountry-skiing-skiathlon-women,3,A sprint legend who can stay with the distance pack if the pace isn't suicidal; she remains the most dangerous person to have in a 100m dash to the line.
 Nadja,Kaelin,sui,crosscountry-skiing-skiathlon-women,1,"The breakout Swiss talent who has been a top-10 regular this winter and excels on technical, hilly courses."
-Jessie,Diggins,usa,crosscountry-skiing-10km-free-women,4,"The undisputed queen of the 10km Freestyle. She is the reigning World Champion in this event and has won nearly every major individual freestyle race this season. In an interval start where she can ""hunt"" the times of others, she is the clear gold medal favorite."
-Moa,Ilar,swe,crosscountry-skiing-10km-free-women,4,A revelation in freestyle this year; she finished 2nd in the Trondheim 10km Freestyle (Dec 2025) and has become the most consistent skater on the deep Swedish team.
-Ebba,Andersson,swe,crosscountry-skiing-10km-free-women,3,"While she is world-class in both techniques, she is often slightly more vulnerable in pure skating compared to Diggins. However, her high-altitude engine is so massive that she remains a lock for a medal and the biggest threat to Diggins' gold."
+Karoline,Simpson-Larsen,nor,crosscountry-skiing-skiathlon-women,1,
+Kerttu,Niskanen,fin,crosscountry-skiing-skiathlon-women,1,
+Krista,Parmakoski,fin,crosscountry-skiing-skiathlon-women,1,
+Jessie,Diggins,usa,crosscountry-skiing-10km-free-women,3,"The undisputed queen of the 10km Freestyle. She is the reigning World Champion in this event and has won nearly every major individual freestyle race this season. In an interval start where she can ""hunt"" the times of others, she is the clear gold medal favorite."
+Moa,Ilar,swe,crosscountry-skiing-10km-free-women,2,A revelation in freestyle this year; she finished 2nd in the Trondheim 10km Freestyle (Dec 2025) and has become the most consistent skater on the deep Swedish team.
+Ebba,Andersson,swe,crosscountry-skiing-10km-free-women,4,"While she is world-class in both techniques, she is often slightly more vulnerable in pure skating compared to Diggins. However, her high-altitude engine is so massive that she remains a lock for a medal and the biggest threat to Diggins' gold."
 Karoline,Simpson-Larsen,nor,crosscountry-skiing-10km-free-women,2,"The breakthrough star of the winter who shocked the field by winning the Alpe Cermis Final Climb and the Davos 10km Freestyle, making her Norway’s premier gold medal threat in the skating interval start."
-Astrid,Slind,nor,crosscountry-skiing-10km-free-women,1,"Primarily known for her endurance, she has improved her skating significantly and could use her massive engine to snag a bronze if the conditions are slow and heavy."
-Maja,Dahlqvist,swe,crosscountry-skiing-10km-free-women,2,"While primarily a sprint specialist, she has shown impressive distance growth this season with a 2nd place in the Bruksvallarna 10km Freestyle and a top-5 finish in Davos, proving she can maintain elite speed over longer loops."
+Astrid,Slind,nor,crosscountry-skiing-10km-free-women,3,"Primarily known for her endurance, she has improved her skating significantly and could use her massive engine to snag a bronze if the conditions are slow and heavy."
 Heidi,Weng,nor,crosscountry-skiing-10km-free-women,2,"A specialist on the hilly Val di Fiemme tracks. She excels at skating on steep terrain, which is exactly what the Olympic course offers."
-Frida,Karlsson,swe,crosscountry-skiing-10km-free-women,1,"The winner of several freestyle races this season, including a dominant performance in Davos. She is ""high variance"" because she often starts at a pace that is impossible to sustain, leading to dramatic final-kilometer battles."
+Frida,Karlsson,swe,crosscountry-skiing-10km-free-women,2,"The winner of several freestyle races this season, including a dominant performance in Davos. She is ""high variance"" because she often starts at a pace that is impossible to sustain, leading to dramatic final-kilometer battles."
 Teresa,Stadlober,aut,crosscountry-skiing-10km-free-women,1,"Thrives at altitude and in the freestyle technique. She has multiple top-5 finishes in 10km skating races this January and will be the ""dark horse"" everyone is watching."
-Nora,Sanness,nor,crosscountry-skiing-10km-free-women,1,"A rising distance talent who secured a career-best 3rd place in the Norwegian National Championships last week and a strong 7th in the Val di Fiemme World Cup, marking her as a serious ""podium outsider"" for the Games."
 Helen,Hoffmann,ger,crosscountry-skiing-10km-free-women,1,"The former U23 World Champion who has successfully transitioned to the senior elite, highlighted by a top-10 finish in the grueling Val di Fiemme mass start and a consistent ability to out-climb veteran racers."
-Jessie,Diggins,usa,crosscountry-skiing-50km-classic-women,3,"While she is better known for skating, her 4th place in the Oberhof 10km Classic (Jan 18, 2026) proved her classic form is at an all-time high. Her grit is unmatched, though 50km of classic is the most physically demanding test for her."
+Jonna,Sundling,swe,crosscountry-skiing-10km-free-women,2,
+Maria,Gismondi,ita,crosscountry-skiing-10km-free-women,1,
+Jessie,Diggins,usa,crosscountry-skiing-50km-classic-women,2,"While she is better known for skating, her 4th place in the Oberhof 10km Classic (Jan 18, 2026) proved her classic form is at an all-time high. Her grit is unmatched, though 50km of classic is the most physically demanding test for her."
 Ebba,Andersson,swe,crosscountry-skiing-50km-classic-women,3,"The gold standard for long-distance classic racing. She is the 2023 World Champion in the 30km Classic and has dominated marathon-style events this season. Her engine is perfectly tuned for the 50km distance, and she rarely has a ""bad"" day in the classic technique."
-Moa,Ilar,swe,crosscountry-skiing-50km-classic-women,3,"After her massive 10km Freestyle win in Holmenkollen and a top-5 distance ranking this season, she has proven she can hang with the elite; however, she'll need to stay patient during the classic leg to ensure she has enough ""juice"" for the final 10km of a 50km marathon."
+Moa,Ilar,swe,crosscountry-skiing-50km-classic-women,1,"After her massive 10km Freestyle win in Holmenkollen and a top-5 distance ranking this season, she has proven she can hang with the elite; however, she'll need to stay patient during the classic leg to ensure she has enough ""juice"" for the final 10km of a 50km marathon."
 Teresa,Stadlober,aut,crosscountry-skiing-50km-classic-women,2,"The altitude queen. She has a history of peaking for the longest races of the season and finished on the podium in the Toblach 10km Classic this winter. She will be the ""home"" favorite in the Alps."
-Frida,Karlsson,swe,crosscountry-skiing-50km-classic-women,2,"The reigning 50km World Champion (from Trondheim 2025). While she won that title in Freestyle, she is a powerhouse in Classic as well. She is ""high variance"" because her aggressive racing style can lead to early breakaways that either result in a dominant gold or a late-race ""bonk."""
+Frida,Karlsson,swe,crosscountry-skiing-50km-classic-women,3,"The reigning 50km World Champion (from Trondheim 2025). While she won that title in Freestyle, she is a powerhouse in Classic as well. She is ""high variance"" because her aggressive racing style can lead to early breakaways that either result in a dominant gold or a late-race ""bonk."""
 Heidi,Weng,nor,crosscountry-skiing-50km-classic-women,2,A veteran who has found a second wind this season. She finished 2nd in the 50km at the 2025 World Championships and thrives at high altitude. Her tactical intelligence in mass starts makes her a safe bet for the podium.
-Astrid,Slind,nor,crosscountry-skiing-50km-classic-women,1,"A long-distance specialist who competes in both the World Cup and the Ski Classics marathon circuit. She is arguably the strongest ""pure"" classic pacer in the world over 50km. If the pace is high from the start, she can break the sprinters."
+Astrid,Slind,nor,crosscountry-skiing-50km-classic-women,3,"A long-distance specialist who competes in both the World Cup and the Ski Classics marathon circuit. She is arguably the strongest ""pure"" classic pacer in the world over 50km. If the pace is high from the start, she can break the sprinters."
 Jasmi,Joensuu,fin,crosscountry-skiing-50km-classic-women,1,"The reigning Sprint World Cup champion is a classic-technique maestro who recently won on the Olympic track in Val di Fiemme, but while her technical ""kick"" is world-class, her endurance over 50km remains a major question mark against the pure distance specialists."
-Kerttu,Niskanen,fin,crosscountry-skiing-50km-classic-women,1,"A classic-technique maestro. If the conditions are ""old school"" (icy and technical), she is a top-3 contender. At age 37, the 50km distance is a massive test of her recovery, but her technical efficiency saves her energy."
+Kerttu,Niskanen,fin,crosscountry-skiing-50km-classic-women,2,"A classic-technique maestro. If the conditions are ""old school"" (icy and technical), she is a top-3 contender. At age 37, the 50km distance is a massive test of her recovery, but her technical efficiency saves her energy."
+Johanna,Matintalo,fin,crosscountry-skiing-50km-classic-women,1,
+Katharina,Hennig,ger,crosscountry-skiing-50km-classic-women,1,
 Team,Sweden - Cross Country Women,swe,crosscountry-skiing-relay-women,5,
 Team,Norway - Cross Country Women,nor,crosscountry-skiing-relay-women,3,
 Team,Germany - Cross Country Women,ger,crosscountry-skiing-relay-women,2,
-Team,Finland - Cross Country Women,fin,crosscountry-skiing-relay-women,1,
+Team,Finland - Cross Country Women,fin,crosscountry-skiing-relay-women,2,
 Team,USA - Cross Country Women,usa,crosscountry-skiing-relay-women,1,
 Team,Switzerland - Cross Country Women,sui,crosscountry-skiing-relay-women,1,
 Jasmi,Joensuu,fin,crosscountry-skiing-sprint-classic-women,2,"The clear winner of the Val di Fiemme Olympic rehearsal (Jan 3, 2026); her mastery of the specific climbs and transitions on this Italian track makes her a primary podium threat."
-Maja,Dahlqvist,swe,crosscountry-skiing-sprint-classic-women,1,A bronze medalist in the Ruka opener and 4th in the Val di Fiemme rehearsal; her veteran experience makes her a dangerous threat in the chaotic environment of a sprint final.
+Maja,Dahlqvist,swe,crosscountry-skiing-sprint-classic-women,2,A bronze medalist in the Ruka opener and 4th in the Val di Fiemme rehearsal; her veteran experience makes her a dangerous threat in the chaotic environment of a sprint final.
 Nadine,Faehndrich,sui,crosscountry-skiing-sprint-classic-women,2,"The silver medalist from the Val di Fiemme test event; she is a technical specialist who excels on the winding, hilly courses typical of the Milano-Cortina Games."
 Jonna,Sundling,swe,crosscountry-skiing-sprint-classic-women,4,"The defending champion who secured a brilliant silver in Ruka; while she has balanced distance and sprint training this year, her classic technique is still arguably the most efficient in the field."
-Johanna,Hagstroem,swe,crosscountry-skiing-sprint-classic-women,1,The in-form Swedish star who delivered a tactical masterpiece to win the Trondheim Classic Sprint in December; she is currently the most consistent challenger to Skistad’s throne.
+Johanna,Hagstroem,swe,crosscountry-skiing-sprint-classic-women,2,The in-form Swedish star who delivered a tactical masterpiece to win the Trondheim Classic Sprint in December; she is currently the most consistent challenger to Skistad’s throne.
 Johanna,Matintalo,fin,crosscountry-skiing-sprint-classic-women,1,"A finalist in both Ruka and Val di Fiemme this season; she is a classic-style purist who can maintain a high pace that eventually snaps more ""explosive"" sprinters."
 Kristine,Skistad,nor,crosscountry-skiing-sprint-classic-women,3,"The world #1 who proved her dominance by winning the Ruka season opener; despite skipping the Val di Fiemme test, her raw power in the final 100 meters remains the gold standard."
 Linn,Svahn,swe,crosscountry-skiing-sprint-classic-women,3,
 Jessie,Diggins,usa,crosscountry-skiing-sprint-classic-women,1,"While not her specialty, her 7th-place finish in the Val di Fiemme rehearsal proves she can survive the classic heats; if she reaches the final, her ""never-say-die"" spirit makes her a dark horse."
-Team,Sweden - Cross Country Sprint Women,swe,crosscountry-skiing-team-sprint-women,4,
+Laura,Gimmler,ger,crosscountry-skiing-sprint-classic-women,1,
+Team,Sweden - Cross Country Sprint Women,swe,crosscountry-skiing-team-sprint-women,5,
 Team,Norway - Cross Country Sprint Women,nor,crosscountry-skiing-team-sprint-women,3,
-Team,Germany - Cross Country Sprint Women,ger,crosscountry-skiing-team-sprint-women,3,
+Team,Germany - Cross Country Sprint Women,ger,crosscountry-skiing-team-sprint-women,2,
 Team,Finland - Cross Country Sprint Women,fin,crosscountry-skiing-team-sprint-women,1,
 Team,USA - Cross Country Sprint Women,usa,crosscountry-skiing-team-sprint-women,1,
-Team,Switzerland - Cross Country Sprint Women,sui,crosscountry-skiing-team-sprint-women,1,
+Team,Switzerland - Cross Country Sprint Women,sui,crosscountry-skiing-team-sprint-women,2,
 Johannes,Klaebo,nor,crosscountry-skiing-sprint-classic-men,5,"The greatest sprinter in history. He has won every classic sprint he entered this season, including Ruka, Trondheim, and the Val di Fiemme Olympic rehearsal. His ability to accelerate on the steepest part of a climb is a ""cheat code"" that no one has solved yet."
 Oskar,Opstad Vike,nor,crosscountry-skiing-sprint-classic-men,2,
 Jules,Chappaz,fra,crosscountry-skiing-sprint-classic-men,2,"The silver medalist from the Val di Fiemme test event (Jan 3, 2026). He has proven he loves the Italian tracks and is the best non-Scandinavian classic sprinter in the world right now."
 Erik,Valnes,nor,crosscountry-skiing-sprint-classic-men,3,"The only man who consistently pushes Klæbo to the limit in the classic technique. He secured silver in Ruka and is a technical master; however, he is ""high variance"" because he occasionally suffers from tactical positioning issues in crowded semi-finals."
-Harald,Oestberg,nor,crosscountry-skiing-sprint-classic-men,1,
+Harald,Oestberg Amundsen,nor,crosscountry-skiing-sprint-classic-men,1,
 Anton,Grahn,swe,crosscountry-skiing-sprint-classic-men,1,"The young Swedish hope who took 3rd in the Val di Fiemme test event. He represents the ""new wave"" of Swedish sprinting and has the raw speed to spoil a Norwegian sweep."
-Oskar,Vike,nor,crosscountry-skiing-sprint-classic-men,2,"Another Norwegian sensation who podiumed in both Trondheim and Toblach this winter. He is a pure sprinter with a devastating kick, but the ""four-athlete per nation"" rule means he will have to fight just to make the Norwegian Olympic starting lineup."
 Federico,Pellegrino,ita,crosscountry-skiing-sprint-classic-men,1,"The home-crowd favorite. While he prefers skating, ""Chicco"" is a tactical genius who finished 4th in the Val di Fiemme rehearsal. In front of a partisan Italian crowd, he is capable of a legendary ""sunset"" performance in his final Games."
 Lauri,Vuorinen,fin,crosscountry-skiing-sprint-classic-men,1,"A model of consistency who has made nearly every classic final this season, including a 6th in Ruka. He is a classic-striding purist who benefits if the tracks are slow and heavy."
-Alvar,Mhylback,swe,crosscountry-skiing-sprint-classic-men,1,
+Alvar,Mhylback,swe,crosscountry-skiing-sprint-classic-men,2,
 Gus,Schumacher,usa,crosscountry-skiing-sprint-classic-men,1,
+Edvin,Anger,swe,crosscountry-skiing-sprint-classic-men,2,
+Simone,Mocellini,ita,crosscountry-skiing-sprint-classic-men,1,
 Team,Norway - Cross Country Sprint Men,nor,crosscountry-skiing-team-sprint-men,5,
 Team,Italy - Cross Country Sprint Men,ita,crosscountry-skiing-team-sprint-men,3,
 Team,USA - Cross Country Sprint Men,usa,crosscountry-skiing-team-sprint-men,2,
 Team,Sweden - Cross Country Sprint Men,swe,crosscountry-skiing-team-sprint-men,2,
 Team,Switzerland - Cross Country Sprint Men,sui,crosscountry-skiing-team-sprint-men,1,
-Team,France - Cross Country Sprint Men,fra,crosscountry-skiing-team-sprint-men,1,
+Team,France - Cross Country Sprint Men,fra,crosscountry-skiing-team-sprint-men,2,
 Team,Germany - Cross Country Sprint Men,ger,crosscountry-skiing-team-sprint-men,1,
 Team,Finalnd - Cross Country Sprint Men,fin,crosscountry-skiing-team-sprint-men,1,
 Einar,Hedegart,nor,crosscountry-skiing-10km-free-men,4,"The new sensation. He shocked the world by winning the 10km Freestyle in both Trondheim and Davos this December. He is ""high variance"" only because he is young and this is his first Olympics, but his raw speed right now is the best in the world."
-Harald,Amundsen,nor,crosscountry-skiing-10km-free-men,4,"The king of the 10km freestyle. He has been the most consistent skater over this distance for two seasons, winning in Ruka and finishing a close 2nd in Davos. His ability to pace an interval start is scientifically precise."
-Johannes,Klaebo,nor,crosscountry-skiing-10km-free-men,3,"While known for sprinting, his 4th place in the Davos 10km and his overall 2026 Tour de Ski victory prove he is now a premier distance skater. If he starts behind a specialist like Amundsen and can ""hunt"" their times, he is a gold medal threat."
-Martin,Nyenget,nor,crosscountry-skiing-10km-free-men,2,
+Harald,Amundsen,nor,crosscountry-skiing-10km-free-men,3,"The king of the 10km freestyle. He has been the most consistent skater over this distance for two seasons, winning in Ruka and finishing a close 2nd in Davos. His ability to pace an interval start is scientifically precise."
+Johannes,Klaebo,nor,crosscountry-skiing-10km-free-men,2,"While known for sprinting, his 4th place in the Davos 10km and his overall 2026 Tour de Ski victory prove he is now a premier distance skater. If he starts behind a specialist like Amundsen and can ""hunt"" their times, he is a gold medal threat."
+Martin,Nyenget,nor,crosscountry-skiing-10km-free-men,3,
 Arsi,Ruuskanen,fin,crosscountry-skiing-10km-free-men,1,"Finland’s most consistent distance improver this winter, he has secured three top-10 finishes in World Cup classic and freestyle races since December and represents a legitimate podium threat in the grueling 50km Classic."
-Hugo,Lapalus,fra,crosscountry-skiing-10km-free-men,1,A stylish and efficient skater from France who has become a staple of the World Cup top-10 this season.
+Mathis,Desloges,fra,crosscountry-skiing-10km-free-men,1,A stylish and efficient skater from France who has become a staple of the World Cup top-10 this season.
 Jules,Lapierre,fra,crosscountry-skiing-10km-free-men,1,"The ""Alpe Cermis specialist"" who recently proved his world-class climbing form with a 2nd place in the Val di Fiemme vertical mass start (January 4, 2026), making him a dangerous outsider for a medal on the punishing Olympic freestyle loops."
 Andrew,Musgrave,gbr,crosscountry-skiing-10km-free-men,1,"A relentless pacer whose ""diesel engine"" is perfectly suited for the 10km grind against the clock."
 Gus,Schumacher,usa,crosscountry-skiing-10km-free-men,1,"Coming off a historic season that included a World Cup win, he finished 7th in the Tour de Ski and has become a top-tier freestyle pacer."
 Mika,Vermeulen,aut,crosscountry-skiing-10km-free-men,1,
-William,Poromaa,swe,crosscountry-skiing-10km-free-men,1,
+William,Poromaa,swe,crosscountry-skiing-10km-free-men,2,
+Edvin,Anger,swe,crosscountry-skiing-10km-free-men,1,
+Elia,Barp,ita,crosscountry-skiing-10km-free-men,1,
 Johannes,Klaebo,nor,crosscountry-skiing-skiathlon-men,5,The gold standard who has combined his legendary sprint finish with world-leading distance endurance to become nearly unbeatable in mass starts.
 Harald,Amundsen,nor,crosscountry-skiing-skiathlon-men,3,A freestyle powerhouse who will likely be the one to launch the decisive attack midway through the skating leg.
 Martin,Nyenget,nor,crosscountry-skiing-skiathlon-men,3,
 Emil,Iversen,nor,crosscountry-skiing-skiathlon-men,2,A savvy veteran whose resurgence has added a dangerous layer of experience to the already dominant Norwegian squad.
-Mika,Vermeulen,aut,crosscountry-skiing-skiathlon-men,1,Austria’s engine who has become the most consistent threat to a Norwegian sweep in distance events.
+Mika,Vermeulen,aut,crosscountry-skiing-skiathlon-men,2,Austria’s engine who has become the most consistent threat to a Norwegian sweep in distance events.
 Mathis,Desloges,fra,crosscountry-skiing-skiathlon-men,1,"France's rising distance talent who proved his championship mettle with an 8th-place finish in the 2026 Tour de Ski, establishing himself as a top-10 threat in the Olympic interval start events."
 Elia,Barp,ita,crosscountry-skiing-skiathlon-men,1,Italy's rising star who has the tactical awareness to stay with the lead group and ride the home-crowd energy to a top result.
 Andrew,Musgrave,gbr,crosscountry-skiing-skiathlon-men,1,"Heading into his historic fifth Olympic Games with fresh momentum from an 8th-place finish on the Val di Fiemme final climb, the veteran remains a dangerous long-shot who thrives when the conditions are most grueling."
-Arsi,Ruuskanen,fin,crosscountry-skiing-skiathlon-men,1,"Currently sitting in the top 10 of the Distance World Cup standings after a breakthrough January, he is Finland’s most reliable engine for a surprise podium in the high-altitude distance races."
 Federico,Pellegrino,ita,crosscountry-skiing-skiathlon-men,1,
-Mika,Vermeulen,aut,crosscountry-skiing-skiathlon-men,1,
-Johannes,Klaebo,nor,crosscountry-skiing-50km-classic-men,5,The undisputed king of the sport who now possesses the endurance to survive 50km and the speed to win any sprint finish.
-Ivo,Niskanen,fin,crosscountry-skiing-50km-classic-men,3,"A classic-technique legend who will likely determine the outcome of the race with a massive, mid-race solo attack."
-Mattis,Stenshagen,nor,crosscountry-skiing-50km-classic-men,3,The definitive breakthrough star of the 2026 season who proved his classic pedigree by beating Klæbo in the Toblach 10km Classic (Dec 2025); his massive aerobic engine and recent Tour de Ski podium make him a contender for the 50km gold.
-Edvin,Anger,swe,crosscountry-skiing-50km-classic-men,2,"Sweden's aggressive young powerhouse who has transitioned from a pure sprinter to a distance threat, evidenced by his 3rd place in the Toblach 20km Classic (Jan 2026); while 50km is a new frontier for him, his finishing kick is a nightmare for the field if he is still there at the 49km mark."
+Edvin,Anger,swe,crosscountry-skiing-skiathlon-men,1,
+William,Poromaa,swe,crosscountry-skiing-skiathlon-men,1,
+Gus,Schumacher,usa,crosscountry-skiing-skiathlon-men,1,
+Hugo,Lapalus,fra,crosscountry-skiing-skiathlon-men,1,
+Calle,Halfvarsson,swe,crosscountry-skiing-skiathlon-men,1,
+Ivo,Niskanen,fin,crosscountry-skiing-skiathlon-men,1,
+Johannes,Klaebo,nor,crosscountry-skiing-50km-classic-men,4,The undisputed king of the sport who now possesses the endurance to survive 50km and the speed to win any sprint finish.
+Ivo,Niskanen,fin,crosscountry-skiing-50km-classic-men,2,"A classic-technique legend who will likely determine the outcome of the race with a massive, mid-race solo attack."
+Mattis,Stenshagen,nor,crosscountry-skiing-50km-classic-men,2,The definitive breakthrough star of the 2026 season who proved his classic pedigree by beating Klæbo in the Toblach 10km Classic (Dec 2025); his massive aerobic engine and recent Tour de Ski podium make him a contender for the 50km gold.
+Edvin,Anger,swe,crosscountry-skiing-50km-classic-men,1,"Sweden's aggressive young powerhouse who has transitioned from a pure sprinter to a distance threat, evidenced by his 3rd place in the Toblach 20km Classic (Jan 2026); while 50km is a new frontier for him, his finishing kick is a nightmare for the field if he is still there at the 49km mark."
 Federico,Pellegrino,ita,crosscountry-skiing-50km-classic-men,1,The Italian icon who will rely on home-crowd inspiration to try and stay in contention for one final Olympic miracle.
 Elia,Barp,ita,crosscountry-skiing-50km-classic-men,1,"The local hope who has become a consistent top-10 finisher in the classic technique this winter; while he is still developing the ""diesel"" required for a 50km marathon, the home crowd in Val di Fiemme could propel him to a surprise result."
-Martin,Nyenget,nor,crosscountry-skiing-50km-classic-men,2,"The most technically proficient classic skier in the field, currently in the best form of his career."
-Harald,Amundsen,nor,crosscountry-skiing-50km-classic-men,1,The overall World Cup contender who uses his massive aerobic capacity to shadow every major move in the pack.
+Martin,Nyenget,nor,crosscountry-skiing-50km-classic-men,4,"The most technically proficient classic skier in the field, currently in the best form of his career."
 Gus,Schumacher,usa,crosscountry-skiing-50km-classic-men,1,"Fresh off a historic 5km Freestyle win in Toblach (Dec 2025) and a top-10 finish in the Tour de Ski overall, the American leader has significantly improved his classic pacing and enters the 50km as the most likely non-European to crash the podium."
+Emil,Iversen,nor,crosscountry-skiing-50km-classic-men,2,
+Andrew,Musgrave,gbr,crosscountry-skiing-50km-classic-men,1,
+Mika,Vermeulen,aut,crosscountry-skiing-50km-classic-men,1,
+William,Poromaa,swe,crosscountry-skiing-skiathlon-men,1,
 Team,Norway - Cross Country Men,nor,crosscountry-skiing-relay-men,5,
-Team,Sweden - Cross Country Men,swe,crosscountry-skiing-relay-men,3,
+Team,Sweden - Cross Country Men,swe,crosscountry-skiing-relay-men,2,
 Team,France - Cross Country Men,fra,crosscountry-skiing-relay-men,3,
 Team,Switzerland - Cross Country Men,sui,crosscountry-skiing-relay-men,1,
-Team,Italy - Cross Country Men,ita,crosscountry-skiing-relay-men,2,
-Team,USA - Cross Country Men,usa,crosscountry-skiing-relay-men,1,
+Team,Italy - Cross Country Men,ita,crosscountry-skiing-relay-men,3,
+Team,USA - Cross Country Men,usa,crosscountry-skiing-relay-men,2,
 Team,Finland - Cross Country Men,fin,crosscountry-skiing-relay-men,1,
+Team,Germany - Cross Country Men,ger,crosscountry-skiing-relay-men,1,
 ,Constantini/Mosaner,ita,curling-mixed-doubles,5,The reigning Olympic and World champions who haven't lost a major international game in years and are playing on their home ice.
 ,Dodds/Mouat,gbr,curling-mixed-doubles,3,"A tactical powerhouse led by Bruce Mouat, looking to upgrade their 2025 World Silver to Olympic Gold."
 ,Skaslien/Nedregotten,nor,curling-mixed-doubles,3,"The most consistent pair in Olympic history, bringing veteran stability and world-class shot-making to their third Games."
@@ -392,6 +466,7 @@ Team,Switzerland - Curling Men,sui,curling-team-men,2,"The defensive masters of 
 Team,Italy - Curling Men,ita,curling-team-men,2,"The home-town heroes who have transformed into a global powerhouse, capable of beating any team when their ""big weight"" hits are landing."
 Team,USA - Curling Men,usa,curling-team-men,1,"The ""Young Guns"" who proved their mettle by dethroning an Olympic legend to earn their ticket to Italy."
 Team,Norway - Curling Men,nor,curling-team-men,1,A steady and experienced squad that relies on tactical endurance to wear down their opponents over ten ends.
+Team,Germany – Curling Men,ger,curling-team-men,1,
 Team,Switzerland - Curling Women,sui,curling-team-women,4,"The most successful tactical unit of the modern era, seeking to finally add Olympic gold to their haul of four world titles."
 Team,Canada - Curling Women,can,curling-team-women,4,"A dominant force led by Rachel Homan, currently in the middle of a historic multi-season winning streak that has returned Canada to the top of the podium."
 Team,Korea - Curling Women,kor,curling-team-women,2,A clinical and efficient team that has become a permanent fixture in the global top three over the last two seasons.
@@ -588,34 +663,38 @@ Team,Czech Republic - Ice Hockey Men,cze,ice-hockey-men,1,
 Team,Switzerland - Ice Hockey Men,sui,ice-hockey-men,2,
 Team,Germany - Ice Hockey Men,ger,ice-hockey-men,1,
 Julia,Taubitz,ger,luge-singles-women,4,"The world’s number one who combines elite equipment with a flaw-free driving style; she is the clear ""Gold to lose"" favorite heading into February."
-Summer,Britcher,usa,luge-singles-women,3,"An American veteran who is having a career-year, proving in Sigulda that she can beat the Germans head-to-head on the most technical tracks in the world."
+Summer,Britcher,usa,luge-singles-women,2,"An American veteran who is having a career-year, proving in Sigulda that she can beat the Germans head-to-head on the most technical tracks in the world."
 Lisa,Schulte,aut,luge-singles-women,2,The current World Cup leader who has stepped up to lead the Austrian team and remains the most consistent podium threat outside of Germany and the USA.
-Merle,Fraebel,ger,luge-singles-women,3,"The youngest of the German ""Super Team."" She won back-to-back Golds in Oberhof earlier this month and is currently 3rd in the world. She is a home-track specialist who is still learning to translate that speed to the ice in Italy."
-Ashley,Farquharson,usa,luge-singles-women,2,"After years of ""4th place"" finishes, she finally broke through with her first World Cup medals this season in Park City and Lake Placid. She is currently the fastest American on the lower half of the track."
+Merle,Fraebel,ger,luge-singles-women,4,"The youngest of the German ""Super Team."" She won back-to-back Golds in Oberhof earlier this month and is currently 3rd in the world. She is a home-track specialist who is still learning to translate that speed to the ice in Italy."
+Ashley,Farquharson,usa,luge-singles-women,1,"After years of ""4th place"" finishes, she finally broke through with her first World Cup medals this season in Park City and Lake Placid. She is currently the fastest American on the lower half of the track."
 Verena,Hofer,ita,luge-singles-women,1,"A rising Italian star who enters her home Olympics with the momentum of multiple World Cup podiums this season, proving she can challenge the world's elite on any given day."
-Hannah,Prock,aut,luge-singles-women,1,Currently 4th in the World Cup standings. She won the season opener in Winterberg and provides the Austrians with a secondary medal threat behind Schulte.
+Hannah,Prock,aut,luge-singles-women,2,Currently 4th in the World Cup standings. She won the season opener in Winterberg and provides the Austrians with a secondary medal threat behind Schulte.
 Natalie,Maag,sui,luge-singles-women,1,"Switzerland’s lone elite slider. She sits 6th in the world and has multiple top-5 finishes this winter. She is a veteran who thrives on the icy, European tracks like the one in Cortina."
-,Egle/Kipp,aut,luge-doubles-women,4,"The world-beating Austrian pair whose consistency and ""cool under pressure"" attitude make them the favorites to become the first-ever Olympic champions in this discipline."
+Emily,Fischnaller,usa,luge-singles-women,1,
+,Egle/Kipp,aut,luge-doubles-women,5,"The world-beating Austrian pair whose consistency and ""cool under pressure"" attitude make them the favorites to become the first-ever Olympic champions in this discipline."
 ,Eitberger/Matschina,ger,luge-doubles-women,3,"Currently 2nd in the world standings. Eitberger, a legendary singles medalist, has transitioned perfectly to doubles. They are the fastest starters in the field and have finished on the podium in nearly every race this January."
 ,Forgan/Kirkby,usa,luge-doubles-women,2,"The trailblazing American duo who possess the ""start power"" necessary to lead an Olympic final from the very first curve."
 ,Votter/Oberhofer,ita,luge-doubles-women,2,Italy’s premier doubles team whose intimate knowledge of the home track and recent Nations Cup victory make them a sentimental and statistical favorite for a medal.
 ,Robezniece/Bogdanova,lat,luge-doubles-women,1,"Latvia’s podium hopefuls who possess the championship pedigree and ""Big Final"" experience to challenge for a top-5 finish or better in Italy."
 ,Dorowicz/Piwkowska,pol,luge-doubles-women,1,"The backbone of the Polish luge team whose qualification ensures Poland will also be a contender in the Team Relay, where their synchronization is among the most reliable in the mid-pack."
+,Podulsky/Allan,can,luge-doubles-women,1,
 Jonas,Muller,aut,luge-singles-men,4,The world’s current #1 who is entering the Olympics with the momentum of a European title and a nearly perfect equipment setup.
 Felix,Loch,ger,luge-singles-men,4,The greatest of all time still in the prime of his power; he is the emotional and statistical anchor of the German team.
-Max,Langenhan,ger,luge-singles-men,3,A powerhouse who possesses the highest top-end speed in the world; he is the most likely athlete to post the fastest single run of the Olympic tournament.
-Nico,Gleirscher,aut,luge-singles-men,2,"The 2018 Olympic Champion. While he hasn't won a race in 2026 yet, he is a ""Big Game"" slider who knows exactly how to prepare for the one-off intensity of the Olympics."
-Kristers,Aparjods,lat,luge-singles-men,1,"Latvia’s top medal hope. He took Silver in Winterberg earlier this season and is consistently ranked in the top 5. He thrives on technical, high-G-force tracks and is widely expected to give Latvia its first individual men's luge medal."
-Wolfgang,Kindl,aut,luge-singles-men,1,"The Beijing 2022 Silver medalist. He remains a master of aerodynamics and technical driving. He has multiple podiums this winter and provides the Austrians with a ""Plan B"" if Müller falters."
-Dominik,Fischnaller,ita,luge-singles-men,1,"Italy’s ""Captain"" and the bronze medalist from Beijing 2022. He has been strategically peaking for his home Games; while his World Cup results this January (Top 5s in Winterberg and Sigulda) have been ""solid but not gold,"" his intimate knowledge of the Italian track makes him the most dangerous spoiler in the field."
-,Wendl/Arlt,ger,luge-doubles-men,4,The six-time Olympic gold medalists who are currently rewriting the record books; they enter Italy as the definitive favorites for a fourth consecutive doubles title.
+Max,Langenhan,ger,luge-singles-men,2,A powerhouse who possesses the highest top-end speed in the world; he is the most likely athlete to post the fastest single run of the Olympic tournament.
+Nico,Gleirscher,aut,luge-singles-men,1,"The 2018 Olympic Champion. While he hasn't won a race in 2026 yet, he is a ""Big Game"" slider who knows exactly how to prepare for the one-off intensity of the Olympics."
+Kristers,Aparjods,lat,luge-singles-men,2,"Latvia’s top medal hope. He took Silver in Winterberg earlier this season and is consistently ranked in the top 5. He thrives on technical, high-G-force tracks and is widely expected to give Latvia its first individual men's luge medal."
+Wolfgang,Kindl,aut,luge-singles-men,2,"The Beijing 2022 Silver medalist. He remains a master of aerodynamics and technical driving. He has multiple podiums this winter and provides the Austrians with a ""Plan B"" if Müller falters."
+Jonathan,Gustafson,usa,luge-singles-men,1,
+Leon,Felderer,ita,luge-singles-men,1,
+,Wendl/Arlt,ger,luge-doubles-men,5,The six-time Olympic gold medalists who are currently rewriting the record books; they enter Italy as the definitive favorites for a fourth consecutive doubles title.
 ,Mueller/Haugsjaa,usa,luge-doubles-men,2,
-,Bots/Plum,lat,luge-doubles-men,3,Latvia’s premier duo and the current World #3. They are the masters of technical tracks and took Silver in Sigulda earlier this winter. They are consistently on the podium and represent the biggest threat to a German-Austrian sweep.
+,Bots/Plum,lat,luge-doubles-men,1,Latvia’s premier duo and the current World #3. They are the masters of technical tracks and took Silver in Sigulda earlier this winter. They are consistently on the podium and represent the biggest threat to a German-Austrian sweep.
 ,Steu/Kindl,aut,luge-doubles-men,2,"The ""Super-Sled."" Kindl (a world champion singles slider) and Steu (an elite doubles driver) joined forces specifically for 2026. They took Silver in Winterberg and are currently 6th in the world despite a slow start. Their ceiling is incredibly high; when they hit their lines, they are the only pair that can match Wendl/Arlt’s speed."
-,Eggert/Muller,ger,luge-doubles-men,2,"The ""new"" Eggert pairing. After his long-time partner Sascha Benecken retired, Eggert returned with Müller and proved they are still elite by taking Silver in Oberhof (Jan 18). They are currently 4th in the world and are hunting for Germany's second Olympic spot."
+,Eggert/Muller,ger,luge-doubles-men,3,"The ""new"" Eggert pairing. After his long-time partner Sascha Benecken retired, Eggert returned with Müller and proved they are still elite by taking Silver in Oberhof (Jan 18). They are currently 4th in the world and are hunting for Germany's second Olympic spot."
 ,Nagler/Malleier,ita,luge-doubles-men,1,
-,Gatt/Schopf,aut,luge-doubles-men,3,The young Austrian powerhouses who represent the greatest threat to German dominance if the track conditions are fast and icy.
+,Gatt/Schopf,aut,luge-doubles-men,1,The young Austrian powerhouses who represent the greatest threat to German dominance if the track conditions are fast and icy.
 ,Sevics/Krasts,lat,luge-doubles-men,1,
+,Rieder/Kainzwaldner,ita,luge-doubles-men,1,
 Team,Germany - Luge,ger,luge-team-relay,4,
 Team,Austria - Luge,aut,luge-team-relay,4,
 Team,Latvia - Luge,lat,luge-team-relay,2,
@@ -649,13 +728,15 @@ Team,Japan - Nordic Combined,jpn,nordic-combined-team-sprint,1,
 Team,France - Nordic Combined,fra,nordic-combined-team-sprint,1,
 Xandra,Velzeboer,ned,short-track-500m-women,5,The gold standard of the 500m; she enters the Olympics as the three-time reigning World Champion and the world record holder.
 Courtney,Sarrault,can,short-track-500m-women,3,The leader of the 2025-26 World Tour who has proven she has the top-end speed to beat Velzeboer head-to-head.
-Corinne,Stoddard,usa,short-track-500m-women,3,America’s best hope for a sprint medal; she has been the most consistent non-Dutch skater on the World Tour podium this winter.
-Kim,Boutin,can,short-track-500m-women,1,Canada’s most decorated short track star; her experience in two previous Olympics gives her a psychological edge in the high-pressure 500m rounds.
-Kristen,Santos-Griswold,usa,short-track-500m-women,1,America’s #1 who enters Milan as the overall world #1; she is the most complete skater in the field and the biggest threat to a Dutch sweep.
+Corinne,Stoddard,usa,short-track-500m-women,2,America’s best hope for a sprint medal; she has been the most consistent non-Dutch skater on the World Tour podium this winter.
+Kim,Boutin,can,short-track-500m-women,2,Canada’s most decorated short track star; her experience in two previous Olympics gives her a psychological edge in the high-pressure 500m rounds.
+Kristen,Santos-Griswold,usa,short-track-500m-women,2,America’s #1 who enters Milan as the overall world #1; she is the most complete skater in the field and the biggest threat to a Dutch sweep.
 Choi,Minjeong,kor,short-track-500m-women,1,The most legendary active skater in the world; she is using the 2025-26 season to prove she can win the one Olympic individual gold that has eluded her.
 Michelle,Velzeboer,ned,short-track-500m-women,1,"The model of Dutch consistency; she provides the Netherlands with a ""second hammer"" that makes it almost impossible for other nations to sweep the podium."
 Selma,Poutsma,ned,short-track-500m-women,1,"A start-speed specialist who is currently in the best form of her life, proving last week in Tilburg that she can skate sub-42.1 consistently."
 Florence,Brunelle,can,short-track-500m-women,1,"The wildcard; when she stays on her feet and avoids contact, she has ""top 3"" speed in the world."
+Arianna,Fontana,ita,short-track-500m-women,2,
+Natalia,Maliszewska,pol,short-track-500m-women,1,
 Courtney,Sarrault,can,short-track-1000m-women,4,"Canada’s first-ever overall World Tour champion; she enters Milan as the most mentally tough skater in the field, having won five golds across the 2025-26 circuit."
 Hanne,Desmet,bel,short-track-1000m-women,3,Belgium’s lone star who proved in Poland that she can beat Sarault and the Americans on her day.
 Corinne,Stoddard,usa,short-track-1000m-women,3,"Currently ranked World #3 in the 1000m, Stoddard is the most consistent podium threat for the USA, having earned silver and bronze medals on the World Tour this season while narrowing the gap for the Crystal Globe."
@@ -665,55 +746,72 @@ Kim,Gil-Li,kor,short-track-1000m-women,1,"As the World #2 and 1500m leader, she 
 Florence,Brunelle,can,short-track-1000m-women,1,"Canada's high-energy wildcard has proven she can challenge the elite with a 4th-place finish in Gdansk, though her podium chances depend on tempering her aggressive passing style to stay out of the penalty box."
 Elisa,Confortola,ita,short-track-1000m-women,1,"Italy’s rising star and reigning 1500m European Champion is a dangerous long-shot on home ice, coming off a strong 5th-place finish in Dordrecht and an A-Final appearance at the 2025 World Championships."
 Michelle,Velzeboer,ned,short-track-1000m-women,1,"Proved last week in Tilburg that she is now a top-tier 1000m threat, nearly pipping her sister at the finish line."
-Kim,Gil-Li,kor,short-track-1500m-women,4,"The gold medal favorite; she has won four 1500m golds this season and enters Milan with the most reliable ""kick"" in the sport."
-Courtney,Sarrault,can,short-track-1500m-women,3,"Canada’s first-ever overall Crystal Globe winner; she has the highest ""ceiling"" in the field and enters Milan with 9 individual medals from the 2025/26 tour."
+Kristen,Santos-Griswold,usa,short-track-1000m-women,2,
+Arianna,Fontana,ita,short-track-1000m-women,1,
+Suzanne,Schulting,ned,short-track-1000m-women,1,
+Kim,Gil-Li,kor,short-track-1500m-women,2,"The gold medal favorite; she has won four 1500m golds this season and enters Milan with the most reliable ""kick"" in the sport."
+Courtney,Sarrault,can,short-track-1500m-women,4,"Canada’s first-ever overall Crystal Globe winner; she has the highest ""ceiling"" in the field and enters Milan with 9 individual medals from the 2025/26 tour."
 Choi,Minjeong,kor,short-track-1500m-women,3,"The tactical GOAT; her out-course overtaking in Montreal was described by the ISU as ""another master class,"" signaling she is ready for a third straight Olympic 1500m medal."
 Corinne,Stoddard,usa,short-track-1500m-women,2,The world leader in laps led; she is the most physically resilient skater in the 1500m and is expected to be the one dictating the pace in the Olympic final.
 Elisa,Confortola,ita,short-track-1500m-women,1,"The ""Home Ice"" factor; she has reached every 1500m A-Final this season and has the benefit of training on the Olympic ice for years."
-Xandra,Velzeboer,ned,short-track-1500m-women,1,
-Hanne,Desmet,bel,short-track-1500m-women,1,Belgium’s engine; she is currently the world leader in 1500m points and the only skater who has shown the strength to beat Kim Gil-li in a head-to-head sprint.
+Xandra,Velzeboer,ned,short-track-1500m-women,2,
+Hanne,Desmet,bel,short-track-1500m-women,2,Belgium’s engine; she is currently the world leader in 1500m points and the only skater who has shown the strength to beat Kim Gil-li in a head-to-head sprint.
 Kristen,Santos-Griswold,usa,short-track-1500m-women,1,"America’s best hope for individual gold; her tactical flexibility allows her to adapt to any pace, from a slow crawl to a world-record-pace grind."
 Arianna,Fontana,ita,short-track-1500m-women,1,"Coming off her European title last week, she is the ""emotional 5-star"" of the 2026 Games; her experience and home-ice advantage make her the most dangerous veteran in the field."
-Team,Netherlands - Short-Track Women,ned,short-track-relay-women,4,
-Team,Canada - Short-Track Women,can,short-track-relay-women,4,
+Michelle,Velzeboer,ned,short-track-1500m-women,1,
+Zoe,Deltrap,ned,short-track-1500m-women,1,
+Team,Netherlands - Short-Track Women,ned,short-track-relay-women,5,
+Team,Canada - Short-Track Women,can,short-track-relay-women,3,
 Team,Korea - Short-Track Women,kor,short-track-relay-women,2,
 Team,USA - Short-Track Women,usa,short-track-relay-women,2,
-Team,Italy - Short-Track Women,ita,short-track-relay-women,1,
+Team,Italy - Short-Track Women,ita,short-track-relay-women,2,
 Team,Japan - Short-Track Women,jpn,short-track-relay-women,1,
+Team,Poland - Short-Track Women,pol,short-track-relay-women,1,
+Team,China - Short-Track Women,chn,short-track-relay-women,1,
 William,Dandjinou,can,short-track-500m-men,4,The man to beat. He has 8 total World Tour golds this season across all distances and is currently the most dominant force the sport has seen since the peak of Charles Hamelin.
 Steven,Dubois,can,short-track-500m-men,3,
-Pietro,Sighel,ita,short-track-500m-men,3,"The ""Prince of Milan."" Every podium he has taken this year has been a statement that he is ready to defend his home ice against the North American surge."
-Jens,Van't Wout,ned,short-track-500m-men,2,"Coming off his European hat-trick, he is the ""hottest"" skater in the world right now and the primary disruptor of the Canadian dominance."
-Liu,Shaoang,chn,short-track-500m-men,2,
+Pietro,Sighel,ita,short-track-500m-men,2,"The ""Prince of Milan."" Every podium he has taken this year has been a statement that he is ready to defend his home ice against the North American surge."
+Jens,Van't Wout,ned,short-track-500m-men,3,"Coming off his European hat-trick, he is the ""hottest"" skater in the world right now and the primary disruptor of the Canadian dominance."
+Liu,Shaoang,chn,short-track-500m-men,1,
 Andrew,Heo,usa,short-track-500m-men,1,"The surprise winner of the Dordrecht World Tour 500m (Nov 29, 2025). He proved he can beat the best in the world on a technical track and represents America's best hope for a sprint medal."
-Sun,Long,chn,short-track-500m-men,1,The winner of the Milan Test Event last year. He has proven he loves the ice in the Olympic venue and currently sits 4th in the overall world rankings.
+Sun,Long,chn,short-track-500m-men,2,The winner of the Milan Test Event last year. He has proven he loves the ice in the Olympic venue and currently sits 4th in the overall world rankings.
 Thomas,Nadalini,ita,short-track-500m-men,1,
-Pietro,Sighel,ita,short-track-1000m-men,4,"The ""Italian Gladiator"" is a heavy favorite on home ice after breaking his World Tour gold drought with a massive 1000m victory in Montreal this season."
-Rim,Jongun,kor,short-track-1000m-men,3,"The 18-year-old ""White Tiger"" has stunned the world as the 2026 breakout star, having already claimed 1000m gold in Dordrecht and silver in Montreal."
+Teun,Boer,ned,short-track-500m-men,1,
+Denis,Nikisha,kaz,short-track-500m-men,1,
+Stijn,Desmet,bel,short-track-500m-men,1,
+Pietro,Sighel,ita,short-track-1000m-men,3,"The ""Italian Gladiator"" is a heavy favorite on home ice after breaking his World Tour gold drought with a massive 1000m victory in Montreal this season."
+Rim,Jongun,kor,short-track-1000m-men,2,"The 18-year-old ""White Tiger"" has stunned the world as the 2026 breakout star, having already claimed 1000m gold in Dordrecht and silver in Montreal."
 Steven,Dubois,can,short-track-1000m-men,3,"The 2025 World Champion at this distance remains a top-tier threat who uses his explosive speed to consistently reach the A-Final, despite a ""high variance"" season filled with photo finishes."
-Liu,Shaoang,chn,short-track-1000m-men,2,"The Olympic legend is finding his best form just in time for Milan, recently securing a 1000m silver in Dordrecht by navigating traffic with his trademark technical precision."
-William,Dandjinou,can,short-track-1000m-men,2,"The overall Crystal Globe leader is the most physically dominant skater in the field, though he is slightly more vulnerable in the 1000m than in his ""guaranteed"" 1500m and 500m events."
+Liu,Shaoang,chn,short-track-1000m-men,1,"The Olympic legend is finding his best form just in time for Milan, recently securing a 1000m silver in Dordrecht by navigating traffic with his trademark technical precision."
+William,Dandjinou,can,short-track-1000m-men,4,"The overall Crystal Globe leader is the most physically dominant skater in the field, though he is slightly more vulnerable in the 1000m than in his ""guaranteed"" 1500m and 500m events."
 Jens,Van't Wout,ned,short-track-1000m-men,2,"Fresh off a historic triple-gold sweep at the 2026 European Championships (Jan 18), the Dutchman is the hottest skater in Europe and a clear threat to the global podium."
-Hwang,Daeheon,kor,short-track-1000m-men,1,"The veteran ""elder statesman"" of the Korean team remains a tactical master who can still pull off a podium, as proven by his bronze medal at the Montreal World Tour stop."
+Hwang,Daeheon,kor,short-track-1000m-men,2,"The veteran ""elder statesman"" of the Korean team remains a tactical master who can still pull off a podium, as proven by his bronze medal at the Montreal World Tour stop."
 Sun,Long,chn,short-track-1000m-men,1,"A consistent A-Finalist and 2025 World Championship medalist, Sun Long is China's most reliable middle-distance anchor heading into the Games."
 Roberts,Kruzbergs,lat,short-track-1000m-men,1,"Latvia's lone star is the ultimate ""dark horse"" who consistently finishes in the top 6 and possesses the raw speed to capitalize on any chaos at the front of the pack."
-William,Dandjinou,can,short-track-1500m-men,4,The undisputed World #1 and overall Crystal Globe leader enters Milan as a 5-star favorite after winning the 1500m gold in Gdansk and dominating the distance all winter.
-Thomas,Nadalini,ita,short-track-1500m-men,3,"Italy's breakout star of 2026 proved he is a legitimate medal threat by taking a stunning Silver in Gdansk, finishing just 0.06 seconds behind Dandjinou."
-Jens,Van't Wout,ned,short-track-1500m-men,1,"The hottest skater in Europe right now, he is a major podium threat after winning the 2026 European 1500m title in Tilburg just last week (Jan 17)."
-Felix,Roussel,can,short-track-1500m-men,2,"A core member of Canada’s ""Crystal Globe"" squad, Roussel is a tactical powerhouse who recently beat Dandjinou at the Canadian Championships and consistently reaches the 1500m A-Finals."
+Stijn,Desmet,bel,short-track-1000m-men,1,
+Itzhak,De Laat,ned,short-track-1000m-men,1,
+Luca,Spechenhauser,ita,short-track-1000m-men,1,
+William,Dandjinou,can,short-track-1500m-men,5,The undisputed World #1 and overall Crystal Globe leader enters Milan as a 5-star favorite after winning the 1500m gold in Gdansk and dominating the distance all winter.
+Thomas,Nadalini,ita,short-track-1500m-men,2,"Italy's breakout star of 2026 proved he is a legitimate medal threat by taking a stunning Silver in Gdansk, finishing just 0.06 seconds behind Dandjinou."
+Jens,Van't Wout,ned,short-track-1500m-men,3,"The hottest skater in Europe right now, he is a major podium threat after winning the 2026 European 1500m title in Tilburg just last week (Jan 17)."
+Felix,Roussel,can,short-track-1500m-men,1,"A core member of Canada’s ""Crystal Globe"" squad, Roussel is a tactical powerhouse who recently beat Dandjinou at the Canadian Championships and consistently reaches the 1500m A-Finals."
 Shogo,Miyata,jpn,short-track-1500m-men,2,"Japan's top middle-distance specialist has been a model of consistency this season, highlighted by a career-best Silver medal in Montreal and a 4th-place finish in Gdansk."
-Sun,Long,chn,short-track-1500m-men,2,"China’s most reliable endurance skater, Sun Long secured Bronze at the World Tour opener and remains a constant threat to the podium with his patient, late-race surges."
+Sun,Long,chn,short-track-1500m-men,1,"China’s most reliable endurance skater, Sun Long secured Bronze at the World Tour opener and remains a constant threat to the podium with his patient, late-race surges."
 Pietro,Sighel,ita,short-track-1500m-men,2,"The ""Prince of Milan"" is a 1500m force who took Bronze in Gdansk and will be the sentimental favorite to lead an Italian podium sweep on home ice."
 Rim,Jongun,kor,short-track-1500m-men,1,"The 18-year-old phenom shocked the world by winning Gold in his 1500m World Tour debut in Montreal, signaling the arrival of South Korea's next great superstar."
-Steven,Dubois,can,short-track-1500m-men,1,"The defending Olympic 1500m silver medalist is a ""big race"" specialist who currently sits 3rd in the overall world standings and possesses the world's most dangerous final-lap kick."
+Steven,Dubois,can,short-track-1500m-men,3,"The defending Olympic 1500m silver medalist is a ""big race"" specialist who currently sits 3rd in the overall world standings and possesses the world's most dangerous final-lap kick."
 Roberts,Kruzbergs,lat,short-track-1500m-men,1,"Latvia's technical master continues to overachieve against the big nations, coming off a strong 5th-place finish in Gdansk that puts him on the cusp of his first major 1500m podium."
-Team,Canada - Short-Track Men,can,short-track-relay-men,4,
+Hwang,Daeheon,kor,short-track-1500m-men,2,
+Liu,Shaoang,chn,short-track-1500m-men,1,
+Stijn,Desmet,bel,short-track-1500m-men,1,
+Itzhak,De Laat,ned,short-track-1500m-men,1,
+Team,Canada - Short-Track Men,can,short-track-relay-men,5,
 Team,Korea - Short-Track Men,kor,short-track-relay-men,3,
 Team,China - Short-Track Men,chn,short-track-relay-men,2,
-Team,Netherlands - Short-Track Men,ned,short-track-relay-men,2,
+Team,Netherlands - Short-Track Men,ned,short-track-relay-men,1,
 Team,Italy - Short-Track Men,ita,short-track-relay-men,2,
 Team,Japan - Short-Track Men,jpn,short-track-relay-men,1,
-Team,USA - Short-Track Men,usa,short-track-relay-men,1,
+Team,USA - Short-Track Men,usa,short-track-relay-men,2,
 Team,Canada - Short-Track Mixed,can,short-track-mixed-team-relay,4,
 Team,Netherlands - Short-Track Mixed,ned,short-track-mixed-team-relay,3,
 Team,Italy - Short-Track Mixed,ita,short-track-mixed-team-relay,2,
@@ -722,22 +820,22 @@ Team,China - Short-Track Mixed,chn,short-track-mixed-team-relay,2,
 Team,USA - Short-Track Mixed,usa,short-track-mixed-team-relay,1,
 Team,Poland - Short-Track Mixed,pol,short-track-mixed-team-relay,1,
 Kim,Meylemans,bel,skeleton-women,4,The new queen of the sport; her 2026 Crystal Globe win makes her the most reliable bet for a medal in Milan.
-Jacqueline,Pfeifer,ger,skeleton-women,3,Germany's top hope; her win on the Olympic track in Cortina three months ago makes her the tactical benchmark for the field.
+Jacqueline,Pfeifer,ger,skeleton-women,4,Germany's top hope; her win on the Olympic track in Cortina three months ago makes her the tactical benchmark for the field.
 Janine,Flock,aut,skeleton-women,2,"The veteran legend enters the final Olympic stretch in blistering form, having reclaimed the World Cup overall lead on January 2nd with a dominant second season victory in Winterberg."
-Tabitha,Stoecker,gbr,skeleton-women,2,"The ""Human Slingshot""; her start times are so much faster than the rest of the field that she often starts the drive with a 0.15-second advantage."
+Tabitha,Stoecker,gbr,skeleton-women,1,"The ""Human Slingshot""; her start times are so much faster than the rest of the field that she often starts the drive with a 0.15-second advantage."
 Kimberley,Bos,ned,skeleton-women,2,"The reigning 2025 World Champion and Beijing bronze medalist remains the technical benchmark of the field, though her 2026 season has been a battle of consistency as she aims to peak for the four-run Olympic marathon."
 Anna,Fernstaedt,cze,skeleton-women,1,"The 2025 World Bronze medalist has carried her resurgence into the Olympic year, recently securing a calm and clinical Bronze in Winterberg (Jan 2, 2026) to cement her status as a top-five world threat."
-Hannah,Neise,ger,skeleton-women,1,The defending champ; she is currently ranked lower than her teammates but has the mental fortitude to deliver under Olympic pressure.
+Hannah,Neise,ger,skeleton-women,2,The defending champ; she is currently ranked lower than her teammates but has the mental fortitude to deliver under Olympic pressure.
 Hallie,Clarke,can,skeleton-women,1,The prodigy; she is looking to become the youngest Olympic skeleton champion in history and has the world titles to prove she can do it.
 Matt,Weston,gbr,skeleton-men,5,"The ""King of the Sled""; he enters Milan having won nearly 75% of the races he entered this season."
 Marcus,Wyatt,gbr,skeleton-men,3,The 2024 European Champion enters Milan in peak form after finishing World #3 overall and winning the 2025/26 season finale in Altenberg with a record-setting performance.
-Yin,Zheng,chn,skeleton-men,2,"he world's fastest starter; he will likely lead after the first 50 meters of every heat, forcing the Europeans to chase him down the track."
+Zheng,Yin,chn,skeleton-men,1,"he world's fastest starter; he will likely lead after the first 50 meters of every heat, forcing the Europeans to chase him down the track."
 Axel,Jungk,ger,skeleton-men,2,"The Beijing 2022 silver medalist remains Germany's most consistent veteran threat, having secured an overall World #4 ranking after finishing the season with a dramatic three-way tie for silver in Altenberg."
 Samuel,Maier,aut,skeleton-men,2,The reigning European Champion has established himself as a 2026 medal favorite by finishing World #5 overall and proving his mastery of the Olympic track with a silver medal at the Cortina season opener.
 Jung,Seunggi,kor,skeleton-men,1,"South Korea’s top star successfully returned from a back injury to finish World #6 this season, highlighted by a bronze in Lillehammer and a strong 5th-place finish at the Cortina Olympic test event."
-Christopher,Grotheer,ger,skeleton-men,1,"The big-game hunter; despite a lower world ranking (9th), his recent silver in Altenberg proves he has fixed his equipment issues just in time for his title defense."
+Christopher,Grotheer,ger,skeleton-men,2,"The big-game hunter; despite a lower world ranking (9th), his recent silver in Altenberg proves he has fixed his equipment issues just in time for his title defense."
 Amedeo,Bagnis,ita,skeleton-men,1,"The ""Cortina Specialist""; he is the only non-British/German slider to have consistently reached the podium in the final month of the season."
-Team,GBR 1 - Skeleton Mixed,gbr,skeleton-mixed-team,4,
+Team,GBR 1 - Skeleton Mixed,gbr,skeleton-mixed-team,5,
 Team,Germany 1 - Skeleton Mixed,ger,skeleton-mixed-team,3,
 Team,USA 1 - Skeleton Mixed,usa,skeleton-mixed-team,2,
 Team,Germany 2 - Skeleton Mixed,ger,skeleton-mixed-team,2,
@@ -750,7 +848,7 @@ Nozomi,Maruyama,jpn,ski-jumping-large-hill-women,3,"Currently World #2 overall. 
 Anna,Stroem,nor,ski-jumping-large-hill-women,2,"The ""comeback queen"" who has surged into the World Top 4. She is a Large Hill specialist who thrives on the bigger, faster jumps and consistently pushes for the podium in the 130m+ range."
 Abigail,Strate,can,ski-jumping-large-hill-women,2,"Canada’s new ""Air Ace""; her win in Oberstdorf three weeks ago proved she can beat Prevc head-to-head on a Large Hill."
 Lisa,Eder,aut,ski-jumping-large-hill-women,2,Carrying the weight of Austria's podium hopes; she has transitioned from a supporting jumper to a consistent world-class leader this winter.
-Selina,Freitag,ger,ski-jumping-large-hill-women,1,"Germany's top-ranked jumper (World #5). She enters Milan on the back of three consecutive podium finishes in January. She has a high-risk, high-reward style that makes her a major threat for a medal."
+Selina,Freitag,ger,ski-jumping-large-hill-women,2,"Germany's top-ranked jumper (World #5). She enters Milan on the back of three consecutive podium finishes in January. She has a high-risk, high-reward style that makes her a major threat for a medal."
 Agnes,Reisch,ger,ski-jumping-large-hill-women,1,"After years of battling injuries and fighting for a spot on the deep German roster, she is finally in the best form of her career; she is now Germany's ""third ace"" and a crucial part of their hunt for a Team Gold."
 Zeng,Ping,chn,ski-jumping-large-hill-women,1,"The ""New Year's Surprise""; her silver in Germany has made her the dark horse that every top team is now watching closely."
 Sara,Takanashi,jpn,ski-jumping-large-hill-women,1,The all-time wins leader. She is still a force on the Large Hill (ranked World #8) and remains the most experienced jumper in the field.
@@ -758,33 +856,36 @@ Nika,Prevc,slo,ski-jumping-normal-hill-women,5,"The ""Gold Standard""; she hasn'
 Lisa,Eder,aut,ski-jumping-normal-hill-women,3,"Austria's new lead; she has narrowed the gap to Prevc significantly in January and is currently the world leader in ""style points"" for her landings."
 Nozomi,Maruyama,jpn,ski-jumping-normal-hill-women,2,"Currently ranked World #2 overall. She is the technical master of the Japanese squad and thrives on Normal Hills, where her explosive take-off provides a significant advantage. She took Bronze in Zao (Jan 21) and is a constant presence on the podium."
 Selina,Freitag,ger,ski-jumping-normal-hill-women,2,"The 2025 World Silver medalist. She has struggled with consistency in January, but her ""ceiling"" is incredibly high; if she clicks on the training jumps in Milan, she moves immediately into the 4-star category."
-Abigail,Strate,can,ski-jumping-normal-hill-women,1,"While she prefers the Large Hill (where she won Silver in Sapporo today, Jan 24), Strate took Bronze on the Normal Hill in Zao this week. She is Canada's only medal hope following the injury to Alexandria Loutitt."
+Abigail,Strate,can,ski-jumping-normal-hill-women,3,"While she prefers the Large Hill (where she won Silver in Sapporo today, Jan 24), Strate took Bronze on the Normal Hill in Zao this week. She is Canada's only medal hope following the injury to Alexandria Loutitt."
 Anna,Stroem,nor,ski-jumping-normal-hill-women,1,"The 2025 World Bronze medalist. Strøm has been the anchor for Norway this season, consistently finishing in the 4th-6th range. She is a powerhouse on the Normal Hill and is arguably the best ""bad weather"" jumper in the top tier."
 Agnes,Reisch,ger,ski-jumping-normal-hill-women,1,"The ""January Surprise""; she has transitioned from a team-event specialist to a genuine individual medal threat in the last three weeks."
 Zeng,Ping,chn,ski-jumping-normal-hill-women,1,"The breakout star of the season who shocked the field with a Silver in Oberstdorf. While better on larger hills, her confidence is at an all-time high."
 Katharina,Schmid,ger,ski-jumping-normal-hill-women,2,"The ""Olympic Legend""; she is looking to finally upgrade her two silvers to a gold in what is likely her final Games."
-Domen,Prevc,slo,ski-jumping-normal-hill-men,4,"The ""Flight King""; following in his sister Nika's footsteps, he is looking to complete a historic family double-gold in Milan."
-Ryoyu,Kobayashi,jpn,ski-jumping-normal-hill-men,2,"The ""Defending King""; he is purely focused on his own performance and has the rare ability to find an extra 2 meters of distance when the pressure is highest."
-Jan,Hoerl,aut,ski-jumping-normal-hill-men,2,The breakout star of the Austrian team and current World #4. He finished as the runner-up in the Four Hills Tournament and has become the most consistent Normal Hill jumper in Europe. His technical precision on the take-off is currently unmatched.
+Domen,Prevc,slo,ski-jumping-normal-hill-men,5,"The ""Flight King""; following in his sister Nika's footsteps, he is looking to complete a historic family double-gold in Milan."
+Ryoyu,Kobayashi,jpn,ski-jumping-normal-hill-men,3,"The ""Defending King""; he is purely focused on his own performance and has the rare ability to find an extra 2 meters of distance when the pressure is highest."
+Jan,Hoerl,aut,ski-jumping-normal-hill-men,3,The breakout star of the Austrian team and current World #4. He finished as the runner-up in the Four Hills Tournament and has become the most consistent Normal Hill jumper in Europe. His technical precision on the take-off is currently unmatched.
 Marius,Lindvik,nor,ski-jumping-normal-hill-men,1,"The ""Comeback King""; despite the controversy that stripped him of a World silver last year, his Normal Hill World Gold from 2025 confirms that when his equipment is legal, he is arguably the most precise jumper in the field."
-Ren,Nikaido,jpn,ski-jumping-normal-hill-men,2,"The ""Silent Threat""; his technical consistency in January has proven that Japan has a second legitimate gold medal threat."
-Daniel,Tschofenig,aut,ski-jumping-normal-hill-men,1,"The 2024/25 overall champion. While he has had a quieter season (World #6), his win in Bischofshofen on January 6 proved he still has the ""winning touch"" required for a major medal."
+Ren,Nikaido,jpn,ski-jumping-normal-hill-men,1,"The ""Silent Threat""; his technical consistency in January has proven that Japan has a second legitimate gold medal threat."
+Daniel,Tschofenig,aut,ski-jumping-normal-hill-men,2,"The 2024/25 overall champion. While he has had a quieter season (World #6), his win in Bischofshofen on January 6 proved he still has the ""winning touch"" required for a major medal."
 Stephan,Embacher,aut,ski-jumping-normal-hill-men,1,"The 19-year-old known as ""Bambi."" He nearly won the Innsbruck World Cup this month (finishing 3rd) and represents the next generation of Austrian stars who could steal a medal with a fearless performance."
 Felix,Hoffmann,ger,ski-jumping-normal-hill-men,1,"Germany’s top-performing jumper in January. He surprised the field with an opening podium at the Four Hills and currently sits 9th in the world. He is the ""form"" pick for the German squad."
-Anze,Lanisek,slo,ski-jumping-normal-hill-men,1,"Currently World #5 and the 2025 World Silver medalist. He is part of the ""Slovenian Wall"" that has dominated the podium this year. His style is built for the smaller Normal Hill where technical style points are the deciding factor."
-Stefan,Kraft,aut,ski-jumping-normal-hill-men,1,"The ""G.O.A.T.""; he is looking for his first individual Olympic gold to complete the ""Grand Slam"" of ski jumping titles."
+Anze,Lanisek,slo,ski-jumping-normal-hill-men,2,"Currently World #5 and the 2025 World Silver medalist. He is part of the ""Slovenian Wall"" that has dominated the podium this year. His style is built for the smaller Normal Hill where technical style points are the deciding factor."
+Stefan,Kraft,aut,ski-jumping-normal-hill-men,2,"The ""G.O.A.T.""; he is looking for his first individual Olympic gold to complete the ""Grand Slam"" of ski jumping titles."
+Philipp,Raimund,ger,ski-jumping-normal-hill-men,1,
 Domen,Prevc,slo,ski-jumping-large-hill-men,5,"The ""Eagle of Slovenia""; he has won seven times this season and enters Milan looking to become the first man to win individual gold while his sister (Nika) does the same."
 Jan,Hoerl,aut,ski-jumping-large-hill-men,3,"The overall runner-up of the Four Hills Tournament and current World #4. He has proven himself as the most consistent Large Hill jumper in the Austrian squad, possessing a technical ""glide"" that keeps him in the top 3 regardless of the hill profile."
-Ryoyu,Kobayashi,jpn,ski-jumping-large-hill-men,2,"The ""Japanese King""; he is rounding into his best form in January and currently leads the world in average jump distance over the last three weeks."
-Anze,Lanisek,slo,ski-jumping-large-hill-men,1,"The World #5 and a former Large Hill World Tour leader. He recently won the Large Hill event in Falun and provides Slovenia with a ""double-threat"" alongside Prevc. His flight style is incredibly aesthetic and consistently earns high style points from judges."
-Ren,Nikaido,jpn,ski-jumping-large-hill-men,2,"The ""Silent Killer""; his rise to World #3 has been the biggest shock of the season, and he currently has the best landing-success rate in the field."
+Ryoyu,Kobayashi,jpn,ski-jumping-large-hill-men,3,"The ""Japanese King""; he is rounding into his best form in January and currently leads the world in average jump distance over the last three weeks."
+Anze,Lanisek,slo,ski-jumping-large-hill-men,2,"The World #5 and a former Large Hill World Tour leader. He recently won the Large Hill event in Falun and provides Slovenia with a ""double-threat"" alongside Prevc. His flight style is incredibly aesthetic and consistently earns high style points from judges."
+Ren,Nikaido,jpn,ski-jumping-large-hill-men,1,"The ""Silent Killer""; his rise to World #3 has been the biggest shock of the season, and he currently has the best landing-success rate in the field."
 Philipp,Raimund,ger,ski-jumping-large-hill-men,1,"Germany’s top-ranked jumper (World #7). He set a hill record earlier this season and has three Large Hill podiums, making him the most dangerous wildcard in the German team."
 Felix,Hoffmann,ger,ski-jumping-large-hill-men,1,"The ""German Revelation""; after years as a continental cup regular, he has suddenly become Germany’s most consistent Large Hill flyer, and if he arrives in Milan at 100% health, he is the most likely German to sneak onto the individual podium."
-Daniel,Tschofenig,aut,ski-jumping-large-hill-men,1,The World #6 and winner of the Bischofshofen World Cup finale (Jan 6). He is a pure Large Hill specialist who generates more lift off the table than almost anyone else in the top 10.
+Daniel,Tschofenig,aut,ski-jumping-large-hill-men,2,The World #6 and winner of the Bischofshofen World Cup finale (Jan 6). He is a pure Large Hill specialist who generates more lift off the table than almost anyone else in the top 10.
 Stephan,Embacher,aut,ski-jumping-large-hill-men,1,"The 19-year-old ""Prodigy"" who finished 3rd overall in the Four Hills. He is fearless on the 140m jumps and represents the biggest youth threat to the established veterans."
+Stefan,Kraft,aut,ski-jumping-large-hill-men,2,
+Marius,Lindvik,nor,ski-jumping-large-hill-men,1,
 Team,Slovenia - Ski Jumping Men,slo,ski-jumping-men-team,4,
-Team,Austria - Ski Jumpin Men,aut,ski-jumping-men-team,3,
-Team,Japan - Ski Jumping Men,jpn,ski-jumping-men-team,3,
+Team,Austria - Ski Jumpin Men,aut,ski-jumping-men-team,4,
+Team,Japan - Ski Jumping Men,jpn,ski-jumping-men-team,2,
 Team,Germany - Ski Jumping Men,ger,ski-jumping-men-team,2,
 Team,Norway - Ski Jumping Men,nor,ski-jumping-men-team,1,
 Team,Poland - Ski Jumping Men,pol,ski-jumping-men-team,1,
@@ -934,21 +1035,21 @@ Chase,Josey,usa,snowboarding-halfpipe-men,1,"The top American hope. While the U.
 Ryusei,Yamada,jpn,snowboarding-halfpipe-men,2,
 Alessandro,Barbieri,usa,snowboarding-halfpipe-men,1,
 Femke,Kok,ned,speedskating-500m-women,5,"The ""Record Shatterer."" On November 16, 2025, in Salt Lake City, Kok broke the 12-year-old World Record with a time of 36.09. She arrives in Milan as a three-time consecutive World Champion and the winner of seven straight World Cup 500m races earlier this season. She has no technical weaknesses right now and is the only skater consistently dipping into the low 36s."
-Erin,Jackson,usa,speedskating-500m-women,3,"The Defending Olympic Gold Medalist. Jackson officially punched her ticket to Milan on Jan 6, 2026, at the U.S. Trials. While she took silver in the Salt Lake World Cup with a personal best of 36.57, she has battled a hamstring injury and minor health issues throughout December. She is ""high variance"" because she is currently recovering her top-end speed, but her championship experience makes her the primary threat to the Dutch."
+Erin,Jackson,usa,speedskating-500m-women,2,"The Defending Olympic Gold Medalist. Jackson officially punched her ticket to Milan on Jan 6, 2026, at the U.S. Trials. While she took silver in the Salt Lake World Cup with a personal best of 36.57, she has battled a hamstring injury and minor health issues throughout December. She is ""high variance"" because she is currently recovering her top-end speed, but her championship experience makes her the primary threat to the Dutch."
 Kaja,Ziomek-Nogal,pol,speedskating-500m-women,3,A veteran who is having a career-best season. She beat Kim Min-sun for silver in Norway last month and has established herself as Poland's strongest medal hope.
-Anna,Boets,ned,speedskating-500m-women,1,
+Anna,Boersma,ned,speedskating-500m-women,1,
 Sophie,Warmuth,ger,speedskating-500m-women,1,
 Yukino,Yoshida,jpn,speedskating-500m-women,2,"The top Japanese sprinter. She has consistently hovered around the podium all winter, including a Bronze in Salt Lake City and a Silver in Hamar. She has the fastest opening 100m in the field, which is vital for the Milano ice."
 Martyna,Baran,pol,speedskating-500m-women,1,
 Serena,Pergher,ita,speedskating-500m-women,1,
 Kristina,Silaeva,kaz,speedskating-500m-women,1,
-Jutta,Leerdman,ned,speedskating-500m-women,1,"Although the 1000m is her signature, Leerdam has become a permanent 500m podium threat this season, finishing 2nd to Kok in several World Cups. She is the strongest ""finisher"" in the world, often making up huge ground in the final 200 meters."
+Jutta,Leerdman,ned,speedskating-500m-women,3,"Although the 1000m is her signature, Leerdam has become a permanent 500m podium threat this season, finishing 2nd to Kok in several World Cups. She is the strongest ""finisher"" in the world, often making up huge ground in the final 200 meters."
 Kim,Min-Sun,kor,speedskating-500m-women,1,"The 2022-23 dominant force. After a sluggish start to the 2025/26 season (finishing 17th in early rounds), she has found her form, taking Bronze at the Hamar World Cup (Dec 15, 2025). She is a ""Big Event"" skater who is peaking at exactly the right time."
 Femke,Kok,ned,speedskating-1000m-women,3,"Having her best 1000m season ever. She pushed Leerdam to a photo finish in Salt Lake City (losing by just 0.08s) and took Silver in Hamar last month. While the 500m is her primary focus, her increased endurance has made her a legitimate threat to win double gold in Milan."
-Jutta,Leerdman,ned,speedskating-1000m-women,4,"The ""Gold Standard."" Despite a dramatic fall at the Dutch Olympic Trials on Dec 26, the national committee officially selected her for the team on Jan 1, 2026, citing her total dominance of the World Cup season. She won both the Salt Lake City and Heerenveen 1000m events, posting a world-best time of 1:12.35. Her ""low variance"" status comes from her unrivaled finishing lap; she is consistently 0.3 to 0.5 seconds faster than the field in the final 400 meters."
+Jutta,Leerdman,ned,speedskating-1000m-women,5,"The ""Gold Standard."" Despite a dramatic fall at the Dutch Olympic Trials on Dec 26, the national committee officially selected her for the team on Jan 1, 2026, citing her total dominance of the World Cup season. She won both the Salt Lake City and Heerenveen 1000m events, posting a world-best time of 1:12.35. Her ""low variance"" status comes from her unrivaled finishing lap; she is consistently 0.3 to 0.5 seconds faster than the field in the final 400 meters."
 Miho,Takagi,jpn,speedskating-1000m-women,3,"The Defending Olympic Gold Medalist. Takagi proved she is back in peak form by winning the Hamar World Cup (Dec 14, 2025) with a 1:14.39. She is the most technically balanced skater in history, but she is ""high variance"" because she often prioritizes the 1500m and Team Pursuit, which can leave her slightly fatigued for the 1000m sprint."
 Brittany,Bowe,usa,speedskating-1000m-women,2,"The veteran and former World Record holder. She finished 4th in Hamar and 5th in Salt Lake City. While she may no longer have the top-end speed of Leerdam, her experience in managing Olympic pressure makes her a 2-star threat."
-Suzanne,Schulting,ned,speedskating-1000m-women,1,
+Suzanne,Schulting,ned,speedskating-1000m-women,2,
 Beatrice,Lamarche,can,speedskating-1000m-women,1,"The breakout star of the North American leg. She took a stunning Bronze in Salt Lake City with a 1:12.77 and was officially named to the Canadian Olympic team 11 days ago (Jan 15). She has the ""glide"" and high-speed cornering that matches the elite Dutch skaters."
 Rio,Yamada,jpn,speedskating-1000m-women,1,"Japan's second-best 1000m skater. She has three top-6 finishes this winter and is the fastest ""opener"" in the field outside of Femke Kok."
 Qi,Yiming,chn,speedskating-1000m-women,1,
@@ -962,17 +1063,18 @@ Brittany,Bowe,usa,speedskating-1500m-women,2,"The veteran legend. She finished 5
 Nadezhda,Morozova,kaz,speedskating-1500m-women,1,
 Nikola,Zdrahalova,cze,speedskating-1500m-women,1,
 Ivanie,Blondin,can,speedskating-1500m-women,1,"The ""Marathon Woman."" Blondin officially qualified for her third Olympics 11 days ago (Jan 15). She recently won her first 1500m World Cup medal in nearly five years, proving she has found a second wind in her career. Her tactical intelligence makes her a threat in any pair."
-Han,Mei,chn,speedskating-1500m-women,1,"China's top medal hope. She took Bronze at the 2025 World Championships and finished 4th in Inzell last week. She has the most efficient cornering technique in the field and thrives in the high-pressure environment of the ""Big Two"" heats."
+Mei,Han,chn,speedskating-1500m-women,1,"China's top medal hope. She took Bronze at the 2025 World Championships and finished 4th in Inzell last week. She has the most efficient cornering technique in the field and thrives in the high-pressure environment of the ""Big Two"" heats."
 Marijke,Groenewoud,ned,speedskating-1500m-women,1,
 Ragne,Wiklund,nor,speedskating-3000m-women,4,"The ""Norwegian Engine""; her win in Inzell yesterday proved she is the only person who can currently out-skate the Dutch on pure power."
-Joy,Beune,ned,speedskating-3000m-women,3,"The ""New Queen""; she is the favorite to keep the 3000m gold in Dutch hands following Schouten’s retirement."
-Isabelle,Weidemann,can,speedskating-3000m-women,3,"The ""Clutch Performer""; she has a history of peaking perfectly for the Olympic window and is Canada's best individual medal hope."
+Joy,Beune,ned,speedskating-3000m-women,4,"The ""New Queen""; she is the favorite to keep the 3000m gold in Dutch hands following Schouten’s retirement."
+Isabelle,Weidemann,can,speedskating-3000m-women,1,"The ""Clutch Performer""; she has a history of peaking perfectly for the Olympic window and is Canada's best individual medal hope."
 Marijke,Groenewoud,ned,speedskating-3000m-women,2,"The 2025 World Champion. She won the Hamar World Cup in December and pushed Beune to the limit at the Dutch Trials. She has the best ""sprint-to-distance"" transition in the world, often winning races in the final 400 meters."
 Valerie,Maltais,can,speedskating-3000m-women,2,"The ""Iron Woman"" of Canada. She took Bronze in Inzell yesterday and has been on the podium in three out of five World Cups this winter. At 35, she is skating faster than she did in her 20s and is currently ranked World #3."
-Nadezhda,Morozova,kaz,speedskating-3000m-women,2,
+Nadezhda,Morozova,kaz,speedskating-3000m-women,1,
 Sandrine,Tas,bel,speedskating-3000m-women,1,The surprise European Silver Medalist (Jan 9). She has made massive strides this winter and is the first Belgian woman to seriously contend for a long-track medal.
 Martina,Sablikova,cze,speedskating-3000m-women,1,The 38-year-old legend. You can never count out the woman with six Olympic medals. She finished 4th at the European Championships two weeks ago and remains the most tactically sound skater in the pair-draw.
 Francesca,Lollobrigida,ita,speedskating-3000m-women,1,"The ""Home Hope."" She took 5th at the European Championships on Jan 9. While she hasn't hit the 3:56 range this year, the ""home ice"" boost in Milan and her tactical experience make her a threat for a surprise bronze."
+Merel,Conjin,ned,speedskating-3000m-women,2,
 Ragne,Wiklund,nor,speedskating-5000m-women,5,"The ""Norwegian Powerhouse""; she is the reigning overall Long Distance World Cup champion and is currently the only skater in the world who can hold 31-second laps for the entire 5000m."
 Isabelle,Weidemann,can,speedskating-5000m-women,3,"The ""Endurance Machine""; she thrives on the ""heavy"" sea-level ice of Milan and is looking to go one better than her Silver in Beijing."
 Francesca,Lollobrigida,ita,speedskating-5000m-women,2,"The ""Home Hero."" She set an Italian National Record (6:51.07) in Calgary last year. In Milan, with the crowd behind her for the final laps of the 5000m, she could find the extra energy needed to sneak onto the podium."
@@ -980,6 +1082,8 @@ Martina,Sablikova,cze,speedskating-5000m-women,1,"The G.O.A.T. of distance skati
 Merel,Conjin,ned,speedskating-5000m-women,3,The reigning Dutch 5000m Champion. She set a massive personal best (6:41.48) in November and is the fastest Dutch skater on the 5k this season. She is a specialist in the 12.5-lap grind and represents the biggest threat to a Wiklund/Weidemann 1-2 finish.
 Valerie,Maltais,can,speedskating-5000m-women,1,Having a career-best distance season. She took Bronze in the 3000m in Inzell two days ago and has been a top-5 fixture in the 5k all winter.
 Nadezhda,Morozova,kaz,speedskating-5000m-women,1,
+Marijke,Groenewoud,ned,speedskating-5000m-women,2,
+Bente,Kerkhoff,ned,speedskating-5000m-women,1,
 Marijke,Groenewoud,ned,speedskating-mass-start-women,4,
 Mia,Manganello,usa,speedskating-mass-start-women,3,
 Ivanie,Blondin,can,speedskating-mass-start-women,3,
@@ -990,15 +1094,19 @@ Park,Ji Woo,kor,speedskating-mass-start-women,1,
 Kaitlyn,McGregor,sui,speedskating-mass-start-women,1,
 Francesca,Lollobrigida,ita,speedskating-mass-start-women,1,
 Jeannine,Rosner,aut,speedskating-mass-start-women,1,
-Team,Canada - Speed Skating Women,can,speedskating-team-pursuit-women,4,
+Greta,Myers,usa,speedskating-mass-start-women,1,
+Momoka,Horikawa,jpn,speedskating-mass-start-women,1,
+Sandrine,Tas,bel,speedskating-mass-start-women,1,
+Team,Canada - Speed Skating Women,can,speedskating-team-pursuit-women,3,
 Team,Netherlands - Speed Skating Women,ned,speedskating-team-pursuit-women,4,
 Team,Japan - Speed Skating Women,jpn,speedskating-team-pursuit-women,3,
 Team,USA - Speed Skating Women,usa,speedskating-team-pursuit-women,2,
 Team,Germany - Speed Skating Women,ger,speedskating-team-pursuit-women,1,
 Team,China - Speed Skating Women,chn,speedskating-team-pursuit-women,1,
-Jordan,Stolz,usa,speedskating-500m-men,4,"The ""Sprint King."" Just yesterday (Jan 25, 2026), Stolz officially defended his 500m World Cup Overall Title, winning eight medals across the season. He is currently on a trajectory to attempt an unprecedented triple gold (500m, 1000m, 1500m). He is ""low variance"" because even on a bad day, his technical second lap is so fast that he rarely falls off the podium."
+Team,Norway - Speed Skating Women,nor,speedskating-team-pursuit-women,1,
+Jordan,Stolz,usa,speedskating-500m-men,5,"The ""Sprint King."" Just yesterday (Jan 25, 2026), Stolz officially defended his 500m World Cup Overall Title, winning eight medals across the season. He is currently on a trajectory to attempt an unprecedented triple gold (500m, 1000m, 1500m). He is ""low variance"" because even on a bad day, his technical second lap is so fast that he rarely falls off the podium."
 Damian,Zurek,pol,speedskating-500m-men,3,Having a career-best season with several Bronze medals in the World Cup circuit. He is currently Poland's strongest individual medal hope in any skating discipline.
-Jenning,De Boo,ned,speedskating-500m-men,3,"The ""Dutch Rocket."" He holds the World Leading Time this season (33.63) set in Salt Lake City. He pushed Stolz to the limit at the Inzell World Cup yesterday, taking Silver. He is ""high variance"" only because he relies on a risky, aggressive start that can occasionally lead to a ""slip"" in the first 100m, but on pure speed, he is the only man who has consistently beaten Stolz's times this winter."
+Jenning,De Boo,ned,speedskating-500m-men,2,"The ""Dutch Rocket."" He holds the World Leading Time this season (33.63) set in Salt Lake City. He pushed Stolz to the limit at the Inzell World Cup yesterday, taking Silver. He is ""high variance"" only because he relies on a risky, aggressive start that can occasionally lead to a ""slip"" in the first 100m, but on pure speed, he is the only man who has consistently beaten Stolz's times this winter."
 Wataru,Morishige,jpn,speedskating-500m-men,2,"The Beijing Bronze medalist. Morishige won the Japanese National Title (Dec 26, 2025) and has multiple podiums this winter. He is a ""Big Event"" specialist who excels at maintaining speed through the final turn."
 Kim,Jun-Ho,kor,speedskating-500m-men,2,
 Bjorn,Magnussen,nor,speedskating-500m-men,1,
@@ -1015,10 +1123,10 @@ Finn,Sonnekalb,ger,speedskating-1000m-men,1,
 Marten,Liiv,est,speedskating-1000m-men,1,
 Cooper,McLeod,usa,speedskating-1000m-men,1,
 Joep,Wennemars,ned,speedskating-1000m-men,2,
-Ning,Zhongyan,chn,speedskating-1000m-men,1,
+Zhongyan,Ning,chn,speedskating-1000m-men,1,
 Jordan,Stolz,usa,speedskating-1500m-men,5,"The ""Phenom""; he is looking to complete the 500/1000/1500 triple. His ability to maintain a high stroke rate through the final turn is the best the sport has ever seen."
 Kjeld,Nuis,ned,speedskating-1500m-men,3,"The ""Veteran""; he is seeking a historic three-peat in the 1500m. He currently holds the ""Mental Edge"" in head-to-head pairings due to his aggressive crossing style."
-Ning,Zhongyan,chn,speedskating-1500m-men,3,
+Zhongyan,Ning,chn,speedskating-1500m-men,3,
 Finn,Sonnekalb,ger,speedskating-1500m-men,2,
 Joep,Wennemars,ned,speedskating-1500m-men,1,
 Sander,Eitrem,nor,speedskating-1500m-men,1,
@@ -1031,13 +1139,15 @@ Casey,Dawson,usa,speedskating-5000m-men,2,Just missed the podium yesterday in 4t
 Davide,Ghiotto,ita,speedskating-5000m-men,2,"5th place yesterday. While he wasn't on the podium in Inzell, he is the reigning World Champion and will have the home-ice advantage. He is clearly ""saving"" his best for Milan."
 Ted-Jan,Bloemen,can,speedskating-5000m-men,1,"The 39-year-old veteran finished 16th yesterday. He’s a ""1"" right now because his form has dipped significantly, but you can never totally count out an Olympic Champion."
 Chris,Huizinga,ned,speedskating-5000m-men,1,"The top-ranked Dutchman from yesterday (8th). Given the total collapse of the usual Dutch favorites (Roest, Bergsma), Huizinga is currently the only one showing the form necessary to even dream of a podium."
+Stijn,Van de Bunt,ned,speedskating-5000m-men,1,
 Metodej,Jilek,cze,speedskating-10000m-men,4,"The ""Wunderkind."" He won the 10,000m in Heerenveen (Dec 6, 2025) with a stunning 12:29.63. He proved yesterday in Inzell that his endurance is the best in the world right now. He is ""high variance"" only because 25 laps under Olympic pressure is a massive mental load for a teenager."
 Sander,Eitrem,nor,speedskating-10000m-men,2,"The ""World Record Holder."" After his sub-6:00 performance in the 5k yesterday, it is clear he has the best ""engine"" in the world. However, the 10k is a different tactical animal, and Eitrem has occasionally struggled with pacing the middle 4,000 meters."
-Timothy,Loubineaud,fra,speedskating-10000m-men,3,"He took Bronze in the Heerenveen 10k and has been the most consistent ""long-distance"" threat of the year. He has a very ""flat"" pacing profile, meaning he doesn't slow down, which is essential for a 10k podium."
-Davide,Ghiotto,ita,speedskating-10000m-men,3,"The ""Titan of the 10k."" While he was 5th in the 5k yesterday, he finished 2nd in the only 10k World Cup this season. He is the reigning World Champion (2025) and has centered his entire life around winning this specific gold on home ice. He is the safest bet because his technique is specifically designed for the 25-lap grind."
-Jorrit,Bergsma,ned,speedskating-10000m-men,2,
+Timothy,Loubineaud,fra,speedskating-10000m-men,2,"He took Bronze in the Heerenveen 10k and has been the most consistent ""long-distance"" threat of the year. He has a very ""flat"" pacing profile, meaning he doesn't slow down, which is essential for a 10k podium."
+Davide,Ghiotto,ita,speedskating-10000m-men,4,"The ""Titan of the 10k."" While he was 5th in the 5k yesterday, he finished 2nd in the only 10k World Cup this season. He is the reigning World Champion (2025) and has centered his entire life around winning this specific gold on home ice. He is the safest bet because his technique is specifically designed for the 25-lap grind."
+Jorrit,Bergsma,ned,speedskating-10000m-men,1,
 Casey,Dawson,usa,speedskating-10000m-men,1,
 Ted-Jan,Bloemen,can,speedskating-10000m-men,1,"The ""Old Guard."" The 2018 Gold medalist finished 4th in the Heerenveen 10k. While he is 39, his experience in the 10,000m is deeper than anyone else's. He knows exactly how to ""suffer"" through the final 10 laps."
+Stijn,Van de Bunt,ned,speedskating-10000m-men,2,
 Jorrit,Bergsma,ned,speedskating-mass-start-men,3,
 Andrea,Giovannini,ita,speedskating-mass-start-men,3,
 Bart,Swings,bel,speedskating-mass-start-men,3,
@@ -1047,11 +1157,14 @@ Chung,Jae-Won,kor,speedskating-mass-start-men,2,
 Felix,Maly,ger,speedskating-mass-start-men,1,
 Antoine,Gelinas-Beaulieu,can,speedskating-mass-start-men,1,
 Viktor,Hald Torup,den,speedskating-mass-start-men,1,
-Jordan,Stolz,usa,speedskating-mass-start-men,1,
+Jordan,Stolz,usa,speedskating-mass-start-men,3,
 Timothy,Loubineaud,fra,speedskating-mass-start-men,1,
+Stijn,Van de Bunt,ned,speedskating-mass-start-men,1,
+Casey,Dawson,usa,speedskating-mass-start-men,1,
+Livio,Wenger,sui,speedskating-mass-start-men,1,
 Team,USA - Speed Skating Men,usa,speedskating-team-pursuit-men,5,"The ""Undisputed Kings."" They are the definition of 5-star favorites. This season, they went undefeated, winning every single World Cup race. Most importantly, on Nov 16, 2025, they shattered their own World Record with a time of 3:32.49. They are ""low variance"" because their synchronization is flawless; from a head-on view, they move so perfectly in sync it looks like only one skater is on the ice."
 Team,Italy - Speed Skating Men,ita,speedskating-team-pursuit-men,3,"The ""Home Powerhouse."" Italy finished 2nd overall in the world standings and took Silver in the final World Cups. They are the 2024 World Champions and, on the heavy sea-level ice of Milan, their superior strength-skating gives them a massive advantage over the ""gliders."""
 Team,Netherlands - Speed Skating Men,ned,speedskating-team-pursuit-men,3,"The ""Underperforming Giants."" The Dutch have struggled with their roster rotation this year, finishing 3rd in the World Cup standings. While they have the individual talent, they lack the years of chemistry that the U.S. and Norwegian teams possess. They are a podium lock, but Gold looks out of reach unless the favorites fall."
 Team,France - Speed Skating Men,fra,speedskating-team-pursuit-men,2,"The most improved team of 2026. Led by the resurgent Loubineaud, they took a shock Silver in the Calgary World Cup and have proven they can skate sub-3:40 at altitude."
 Team,Germany - Speed Skating Men,ger,speedskating-team-pursuit-men,1,
-Team,Norway - Speed Skating Men,nor,speedskating-team-pursuit-men,1,"The ""Challengers""; they are the only team with a ""sub-6-minute"" skater leading their train, giving them a terrifying final 400m."
+Team,Norway - Speed Skating Men,nor,speedskating-team-pursuit-men,2,"The ""Challengers""; they are the only team with a ""sub-6-minute"" skater leading their train, giving them a terrifying final 400m."
