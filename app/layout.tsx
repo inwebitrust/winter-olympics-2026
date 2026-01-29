@@ -17,6 +17,8 @@ const openSans = Open_Sans({
   display: "swap",
 });
 
+const SITE_URL = "https://winter-olympics-2026.datasportsiq.com";
+
 export const metadata: Metadata = {
   title: "Winter Olympics 2026 Medal Chances | Milano Cortina",
   description: "Track medal chances for Winter Olympics 2026 athletes in Milano Cortina. Discover favorites, challengers, and outsiders for alpine skiing, biathlon, figure skating, and more winter sports.",
@@ -35,6 +37,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
+    url: SITE_URL,
     title: "Winter Olympics 2026 Medal Chances | Milano Cortina",
     description: "Track medal chances for Winter Olympics 2026 athletes. Discover favorites, challengers, and outsiders across all winter sports.",
     siteName: "Winter Olympics Medal Chances",
@@ -46,7 +49,7 @@ export const metadata: Metadata = {
     creator: "@inwebitrust",
   },
   alternates: {
-    canonical: "/",
+    canonical: SITE_URL,
   },
   category: "sports",
 };
