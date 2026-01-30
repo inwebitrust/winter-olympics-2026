@@ -4,7 +4,7 @@
 
 A website that ranks countries across all sports and disciplines worldwide. The platform will display country rankings, sport-specific rankings, and detailed statistics for each country's performance across different sports.
 
-**Domain**: `country-ranking.datasportsiq.com` (or similar subdomain)
+**Domain**: `country-ranking.datasportiq.com` (or similar subdomain)
 
 ## Tech Stack
 
@@ -278,7 +278,7 @@ export interface CountryRanking {
 - Update automatically when CSV data changes
 
 ### Canonical URLs
-- Use full domain URLs: `https://country-ranking.datasportsiq.com/...`
+- Use full domain URLs: `https://country-ranking.datasportiq.com/...`
 - Set canonical in all metadata
 
 ### Open Graph & Twitter Cards
@@ -400,5 +400,5 @@ When implementing this project:
 ---
 
 **Project Owner**: Anthony Veyssiere  
-**Domain**: datasportsiq.com  
+**Domain**: datasportiq.com  
 **Tech Stack**: Next.js 14, TypeScript, Tailwind CSS, Vercel

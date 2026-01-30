@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next'
 import { getDisciplins, getAthletes } from '@/lib/sheets'
 import { createAthleteSlug } from '@/lib/slug'
 
-const SITE_URL = 'https://winter-olympics-2026.datasportsiq.com'
+const SITE_URL = 'https://winter-olympics-2026.datasportiq.com'
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // Static routes

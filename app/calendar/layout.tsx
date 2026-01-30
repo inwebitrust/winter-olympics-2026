@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 
-const SITE_URL = "https://winter-olympics-2026.datasportsiq.com";
+const SITE_URL = "https://winter-olympics-2026.datasportiq.com";
 
 export const metadata: Metadata = {
   title: "Interactive Calendar | Winter Olympics 2026 Medal Chances",

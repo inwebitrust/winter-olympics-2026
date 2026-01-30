@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { getCalendar, getDisciplins } from "@/lib/sheets";
 
-const SITE_URL = "https://winter-olympics-2026.datasportsiq.com";
+const SITE_URL = "https://winter-olympics-2026.datasportiq.com";
 
 function normalizeKey(value: string): string {
   return String(value || "").trim().toLowerCase();
