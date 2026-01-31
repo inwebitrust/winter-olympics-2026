@@ -200,7 +200,7 @@ export default function AthleteRankingPage() {
                           key={c.disciplin_id}
                           className="flex items-center gap-3 flex-wrap"
                         >
-                          <CalendarIcon day={c.day} />
+                          <CalendarIcon day={c.day ?? null} />
                           <Link
                             href={`/disciplin/${encodeURIComponent(c.disciplin_id)}`}
                             className="text-sm font-medium text-[#014a5c] hover:underline"
