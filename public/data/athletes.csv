@@ -14,12 +14,11 @@ Stefan,Rogentin,sui,alpine-skiing-downhill-men,2,"Often overshadowed by Odermatt
 Elian,Lehto,fin,alpine-skiing-downhill-men,1,"The ""Flying Finn"" who has become a consistent Top-10 disruptor and represents the biggest threat to the traditional alpine powerhouses."
 Cameron,Alexander,can,alpine-skiing-downhill-men,1,A big-event performer who already has a World Championship medal and the high-risk style required to master a track as punishing as the Stelvio.
 Niels,Hintermann,sui,alpine-skiing-downhill-men,1,
-Aleksander,Aamodt Kilde,nor,alpine-skiing-downhill-men,1,
 Daniel,Hemetsberger,aut,alpine-skiing-downhill-men,1,
 Sofia,Goggia,ita,alpine-skiing-downhill-women,4,"The home-soil ""Queen of Speed"" whose only real opponent is her own tendency to push past the laws of physics."
-Lindsey,Vonn,usa,alpine-skiing-downhill-women,3,A 41-year-old sporting miracle who is technically and mentally superior to the field on this specific track.
+Lindsey,Vonn,usa,alpine-skiing-downhill-women,2,A 41-year-old sporting miracle who is technically and mentally superior to the field on this specific track.
 Kira,Weidle-Winkelmann,ger,alpine-skiing-downhill-women,2,A powerhouse specialist who arrives with massive confidence after a 2nd place finish behind Nicol Delago in the Tarvisio Downhill last week.
-Emma,Aicher,ger,alpine-skiing-downhill-women,2,"The 22-year-old phenom who has won in Downhill, Super-G, and Slalom this season, making her the most dangerous young disruptor in the field."
+Emma,Aicher,ger,alpine-skiing-downhill-women,3,"The 22-year-old phenom who has won in Downhill, Super-G, and Slalom this season, making her the most dangerous young disruptor in the field."
 Cornelia,Hütter,aut,alpine-skiing-downhill-women,2,"Austria’s ""Iron Lady"" who provides the perfect balance of risk-management and elite speed."
 Laura,Pirovano,ita,alpine-skiing-downhill-women,2,Italy’s model of consistency who has been knocking on the door of the podium all winter and thrives on the high-vibration ice of the Italian tracks.
 Breezy,Johnson,usa,alpine-skiing-downhill-women,2,"A raw power-skier who can win gold if she manages to stay ""quiet"" in the technical turns."
@@ -69,16 +68,17 @@ Eliane,Christen,sui,alpine-skiing-slalom-women,1,
 Dzenifera,Germane,lat,alpine-skiing-slalom-women,1,
 Lara,Delle Mea,ita,alpine-skiing-slalom-women,1,
 Petra,Vlhova,svk,alpine-skiing-slalom-women,1,
-Team,USA 1 - Alpine Skiing Women,usa,alpine-skiing-team-combined-women,5,
+Team,USA 1 - Alpine Skiing Women,usa,alpine-skiing-team-combined-women,3,
 Team,Germany 1 - Alpine Skiing Women,ger,alpine-skiing-team-combined-women,3,
-Team,Autria 1 - Alpine Skiing Women,aut,alpine-skiing-team-combined-women,2,
+Team,Austria 1 - Alpine Skiing Women,aut,alpine-skiing-team-combined-women,2,
 Team,Italy 1 - Alpine Skiing Women,ita,alpine-skiing-team-combined-women,3,
-Team,Germany 2 - Alpine Skiing Women,ger,alpine-skiing-team-combined-women,1,
-Team,Switzerland 1 - Alpine Skiing Women,sui,alpine-skiing-team-combined-women,2,
-Team,USA 2 - Alpine Skiing Women,usa,alpine-skiing-team-combined-women,2,
+Team,Germany 2 - Alpine Skiing Women,ger,alpine-skiing-team-combined-women,2,
+Team,Switzerland 1 - Alpine Skiing Women,sui,alpine-skiing-team-combined-women,3,
+Team,USA 2 - Alpine Skiing Women,usa,alpine-skiing-team-combined-women,1,
 Team,Norway 1 - Alpine Skiing Women,nor,alpine-skiing-team-combined-women,1,
 Team,Italy 2 - Alpine Skiing Women,ita,alpine-skiing-team-combined-women,1,
 Team,Switzerland 2 - Alpine Skiing Women,sui,alpine-skiing-team-combined-women,1,
+Team,France 1 - Alpine Skiing Women,fra,alpine-skiing-team-combined-women,1,
 Marco,Odermatt,sui,alpine-skiing-superg-men,4,The surgical master of speed who enters as the heavy favorite to claim the one gold medal that defines his era.
 Vincent,Kriechmayer,aut,alpine-skiing-superg-men,3,"A veteran tactician who excels when the conditions are ""brutal"" and remains the primary obstacle to a Swiss sweep."
 Giovanni,Franzoni,ita,alpine-skiing-superg-men,2,The red-hot home favorite who is riding a wave of momentum after his maiden World Cup win in Wengen last week.
@@ -93,12 +93,11 @@ Jan,Zabystran,cze,alpine-skiing-superg-men,1,"The historic ""giant-killer"" of t
 Dominik,Paris,ita,alpine-skiing-superg-men,2,A local legend who knows every bump on the Stelvio and will be fueled by the once-in-a-lifetime chance to win an Olympic medal in his own backyard.
 Nils,Allegre,fra,alpine-skiing-superg-men,1,"A French veteran known for his tactical intelligence who consistently hovers near the podium and thrives on the dark, icy conditions typical of the Stelvio."
 Mattia,Casse,ita,alpine-skiing-superg-men,1,
-Aleksander,Aamodt Kilde,nor,alpine-skiing-superg-men,1,
 Adrian,Sejersted,nor,alpine-skiing-superg-men,1,
 Sofia,Goggia,ita,alpine-skiing-superg-women,4,"The home-soil ""Queen of Speed"" who enters the Olympics with the red bib and a singular focus on home-court dominance."
-Lindsey,Vonn,usa,alpine-skiing-superg-women,3,"A 41-year-old miracle who is using her legendary ""Strahler"" (gliding) ability to defy age and the laws of physics."
+Lindsey,Vonn,usa,alpine-skiing-superg-women,2,"A 41-year-old miracle who is using her legendary ""Strahler"" (gliding) ability to defy age and the laws of physics."
 Alice,Robinson,nzl,alpine-skiing-superg-women,3,A fearless charger from New Zealand whose aggressive Giant Slalom turns make her a nightmare for the European favorites.
-Emma,Aicher,ger,alpine-skiing-superg-women,2,"Germany’s ""Swiss Army Knife"" who proved she is a gold-medal threat by winning the final World Cup Super-G before the Games"
+Emma,Aicher,ger,alpine-skiing-superg-women,3,"Germany’s ""Swiss Army Knife"" who proved she is a gold-medal threat by winning the final World Cup Super-G before the Games"
 Romane,Miradoli,fra,alpine-skiing-superg-women,2,"A relentless French veteran who has found a new level of consistency this season, currently sitting in the World Cup Top 5 and proving she can challenge for a medal on any technical track."
 Mikaela,Shiffrin,usa,alpine-skiing-superg-women,2,"The tactical genius who can win any Super-G race that rewards technical precision over raw, blind speed."
 Elena,Curtoni,ita,alpine-skiing-superg-women,2,"Italy’s ""clutch"" performer who has overcome early-season injuries to reclaim her spot as a front-runner, recently securing a Top-15 finish in Tarvisio to signal her readiness for home-court glory."
