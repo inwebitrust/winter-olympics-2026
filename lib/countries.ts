@@ -168,3 +168,22 @@ export function getCountryName(code: string): string {
   const normalizedCode = code.toLowerCase().trim();
   return COUNTRY_NAMES[normalizedCode] || code;
 }
+
+// Slug (e.g. "france", "united-states") or 3-letter code -> country code
+const COUNTRY_SLUG_TO_CODE: Record<string, string> = (() => {
+  const map: Record<string, string> = {};
+  Object.entries(COUNTRY_NAMES).forEach(([code, name]) => {
+    map[code] = code;
+    const slug = name.toLowerCase().trim().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
+    if (slug) map[slug] = code;
+  });
+  return map;
+})();
+
+/**
+ * Get country code from URL slug (e.g. "france", "fra", "united-states")
+ */
+export function getCountryCodeFromSlug(slug: string): string | null {
+  const normalized = slug.toLowerCase().trim().replace(/\s+/g, "-");
+  return COUNTRY_SLUG_TO_CODE[normalized] ?? null;
+}
