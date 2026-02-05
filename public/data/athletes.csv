@@ -522,73 +522,90 @@ Team,Canada - Figure Skating,can,figure-skarting-team-event,2,
 Team,France - Figure Skating,fra,figure-skarting-team-event,1,
 Team,South Korea - Figure Skating,kor,figure-skarting-team-event,1,
 Team,Georgia - Figure Skating,geo,figure-skarting-team-event,1,
-Mathilde,Gremaud,sui,freeski-slopestyle-women,4,The gold standard of women's freeskiing; her combination of power and technical precision makes her the woman to beat for a second consecutive Olympic title.
+Mathilde,Gremaud,sui,freeski-slopestyle-women,3,The gold standard of women's freeskiing; her combination of power and technical precision makes her the woman to beat for a second consecutive Olympic title.
 Eileen,Gu,chn,freeski-slopestyle-women,3,"A global icon coming off a historic 20th World Cup win, bringing unmatched ""big game"" experience to her quest for slopestyle redemption."
 Kirsty,Muir,gbr,freeski-slopestyle-women,3,The young British phenom who has proven this month that she can beat both Gremaud and Gu when her technical rail sections are flawless.
-Marin,Hamill,usa,freeski-slopestyle-women,2,The leader of the US team whose recent silver in Laax proves she has the difficulty and form to battle for an Olympic medal.
+Marin,Hamill,usa,freeski-slopestyle-women,1,The leader of the US team whose recent silver in Laax proves she has the difficulty and form to battle for an Olympic medal.
 Megan,Oldham,can,freeski-slopestyle-women,2,"A high-difficulty specialist for Canada who possesses the ""triple-threat"" tricks necessary to jump to the top of the leaderboard."
-Lara,Wolf,aut,freeski-slopestyle-women,2,Austria’s most consistent performer who has spent the last year cementing her place as a permanent podium threat at major championships.
-Elena,Gaskell,can,freeski-slopestyle-women,1,"A resilient veteran who has proven this January that she is back to elite status, combining technical maturity with a hunger for the Olympic debut that was stolen from her by injury in 2022."
-Olivia,Asselin,can,freeski-slopestyle-women,1,A creative powerhouse whose unique line choices and rail precision make her a dangerous underdog in a deep Canadian field.
-Avery,Krumme,usa,freeski-slopestyle-women,1,"The youngest member of a stacked US team, bringing a high-energy, high-risk style that has seen her climb from the Nor-Am circuit to the Olympic top-five conversation in a single season."
-Flora,Tabanelli,ita,freeski-bigair-women,2,"The 2025 World Champion. She is the home favorite and has the momentum of a consistent season, though she's also hunting for that elusive 2026 World Cup gold."
-Eileen,Gu,chn,freeski-bigair-women,3,"Despite her lack of a World Cup win in Big Air this season, she remains the gold medal threat because of her high-scoring ""Double Cork 1620."" She is the definition of ""High Variance"" right now—she has the highest ceiling but has been beatable this winter."
-Naomi,Urness,can,freeski-bigair-women,3,"The real star of the season. She won the Steamboat World Cup (Dec 13, 2025) and took bronze in Beijing (Dec 6). She is currently leading the Big Air standings and is the most consistent ""clutch"" performer this year."
-Kristy,Muir,gbr,freeski-bigair-women,3,A technical powerhouse who finally broke through for her first Big Air World Cup win this season; she possesses the high-difficulty rotations (1440) needed to challenge Eileen Gu for the gold.
-Liu,Mengting,chn,freeski-bigair-women,2,"The surprise silver medalist in Beijing. She has suddenly become China's ""Plan B"" if Eileen Gu has a rough day."
-Anni,Karava,fin,freeski-bigair-women,2,"She won the Beijing World Cup (Dec 6, 2025), making history for Finland. Her technical precision on the 1080 rotations has put her in the elite tier."
+Lara,Wolf,aut,freeski-slopestyle-women,1,Austria’s most consistent performer who has spent the last year cementing her place as a permanent podium threat at major championships.
+Elena,Gaskell,can,freeski-slopestyle-women,2,"A resilient veteran who has proven this January that she is back to elite status, combining technical maturity with a hunger for the Olympic debut that was stolen from her by injury in 2022."
+Olivia,Asselin,can,freeski-slopestyle-women,2,A creative powerhouse whose unique line choices and rail precision make her a dangerous underdog in a deep Canadian field.
+Grace,Henderson,usa,freeski-slopestyle-women,1,
+Naomi,Urness,can,freeski-slopestyle-women,1,
+Anni,Karava,fin,freeski-slopestyle-women,1,
+Flora,Tabanelli,ita,freeski-bigair-women,1,"The 2025 World Champion. She is the home favorite and has the momentum of a consistent season, though she's also hunting for that elusive 2026 World Cup gold."
+Eileen,Gu,chn,freeski-bigair-women,4,"Despite her lack of a World Cup win in Big Air this season, she remains the gold medal threat because of her high-scoring ""Double Cork 1620."" She is the definition of ""High Variance"" right now—she has the highest ceiling but has been beatable this winter."
+Naomi,Urness,can,freeski-bigair-women,1,"The real star of the season. She won the Steamboat World Cup (Dec 13, 2025) and took bronze in Beijing (Dec 6). She is currently leading the Big Air standings and is the most consistent ""clutch"" performer this year."
+Kristy,Muir,gbr,freeski-bigair-women,2,A technical powerhouse who finally broke through for her first Big Air World Cup win this season; she possesses the high-difficulty rotations (1440) needed to challenge Eileen Gu for the gold.
+Liu,Mengting,chn,freeski-bigair-women,1,"The surprise silver medalist in Beijing. She has suddenly become China's ""Plan B"" if Eileen Gu has a rough day."
+Anni,Karava,fin,freeski-bigair-women,1,"She won the Beijing World Cup (Dec 6, 2025), making history for Finland. Her technical precision on the 1080 rotations has put her in the elite tier."
 Kim,Dumont Zanella,fra,freeski-bigair-women,1,The leader of the French team who has solidified her place in the world top 10 with a string of finals appearances in the 2025/26 World Cup circuit.
-Kateryna,Kotsar,ukr,freeski-bigair-women,1,A rising star from Ukraine whose silver in Steamboat proved she can out-perform the world's elite; she relies on massive amplitude and high-pressure landing consistency.
-Giulia,Tanno,sui,freeski-bigair-women,1,"A veteran whose career has been defined by injury-defying comebacks; she brings the most sophisticated ""style"" to the field and is hunting for the Olympic medal that has eluded her for eight years."
-Eileen,Gu,chn,freeski-halfpipe-women,3,"The ""Queen of the Pipe"" whose combination of massive air and flawless style makes her the most difficult athlete to beat in a three-run final."
-Zoe,Atkin,gbr,freeski-halfpipe-women,4,"Britain’s premier winter athlete, possessing the most creative technical lines and the ability to spin in all four directions with ease."
-Li,Fanghui,chn,freeski-halfpipe-women,3,A technical specialist who just proved in Aspen that she can out-score the World Champion when she lands her signature 900s.
-Indra,Brown,aus,freeski-halfpipe-women,2,"The teenage sensation who has transformed from a ""rookie"" to the World Cup leader in just two months; she is the wildcard for the gold."
+Elena,Gaskell,can,freeski-bigair-women,,
+Giulia,Tanno,sui,freeski-bigair-women,2,"A veteran whose career has been defined by injury-defying comebacks; she brings the most sophisticated ""style"" to the field and is hunting for the Olympic medal that has eluded her for eight years."
+Mathilde,Gremaud,sui,freeski-bigair-women,3,
+Megan,Oldham,can,freeski-bigair-women,2,
+Olivia,Asselin,can,freeski-bigair-women,2,
+Marin,Hamill,usa,freeski-bigair-women,1,
+Sandra,Eie,nor,freeski-bigair-women,1,
+Eileen,Gu,chn,freeski-halfpipe-women,4,"The ""Queen of the Pipe"" whose combination of massive air and flawless style makes her the most difficult athlete to beat in a three-run final."
+Zoe,Atkin,gbr,freeski-halfpipe-women,3,"Britain’s premier winter athlete, possessing the most creative technical lines and the ability to spin in all four directions with ease."
+Li,Fanghui,chn,freeski-halfpipe-women,2,A technical specialist who just proved in Aspen that she can out-score the World Champion when she lands her signature 900s.
+Indra,Brown,aus,freeski-halfpipe-women,3,"The teenage sensation who has transformed from a ""rookie"" to the World Cup leader in just two months; she is the wildcard for the gold."
 Kexin,Zhang,chn,freeski-halfpipe-women,2,"The ""silent assassin"" of the Chinese team who consistently racks up high 80s scores with textbook execution."
-Mischa,Thomas,nzl,freeski-halfpipe-women,1,"A technical specialist for New Zealand who excels in the creative side of the pipe, making her a dangerous underdog if the high-rotation favorites struggle with their landings."
+Mischa,Thomas,nzl,freeski-halfpipe-women,2,"A technical specialist for New Zealand who excels in the creative side of the pipe, making her a dangerous underdog if the high-rotation favorites struggle with their landings."
 Amy,Fraser,can,freeski-halfpipe-women,2,A steady Canadian veteran who specializes in high-difficulty tricks and has spent the season lurking just outside the top three.
 Abby,Winterberger,usa,freeski-halfpipe-women,1,The youngest member of the US squad whose meteoric rise this season has made her a legitimate threat to sneak into the top three on her Olympic debut.
 Cassie,Sharpe,can,freeski-halfpipe-women,1,"A legendary ""three-peat"" seeker who is balancing motherhood with elite-level skiing; her amplitude remains her greatest weapon in the hunt for a third Olympic medal."
 Rachel,Karker,can,freeski-halfpipe-women,1,
 Riley,Jacobs,usa,freeski-halfpipe-women,1,
-Birk,Ruud,nor,freeski-slopestyle-men,4,The gold standard of the sport; his ability to land his most difficult tricks 10 out of 10 times makes him the man to beat.
-Mac,Forehand,usa,freeski-slopestyle-men,4,A powerhouse who combines elite competition experience with the most technically difficult jump line currently being performed.
-Alex,Hall,usa,freeski-slopestyle-men,2,"The most creative skier in the world; he wins by doing tricks that the judges have never seen before, rather than just spinning the most."
-Sebastian,Schjerve,nor,freeski-slopestyle-men,2,A model of Norwegian technical efficiency who has spent the 2025/26 season knocking on the door of the elite podium; his 4th place in Laax suggests he is peaking at the perfect moment for Italy.
-Matej,Svancer,aut,freeski-slopestyle-men,1,"An Austrian wizard who brings ""video game"" logic to the slopes; if he lands his run, he can beat anyone in the world."
+Liu,Yishan,chn,freeski-halfpipe-women,1,
+Svea,Irving,usa,freeski-halfpipe-women,1,
+Birk,Ruud,nor,freeski-slopestyle-men,3,The gold standard of the sport; his ability to land his most difficult tricks 10 out of 10 times makes him the man to beat.
+Mac,Forehand,usa,freeski-slopestyle-men,2,A powerhouse who combines elite competition experience with the most technically difficult jump line currently being performed.
+Alexander,Hall,usa,freeski-slopestyle-men,3,"The most creative skier in the world; he wins by doing tricks that the judges have never seen before, rather than just spinning the most."
+Matej,Svancer,aut,freeski-slopestyle-men,2,"An Austrian wizard who brings ""video game"" logic to the slopes; if he lands his run, he can beat anyone in the world."
 Evan,McEachran,can,freeski-slopestyle-men,1,The heartbeat of the Canadian team; his recent bronze in Laax proves he has the momentum to finally secure an Olympic medal.
-Andri,Ragettli,sui,freeski-slopestyle-men,1,"Switzerland’s most reliable athlete, relying on a ""perfectly clinical"" approach to maximize his scores."
-Konnor,Ralph,usa,freeski-slopestyle-men,1,A high-flying American technical specialist who brings Big Air-level amplitude to the Slopestyle course; his fearless style and recent 4th place in Aspen make him a dangerous underdog for a medal.
+Andri,Ragettli,sui,freeski-slopestyle-men,3,"Switzerland’s most reliable athlete, relying on a ""perfectly clinical"" approach to maximize his scores."
+Henrik,Harlaut,swe,freeski-slopestyle-men,1,
 Henry,Sildaru,est,freeski-slopestyle-men,1,The teenage phenom from Estonia who proved in Aspen that he belongs on the world stage alongside the giants of the sport.
-Troy,Podmilsak,usa,freeski-bigair-men,4,The world's most powerful jumper right now; he owns the 2160 and has shown the mental toughness to win back-to-back World Cups this winter.
-Luca,Harrington,nzl,freeski-bigair-men,4,"The most consistent athlete in the history of the discipline, riding a world-record podium streak into the Olympics."
-Ulrik,Samoney,nor,freeski-bigair-men,2,Norway’s newest gold-medal threat who combines the raw power of a triple cork with a level of control that few can match.
-Konnor,Ralph,usa,freeski-bigair-men,2,The American wildcard who has the style to win over the judges and the momentum of a career-best Silver in Steamboat.
-Birk,Ruud,nor,freeski-bigair-men,1,"The ultimate professional who has the technical depth to win any event he enters, even if he hasn't been the dominant force in Big Air this month."
-Dylan,Deschamps,can,freeski-bigair-men,2,"The Quebec City native is Canada’s premier Big Air threat after taking a massive Silver medal at the Secret Garden World Cup (Nov 2025) and a 7th place in Beijing, proving he has the high-rotation ""Triple Cork"" consistency to fight for a podium spot."
-Matej,Svancer,aut,freeski-bigair-men,1,"An Austrian artist who brings the highest level of creativity to the jump; he is the most likely to land a ""never-before-seen"" grab."
-Vebjoern,Graaberg,nor,freeski-bigair-men,1,"A rising star on the deep Norwegian squad who has had a career-best winter, highlighted by a 5th place at Secret Garden and a 10th place in Steamboat, showing he is one clean landing away from an Olympic bronze."
-Alex,Ferreira,usa,freeski-halfpipe-men,4,A clinical machine who hasn't missed a podium in two years; his run is the benchmark for technical perfection and massive amplitude.
-Finley,Melville Ives,nzl,freeski-halfpipe-men,4,The reigning World Champion and New Zealand's superstar who possesses the most technically difficult run in the world when he lands it clean.
+Luca,Harrington,nzl,freeski-slopestyle-men,2,
+Jesper,Tjader,swe,freeski-slopestyle-men,1,
+Troy,Podmilsak,usa,freeski-slopestyle-men,1,
+Troy,Podmilsak,usa,freeski-bigair-men,2,The world's most powerful jumper right now; he owns the 2160 and has shown the mental toughness to win back-to-back World Cups this winter.
+Luca,Harrington,nzl,freeski-bigair-men,1,"The most consistent athlete in the history of the discipline, riding a world-record podium streak into the Olympics."
+Birk,Ruud,nor,freeski-bigair-men,4,"The ultimate professional who has the technical depth to win any event he enters, even if he hasn't been the dominant force in Big Air this month."
+Matej,Svancer,aut,freeski-bigair-men,3,"An Austrian artist who brings the highest level of creativity to the jump; he is the most likely to land a ""never-before-seen"" grab."
+Andri,Ragettli,sui,freeski-bigair-men,3,
+Alexander,Hall,usa,freeski-bigair-men,2,
+Henry,Sildaru,est,freeski-bigair-men,2,
+Mac,Forehand,usa,freeski-bigair-men,1,
+Fabian,Boesch,sui,freeski-bigair-men,1,
+Kim,Gubser,sui,freeski-bigair-men,1,
+Jesper,Tjader,swe,freeski-bigair-men,1,
+Alex,Ferreira,usa,freeski-halfpipe-men,3,A clinical machine who hasn't missed a podium in two years; his run is the benchmark for technical perfection and massive amplitude.
+Finley,Melville Ives,nzl,freeski-halfpipe-men,5,The reigning World Champion and New Zealand's superstar who possesses the most technically difficult run in the world when he lands it clean.
 Nick,Goepper,usa,freeski-halfpipe-men,3,"A veteran champion who has successfully transitioned disciplines and brings an unmatched ""medal-winning"" mentality to the pipe."
 Hunter,Hess,usa,freeski-halfpipe-men,2,"A style icon who has transformed himself into a consistent podium threat, relying on unique grabs and creative trick choices."
 Birk,Irving,usa,freeski-halfpipe-men,1,"A model of consistency and the 2023 Crystal Globe winner, Irving officially locked in his second Olympic appearance with a Bronze in Calgary (Jan 3) and a 5th place in Aspen (Jan 10), solidifying his role as a high-floor podium threat who has finished in the top 10 of every event this season."
 Luke,Harrold,nzl,freeski-halfpipe-men,2,"The 17-year-old phenom and 2024 Youth Olympic Gold medalist became a historic podium threat after landing the world's first triple cork in a halfpipe competition at the 2025 Worlds, and his recent Silver in Secret Garden (Dec 2025) proves he has the technical ceiling to disrupt the American dominance."
 Gus,Kenworthy,gbr,freeski-halfpipe-men,1,A legendary ambassador for the sport returning for one final Olympic run; he remains a threat due to his perfect execution and veteran poise.
 Andrew,Longino,can,freeski-halfpipe-men,1,"A rising Canadian who provides a stylistic alternative to the leaders, often being rewarded for his unique lines and effortless flow."
+Brendan,Mackay,can,freeski-halfpipe-men,1,
 Jakara,Anthony,aus,moguls-women,4,A historic talent currently at the peak of her powers; she is the clear favorite to defend her title on the strength of her flawless turn scores.
-Olivia,Giaccio,usa,moguls-women,3,"An ""air-specialist"" for the Americans who holds the potential for the highest jump scores in the entire field."
+Olivia,Giaccio,usa,moguls-women,2,"An ""air-specialist"" for the Americans who holds the potential for the highest jump scores in the entire field."
 Perrine,Laffont,fra,moguls-women,3,A legendary veteran whose technical perfection and three World Championship titles make her the biggest threat to Jakara's dominance.
-Jaelin,Kauf,usa,moguls-women,2,The speed-queen of Team USA who will look to use her unmatched aggression to turn her 2022 silver into 2026 gold.
+Jaelin,Kauf,usa,moguls-women,3,The speed-queen of Team USA who will look to use her unmatched aggression to turn her 2022 silver into 2026 gold.
 Tess,Johnson,usa,moguls-women,2,"A model of consistency and the leader of the US standings, relying on a clean, classic style that is perfect for the Olympic format."
 Hinako,Tomitaka,jpn,moguls-women,1,"The reigning 2025 World Silver Medalist from Japan, she enters the Olympics ranked 7th in the world and remains a formidable podium threat due to her clinical turn technique and massive second-air difficulty."
 Anastassiya,Gorodko,kaz,moguls-women,1,"The Beijing 2022 Bronze Medalist and 2025 World Bronze Medalist, she is currently in career-best form after winning two Gold medals at the Tignes World Cup in December 2025, proving she is Kazakhstan's best hope for Olympic glory."
-Elizabeth,Lemley,usa,moguls-women,1,"A young, high-momentum American who just proved her medal credentials with a massive silver in the final pre-Olympic World Cup."
+Elizabeth,Lemley,usa,moguls-women,2,"A young, high-momentum American who just proved her medal credentials with a massive silver in the final pre-Olympic World Cup."
 Avital,Carroll,aut,moguls-women,1,"Representing Austria, the 2023 double World Bronze Medalist is a veteran of the circuit who currently sits 9th in the world standings, relying on her massive ""Big Air"" style to challenge the leaders in the dual moguls format."
 Maia,Schwinghammer,can,moguls-women,1,"Canada's top women's hope and the 2025 World Bronze Medalist, she officially qualified for Team Canada yesterday (Jan 22, 2026) and brings the momentum of her first career World Cup victory in Val St-Côme into the Olympic gate."
+Rino,Yanagimoto,jpn,moguls-women,1,
+Charlotte,Wilson,aus,moguls-women,1,
 Jaelin,Kauf,usa,dual-moguls-women,4,The reigning World Champion and the fastest woman on snow; her aggressive style is perfectly suited for the knockout nature of this new Olympic event.
 Jakara,Anthony,aus,dual-moguls-women,3,The world number one who combines the highest technical floor with an ice-cold competitive temperament
-Elizabeth,Lemley,usa,dual-moguls-women,3,A high-octane rookie who is currently the only skier capable of consistently out-racing the veterans in the bottom half of the course.
+Elizabeth,Lemley,usa,dual-moguls-women,1,A high-octane rookie who is currently the only skier capable of consistently out-racing the veterans in the bottom half of the course.
 Perrine,Laffont,fra,dual-moguls-women,2,"A legendary tactician whose ability to ""pressure"" opponents into mistakes makes her a terrifying draw in any Olympic bracket."
 Tess,Johnson,usa,dual-moguls-women,2,"A specialist in the side-by-side format who relies on her textbook technique to win ""judge-heavy"" duals."
 Olivia,Giaccio,usa,dual-moguls-women,1,"The American ""air specialist"" is a podium regular who holds a massive tactical advantage in duals thanks to her Cork 1080, which can flip a match in her favor even if she trails on the clock."
@@ -596,44 +613,51 @@ Anastassiya,Gorodko,kaz,dual-moguls-women,1,"Kazakhstan’s star who proved this
 Maia,Schwinghammer,can,dual-moguls-women,1,The leading Canadian who enters Italy with a fresh World Cup win and the confidence to take down the big three.
 Jessica,Linton,can,dual-moguls-women,1,"A rising Canadian star who officially secured her Olympic spot on January 20, 2026, after a breakout winter highlighted by an 8th place finish in Val St. Côme and a strong 7th at the 2025 World Championships."
 Hinako,Tomitaka,jpn,dual-moguls-women,1,"Japan’s model of consistency who excels in the side-by-side format, relying on her clinical turn technique to punish opponents who sacrifice their form for raw speed."
-Ikuma,Horishima,jpn,moguls-men,4,"The world number one who uses a ""high-risk, high-reward"" aerial package to force the rest of the field to ski perfectly just to keep up."
-Mikael,Kingsbury,can,moguls-men,4,A legend chasing his second Olympic gold to cement his status as the greatest ever; his 100th win this month proves he is still the man to beat.
-Matt,Graham,aus,moguls-men,3,Australia’s fastest skier who has spent the 2025/26 season consistently splitting the top two favorites on the podium.
+Yuliya,Galysheva,kaz,dual-moguls-women,2,
+Charlotte,Wilson,aus,dual-moguls-women,2,
+Ikuma,Horishima,jpn,moguls-men,3,"The world number one who uses a ""high-risk, high-reward"" aerial package to force the rest of the field to ski perfectly just to keep up."
+Mikael,Kingsbury,can,moguls-men,5,A legend chasing his second Olympic gold to cement his status as the greatest ever; his 100th win this month proves he is still the man to beat.
+Matt,Graham,aus,moguls-men,2,Australia’s fastest skier who has spent the 2025/26 season consistently splitting the top two favorites on the podium.
 Nick,Page,usa,moguls-men,2,"The American hope whose technical precision and recent podium in Canada make him a legitimate threat to end the ""Kingsbury-Horishima"" duopoly."
 Julien,Viel,can,moguls-men,2,"Canada’s second option who has proven he has the ""clutch"" gene by winning his first World Cup gold just weeks before the Games."
 Shota,Hirayama,jpn,moguls-men,1,"The newest addition to Japan's elite ""Mogul Army."" He is coming off a massive career milestone, having claimed his first-ever World Cup podium (Bronze) at Waterville Valley on January 16, 2026. Currently ranked 9th in the world moguls standings, he has become a ""Super Final"" regular this January and is peaking at the perfect moment to support teammate Ikuma Horishima on the Olympic stage."
 Charlie,Mickel,usa,moguls-men,1,"A rising American star who finished 6th in Waterville Valley and has climbed to 5th in the world standings, proving he is a dark horse for the Olympic final."
-Walter,Wallberg,swe,moguls-men,1,The defending champion who possesses the mental fortitude to ignore the regular-season noise and deliver a gold-medal run when it matters most.
-Filip,Gravenfors,swe,moguls-men,1,A young Swedish powerhouse whose silver medal last week in New Hampshire signaled he is ready to challenge for an Olympic podium.
+Walter,Wallberg,swe,moguls-men,2,The defending champion who possesses the mental fortitude to ignore the regular-season noise and deliver a gold-medal run when it matters most.
 Jung,Daeyoon,kor,moguls-men,1,"South Korea's first-ever mogul skiing superstar. He shocked the world by taking the Bronze medal at the 2025 World Championships and has carried that momentum into 2026, sitting 11th in the world standings with top-5 finishes in Ruka and a recent 16th in Val St. Come. He is a high-amplitude jumper who provides Korea with its best chance for a freestyle medal in history."
-Mikael,Kingsbury,can,dual-moguls-men,4,The tactical genius who is aiming to add the first-ever Dual Moguls Olympic Gold to his massive trophy case.
-Ikuma,Horishima,jpn,dual-moguls-men,3,A duals powerhouse who enters the Olympics with the yellow bib and the most difficult aerial package in the world.
+Benjamin,Cavet,fra,moguls-men,1,
+Pavel,Klolmakov,kaz,moguls-men,1,
+Severi,Vierela,fin,moguls-men,1,
+Mikael,Kingsbury,can,dual-moguls-men,5,The tactical genius who is aiming to add the first-ever Dual Moguls Olympic Gold to his massive trophy case.
+Ikuma,Horishima,jpn,dual-moguls-men,2,A duals powerhouse who enters the Olympics with the yellow bib and the most difficult aerial package in the world.
 Julien,Viel,can,dual-moguls-men,3,"The ""New King"" of Canadian duals who proved this month that he can beat the world number one in a head-to-head final."
-Filip,Gravenfors,swe,dual-moguls-men,2,A Swedish speed-demon who relies on aggressive turn-skying to overwhelm his rivals in the middle section of the course.
+Walter,Wallberg,swe,dual-moguls-men,2,
 Matt,Graham,aus,dual-moguls-men,2,"Australia's reliable podium threat who has spent the 2025/26 season as the most consistent ""spoiler"" for the top two."
 Olli,Penttala,fin,dual-moguls-men,1,"Finland’s leading man just proved his ""Final Four"" potential by finishing 4th at the Val St. Come World Cup (Jan 10, 2026); he is a specialist in the duals bracket who thrives on forcing his opponents into high-speed mistakes."
 Charlie,Mickel,usa,dual-moguls-men,1,"Having officially secured his Olympic spot on January 21, 2026, Mickel heads to Italy with the momentum of a 6th place in Val St. Come and a career-best world ranking of 5th overall in the moguls circuit."
-Nick,Page,usa,dual-moguls-men,1,The technical leader of the American team whose consistency makes him a near-lock for the quarter-finals or better.
+Nick,Page,usa,dual-moguls-men,2,The technical leader of the American team whose consistency makes him a near-lock for the quarter-finals or better.
 Pavel,Kolmakov,kaz,dual-moguls-men,1,"A veteran powerhouse and former World Championship medalist, Kolmakov remains a high-variance threat who recently finished 7th in Tignes and has the technical ""floor"" to navigate deep into any Olympic bracket."
 Shota,Hirayama,jpn,dual-moguls-men,1,"Japan's ""Dark Horse"" who provides the team with a third legitimate threat following his recent single-mogul bronze."
-Kaila,Kuhn,usa,aerials-women,4,"The 2025 World Champion is now the Olympic gold favorite. She finished the season with a flurry, taking Bronze and Gold at the Lake Placid World Cup (Jan 11-12, 2026). Her ability to stomp high-difficulty triples under the immense pressure of a home crowd has proven she is the most ""clutch"" athlete in the field right now."
-Xu,Mengtao,chn,aerials-women,4,"The legendary defending champion is the model of consistency. She finished as the 2025/26 World Cup overall leader, ending the season with a podium or top-5 finish in every single event. She is the veteran ""bank"" for a medal—it's almost impossible to imagine her off the podium."
-Danielle,Scott,aus,aerials-women,3,"Australia's most reliable performer this winter. She won Gold in Lake Placid (Jan 11), proving that while her teammates might be flashier, she is the one most likely to deliver a medal-winning score in the Super Final."
+Benjamin,Cavet,fra,dual-moguls-men,2,
+Severi,Vierela,fin,dual-moguls-men,1,
+Kaila,Kuhn,usa,aerials-women,3,"The 2025 World Champion is now the Olympic gold favorite. She finished the season with a flurry, taking Bronze and Gold at the Lake Placid World Cup (Jan 11-12, 2026). Her ability to stomp high-difficulty triples under the immense pressure of a home crowd has proven she is the most ""clutch"" athlete in the field right now."
+Xu,Mengtao,chn,aerials-women,5,"The legendary defending champion is the model of consistency. She finished as the 2025/26 World Cup overall leader, ending the season with a podium or top-5 finish in every single event. She is the veteran ""bank"" for a medal—it's almost impossible to imagine her off the podium."
+Danielle,Scott,aus,aerials-women,2,"Australia's most reliable performer this winter. She won Gold in Lake Placid (Jan 11), proving that while her teammates might be flashier, she is the one most likely to deliver a medal-winning score in the Super Final."
 Laura,Peel,aus,aerials-women,2,"The triple-jump pioneer. While she won in Lac-Beauport (Jan 7), her season has been plagued by inconsistent landings, finishing 5th overall in the standings. She remains an outsider for gold unless she can find her 2025 form in time for the Games."
 Winter,Vinecki,usa,aerials-women,1,Finished the season 2nd in the World Cup standings for the U.S. and won a huge Gold in Lac-Beauport earlier this month. She is the high-energy threat who can take down Kuhn or Xu if she sticks her hardest triple.
 Marion,Thenault,can,aerials-women,1,A Canadian powerhouse whose high-amplitude jumps make her a dangerous underdog if she can clean up her landings in the medal round.
-Kong,Fangyu,chn,aerials-women,2,The season opener winner. She finished 2nd overall in the World Cup standings and represents the high-execution technical style that judges love.
-Chen,Meiting,chn,aerials-women,1,"The breakout star of the season. She finished 8th in the overall World Cup standings after a blistering start to the winter, including a Silver medal at the Beidahu World Cup (behind Xu Mengtao) and a consistent string of podium threats in North America. She is the ""new era"" of Chinese aerials, possessing the technical execution scores to beat anyone in the field if she lands her double-full-full cleanly."
+Kong,Fangyu,chn,aerials-women,3,The season opener winner. She finished 2nd overall in the World Cup standings and represents the high-execution technical style that judges love.
+Airleigh,Frigo,aus,aerials-women,1,"The breakout star of the season. She finished 8th in the overall World Cup standings after a blistering start to the winter, including a Silver medal at the Beidahu World Cup (behind Xu Mengtao) and a consistent string of podium threats in North America. She is the ""new era"" of Chinese aerials, possessing the technical execution scores to beat anyone in the field if she lands her double-full-full cleanly."
 Shao,Qi,chn,aerials-women,1,"The 2025 World Championship finalist. She finished the 2026 World Cup season ranked 9th in the world, peaking with a massive 4th place finish at the Lake Placid finale (Jan 12). She is a powerhouse who brings high amplitude to the triple jumps, and her recent form suggests she is the ""dark horse"" within the Chinese camp for a podium sweep."
 Sun,Jiaxu,chn,aerials-men,3,The current World Cup king who relies on textbook form and landing precision to win; he is the man to beat for the 2026 Crystal Globe and Olympic Gold.
-Wang,Xindi,chn,aerials-men,3,The form athlete of the Chinese team who used a dominant performance in Lake Placid this month to vault himself from a roster bubble to a legitimate gold medal contender.
+Wang,Xindi,chn,aerials-men,2,The form athlete of the Chinese team who used a dominant performance in Lake Placid this month to vault himself from a roster bubble to a legitimate gold medal contender.
 Li,Tanma,chn,aerials-men,3,"The young leader of the Chinese team who transitioned from a rookie to the World #1 bib this winter, proving he can handle the pressure of both home and international crowds."
 Dmytro,Kotovskyi,ukr,aerials-men,2,"The ""Hurricane"" specialist who remains the most exciting jumper on the tour, capable of posting a 130+ score that can reset the entire Olympic final."
-Li,Xinpeng,chn,aerials-men,2,"The surprise winner of the final World Cup in Lake Placid (Jan 12), proving that China has at least four men capable of winning Olympic gold."
+Qi,Guangpu,chn,aerials-men,3,"The surprise winner of the final World Cup in Lake Placid (Jan 12), proving that China has at least four men capable of winning Olympic gold."
 Noe,Roth,sui,aerials-men,2,The Swiss world champion who possesses the technical ability to sweep the podium alongside his teammate Werner.
 Miha,Fontaine,can,aerials-men,1,Canada's hottest aerialist who used the final qualifying event of the season to jump onto the podium and cement his status as a legitimate Olympic medal threat.
 Primin,Werner,sui,aerials-men,2,The Swiss aerial wizard who possesses the world's most difficult trick and the potential for the highest single-jump score in Olympic history.
 Quinn,Dehlinger,usa,aerials-men,1,The 2025 World Silver medalist who officially made Team USA this week and remains a threat due to his incredible height and air control.
+Christopher,Lillis,usa,aerials-men,1,
 Team,China - Aerials Mixed,chn,aerials-mixed-teams,4,
 Team ,USA - Aerials Mixed,usa,aerials-mixed-teams,3,
 Team ,Australia - Aerials Mixed,aus,aerials-mixed-teams,2,
@@ -722,15 +746,17 @@ Team,Italy - Luge,ita,luge-team-relay,2,
 Team,Poland - Luge,pol,luge-team-relay,1,
 Team,USA - Luge,usa,luge-team-relay,1,
 Johannes,Lamparter,aut,nordic-combined-normal-hill,3,One of the favorite for Gold; he has replaced Riiber as the most consistent force on the World Cup and currently holds a 150-point lead in the standings.
-Jens Luraas,Oftebro,nor,nordic-combined-normal-hill,3,The fastest man on skis in the discipline; his Olympic fate will be decided entirely by his performance on the Normal Hill jump.
-Julian,Schmid,ger,nordic-combined-normal-hill,3,Germany’s top hope who relies on a punishing cross-country pace to break his opponents in the final kilometer.
+Jens Luraas,Oftebro,nor,nordic-combined-normal-hill,4,The fastest man on skis in the discipline; his Olympic fate will be decided entirely by his performance on the Normal Hill jump.
+Julian,Schmid,ger,nordic-combined-normal-hill,2,Germany’s top hope who relies on a punishing cross-country pace to break his opponents in the final kilometer.
 Einar Luraas,Oftebro,nor,nordic-combined-normal-hill,2,"The ""older brother"" who has transformed from a top-20 regular into a consistent podium finisher this January; he and Jens have now shared a World Cup podium twice this month, signaling that the ""Oftebro Double"" is a very real possibility for Milano-Cortina."
-Johannes,Rydzek,ger,nordic-combined-normal-hill,2,The veteran legend who is having a massive resurgence. He took Silver in the Otepää Gundersen two weeks ago and sits 6th in the world. His experience in Olympic pressure-cooker situations is unmatched.
-Thomas,Rettenegger,aut,nordic-combined-normal-hill,2,"The ""Flight King"" who will likely lead the race for the first 7.5km before the heavy hitters like Lamparter and Schmid attempt to hunt him down."
-Stefan,Rettenegger,aut,nordic-combined-normal-hill,1,"Currently 8th in the world. He is a more balanced version of his brother, often finishing in the top 5. He provides Austria with incredible tactical depth for the ""team-style"" tactics often used to block the Germans."
+Johannes,Rydzek,ger,nordic-combined-normal-hill,1,The veteran legend who is having a massive resurgence. He took Silver in the Otepää Gundersen two weeks ago and sits 6th in the world. His experience in Olympic pressure-cooker situations is unmatched.
+Thomas,Rettenegger,aut,nordic-combined-normal-hill,1,"The ""Flight King"" who will likely lead the race for the first 7.5km before the heavy hitters like Lamparter and Schmid attempt to hunt him down."
+Stefan,Rettenegger,aut,nordic-combined-normal-hill,2,"Currently 8th in the world. He is a more balanced version of his brother, often finishing in the top 5. He provides Austria with incredible tactical depth for the ""team-style"" tactics often used to block the Germans."
 Ikka,Herola,fin,nordic-combined-normal-hill,1,"A perennial podium threat who finally found his form with a Bronze in Ruka. He is a ""pure"" cross-country specialist who needs a windy day on the hill to stay in contention."
 Kristjan,Ilves,est,nordic-combined-normal-hill,1,Currently 12th in the world standings. He is a very strong jumper who has been knocking on the door of a major podium all January.
-Vinzenz,Geiger,ger,nordic-combined-normal-hill,1,"The defending Olympic champion. While he has struggled with minor injuries this winter (currently 10th in the world), he remains the most dangerous sprinter in the sport."
+Vinzenz,Geiger,ger,nordic-combined-normal-hill,3,"The defending Olympic champion. While he has struggled with minor injuries this winter (currently 10th in the world), he remains the most dangerous sprinter in the sport."
+Ikka,Herola,fin,nordic-combined-normal-hill,1,
+Andreas,Skoglund,nor,nordic-combined-normal-hill,1,
 Johannes,Lamparter,aut,nordic-combined-large-hill,4,
 Julian,Schmid,ger,nordic-combined-large-hill,3,
 Thomas,Rettenegger,aut,nordic-combined-large-hill,2,
@@ -739,7 +765,7 @@ Jens Luraas,Oftebro,nor,nordic-combined-large-hill,1,
 Johannes,Rydzek,ger,nordic-combined-large-hill,2,
 Ikka,Herola,fin,nordic-combined-large-hill,1,
 Thomas,Rettenegger,aut,nordic-combined-large-hill,1,
-Andreas,Skglund,nor,nordic-combined-large-hill,1,
+Andreas,Skoglund,nor,nordic-combined-large-hill,1,
 Team,Austria - Nordic Combined,aut,nordic-combined-team-sprint,4,
 Team,Norway - Nordic Combined,nor,nordic-combined-team-sprint,3,
 Team,Germany - Nordic Combined,ger,nordic-combined-team-sprint,3,
@@ -917,28 +943,32 @@ Team,Austria - Mixed Team,aut,ski-jumping-mixed-team,3,
 Team,Germany - Mixed Team,ger,ski-jumping-mixed-team,2,
 Team,Norway - Mixed Team,nor,ski-jumping-mixed-team,1,
 Team,Poland - Mixed Team,pol,ski-jumping-mixed-team,1,
-Emily,Harrop,fra,ski-mountaineering-sprint-women,4,The gold standard; she has won nearly every sprint she has entered in the last two years and is the most complete athlete in the sport's history.
-Marianne,Fatton,sui,ski-mountaineering-sprint-women,3,"The ""Swiss Rocket""; she is the world's fastest ""booter,"" often making up 5–10 seconds on the hiking section alone."
+Emily,Harrop,fra,ski-mountaineering-sprint-women,5,The gold standard; she has won nearly every sprint she has entered in the last two years and is the most complete athlete in the sport's history.
+Marianne,Fatton,sui,ski-mountaineering-sprint-women,2,"The ""Swiss Rocket""; she is the world's fastest ""booter,"" often making up 5–10 seconds on the hiking section alone."
 Margot,Ravinel,fra,ski-mountaineering-sprint-women,3,"The ""Silent Threat""; she has beaten Harrop twice this winter, proving that the French team has two legitimate candidates for the top step of the podium."
-Giulia,Murada,ita,ski-mountaineering-sprint-women,1,"The ""Local Hero""; she will have the support of the entire Bormio valley, and her technical descent on the Stelvio slope is considered the best in the field."
+Giulia,Murada,ita,ski-mountaineering-sprint-women,3,"The ""Local Hero""; she will have the support of the entire Bormio valley, and her technical descent on the Stelvio slope is considered the best in the field."
 Tatjana,Paller,ger,ski-mountaineering-sprint-women,1,"The 2025 World Bronze medalist. Paller is a ""bracket racer"" who excels in the head-to-head format of the semi-finals and finals."
 Caroline,Ulrich,sui,ski-mountaineering-sprint-women,1,"The ""Transition Queen""; while she lacks the raw uphill engine of Emily Harrop, her background as a world-class trail runner and her history of winning major titles on home snow makes her the primary candidate to steal a medal if any of the ""Big Three"" falter."
 Ana,Alonso Rodriguez,esp,ski-mountaineering-sprint-women,1,"A veteran superstar who was the overall World #3 before a cycling accident in October 2025. She has made a ""miracle recovery"" to join the Spanish Olympic team this month; while her fitness is a question mark, her race craft is world-class."
-Oriol,Cardona,esp,ski-mountaineering-sprint-men,5,"The ""Gold Standard""; he has won the last three World Cup sprints he entered and is currently the fastest transitioner in Olympic history."
+Alba,De Silvestro,ita,ski-mountaineering-sprint-women,1,
+Johanna,Hiemer,aut,ski-mountaineering-sprint-women,1,
+Oriol,Cardona,esp,ski-mountaineering-sprint-men,4,"The ""Gold Standard""; he has won the last three World Cup sprints he entered and is currently the fastest transitioner in Olympic history."
 Thibault,Anselmet,fra,ski-mountaineering-sprint-men,3,"The ""French Anchor""; he is the reigning overall world #1 and is looking for a sprint medal to cement his legacy as the greatest of his generation."
-Jon,Kistler,sui,ski-mountaineering-sprint-men,3,"Switzerland’s ""Young Gun""; he has the highest uphill speed in the world right now and is the only man to beat Cardona Coll this winter."
+Jon,Kistler,sui,ski-mountaineering-sprint-men,2,"Switzerland’s ""Young Gun""; he has the highest uphill speed in the world right now and is the only man to beat Cardona Coll this winter."
 Arno,Lietha,sui,ski-mountaineering-sprint-men,1,"A legendary sprinter and former world #1. While he has taken a ""backseat"" to his teammate Kistler this season, he still secured Silver in Solitude and Bronze in Bormio. He is a ""Big Game"" player who rarely misses an Olympic-sized podium."
 Ot,Ferrer,esp,ski-mountaineering-sprint-men,1,"The ""Catalan Rocket""; he is the most successful youth athlete in Spanish history and is currently the highest-ranked U23 sprinter on the global circuit."
 Maximilien,Drion du Chapois,bel,ski-mountaineering-sprint-men,1,"The most dangerous wildcard in the field. Currently World #3, he has been a podium fixture all season. He represents Belgium’s best-ever chance for a Winter Olympic gold, possessing a massive engine and a fearless descending style."
 Pablo,Giner Dalmasso,fra,ski-mountaineering-sprint-men,1,"The ""French Relay Ace""; he has transitioned from a vertical specialist to one of the most technical sprinters in the French stable, known for having the fastest ""skin-to-ski"" transitions in January."
-Team,France - Ski Mountaineering Mixed,fra,ski-mountaineering-mixed-relay,4,
-Team,Spain - Ski Mountaineering Mixed,esp,ski-mountaineering-mixed-relay,4,
+Nicolo,Canclini,ita,ski-mountaineering-sprint-men,1,
+Luca,Tomasoni,ita,ski-mountaineering-sprint-men,1,
+Team,France - Ski Mountaineering Mixed,fra,ski-mountaineering-mixed-relay,5,
+Team,Spain - Ski Mountaineering Mixed,esp,ski-mountaineering-mixed-relay,3,
 Team,Switzerland - Ski Mountaineering Mixed,sui,ski-mountaineering-mixed-relay,2,
-Team,Italy - Ski Mountaineering Mixed,ita,ski-mountaineering-mixed-relay,1,
+Team,Italy - Ski Mountaineering Mixed,ita,ski-mountaineering-mixed-relay,2,
 Team,Austria - Ski Mountaineering Mixed,aut,ski-mountaineering-mixed-relay,1,
 Eliot,Grondin,can,snowboard-cross-men,4,"The ""Golden Boy"" of Canada; he is looking to upgrade his Beijing silver to gold and is currently the most feared rider in every qualifying heat."
 Adam,Lambert,aus,snowboard-cross-men,3,"The ""Aussie Powerhouse""; he enters Milan as the world #1 and the most physically dominant rider on the jumps."
-Jonas,Chollet,fra,snowboard-cross-men,2,"The ""French Prodigy""; at just 18, he has the fastest reaction time out of the starting gate in the entire FIS circuit."
+Jonas,Chollet,fra,snowboard-cross-men,3,"The ""French Prodigy""; at just 18, he has the fastest reaction time out of the starting gate in the entire FIS circuit."
 Jakob,Dusek,aut,snowboard-cross-men,2,"The man in the hottest form. Dusek won the Gold in China (Jan 18) and sits third in the overall standings. He has become Austria's premier threat, showing a rare ability to navigate ""traffic"" and make passes in the final three turns."
 Alessandro,Hammerle,aut,snowboard-cross-men,2,"The ""Tactician""; he knows exactly how to win an Olympic final, and his lower ranking only makes him a more dangerous ""under-the-radar"" threat."
 Aidan,Chollet,fra,snowboard-cross-men,1,"The ""Precision Rider""; he is known for having the most stable board-control in the ""Negative G"" sections of the Livigno course. He currently has more top-5 finishes in 2025/26 than any other Frenchman."
@@ -950,17 +980,19 @@ Kalle,Koblet,sui,snowboard-cross-men,1,
 Filippo,Ferrari,ita,snowboard-cross-men,1,
 Cameron,Bolton,aus,snowboard-cross-men,1,
 Charlotte,Bankes,gbr,snowboard-cross-women,4,"The ""Phoenix""; her return from a career-threatening injury to win in China last week has made her the sentimental and statistical favorite for Milan."
-Chloe,Trespeuch,fra,snowboard-cross-women,3,"The 2022 Silver medalist and current World #2. Trespeuch is the anchor of the French ""powerhouse"" squad. She took Bronze in China last week and has been on the podium in almost every race this winter. She is ""high variance"" only because she occasionally gets caught in ""mid-pack"" traffic, but her ability to pass in the final turn is the best in the business."
+Chloe,Trespeuch,fra,snowboard-cross-women,2,"The 2022 Silver medalist and current World #2. Trespeuch is the anchor of the French ""powerhouse"" squad. She took Bronze in China last week and has been on the podium in almost every race this winter. She is ""high variance"" only because she occasionally gets caught in ""mid-pack"" traffic, but her ability to pass in the final turn is the best in the business."
 Josie,Baff,aus,snowboard-cross-women,2,"The ""Yellow Bib""; she is the most consistent rider of 2026 so far, possessing a massive mental edge over the veteran field."
 Lea,Casta,fra,snowboard-cross-women,2,"The sensation of the early season. Casta won the opening World Cup in Cervinia (Dec 13) but suffered a high-speed crash in China last week that dropped her in the standings. If she is fully recovered by February 6, her raw ""gate-to-first-turn"" speed makes her a podium lock."
-Michela,Moioli,ita,snowboard-cross-women,2,"The ""Livigno Legend""; she is treating these Games as her career finale and will have the most vocal home support of any athlete in Italy."
+Michela,Moioli,ita,snowboard-cross-women,3,"The ""Livigno Legend""; she is treating these Games as her career finale and will have the most vocal home support of any athlete in Italy."
 Julia,Nirani-Perreira,fra,snowboard-cross-women,2,"The ""Dongbeiya Champion""; her victory in China last week was a statement to the world that she is ready to upgrade her 2018 silver to a 2026 gold."
 Mia,Clift,aus,snowboard-cross-women,1,"The ""Australian Prodigy""; at just 21, she is the youngest rider in the World Top 10 and enters her first Olympics with three World Cup podiums already on her resume from the last 12 months."
 Eva,Adamczykova,cze,snowboard-cross-women,1,"Formerly Samková. The 2014 Olympic Champion is still one of the most stylish and technically sound riders in the world. While she missed the Big Final in China, she remains a tactical genius who can out-maneuver younger riders in heavy traffic."
 Sina,Siegenthaler,sui,snowboard-cross-women,1,"Switzerland’s top hope. She has been a consistent ""Small Final"" winner this year and is currently World #10. She is known for her aggressive starts and could easily sneak into the Big Final."
 Stacy,Gaskill,usa,snowboard-cross-women,1,"The ""American Anchor""; with Lindsey Jacobellis out, Gaskill has stepped up as the leader of the U.S. team, possessing some of the fastest qualifying times on the circuit this winter."
+Pia,Zerkhold,aut,snowboard-cross-women,1,
+Karolina,Hrusova,cze,snowboard-cross-women,1,
 Team,France 1 - Snowboard Cross Mixed,fra,snowboard-cross-mixed-team,3,
-Team,Australia 1 - Snowboard Cross Mixed,aus,snowboard-cross-mixed-team,4,
+Team,Australia 1 - Snowboard Cross Mixed,aus,snowboard-cross-mixed-team,5,
 Team,France 2 - Snowboard Cross Mixed,fra,snowboard-cross-mixed-team,2,
 Team,GBR 1 - Snowboard Cross Mixed,gbr,snowboard-cross-mixed-team,2,
 Team,Italy 1 - Snowboard Cross Mixed,ita,snowboard-cross-mixed-team,2,
@@ -968,6 +1000,7 @@ Team,Germany 1 - Snowboard Cross Mixed,ger,snowboard-cross-mixed-team,1,
 Team,Switzerland 1 - Snowboard Cross Mixed,sui,snowboard-cross-mixed-team,1,
 Team,Australia 2 - Snowboard Cross Mixed,aus,snowboard-cross-mixed-team,1,
 Team,Canada 1 - Snowboard Cross Mixed,can,snowboard-cross-mixed-team,2,
+Team,Austria 1 – Snowboard Cross Mixed,aut,snowboard-cross-mixed-team,1,
 Roland,Fischnaller,ita,snowboarding-slalom-men,3,
 Aaron,March,ita,snowboarding-slalom-men,3,
 Benjamin,Karl,aut,snowboarding-slalom-men,3,
@@ -980,7 +1013,10 @@ Lee,Sangho,kor,snowboarding-slalom-men,1,
 Alexander,Payer,aut,snowboarding-slalom-men,1,
 Radoslav,Yankov,bul,snowboarding-slalom-men,1,
 Stefan,Baumeister,ger,snowboarding-slalom-men,1,
-Ester,Ledecka,cze,snowboarding-slalom-women,4,
+Andreas,Prommegger,aut,snowboarding-slalom-men,2,
+Tim,Mastnak,slo,snowboarding-slalom-men,1,
+Dario,Caviezel,sui,snowboarding-slalom-men,1,
+Ester,Ledecka,cze,snowboarding-slalom-women,5,
 Tsubaki,Miki,jpn,snowboarding-slalom-women,3,
 Ramona,Hofmeister,ger,snowboarding-slalom-women,3,
 Elisa,Caffont,ita,snowboarding-slalom-women,2,
@@ -1004,16 +1040,19 @@ Eveliina,Taka,fin,snowboarding-slopestyle-women,1,
 Meila,Stalker,aus,snowboarding-slopestyle-women,1,
 Tess,Coady,aus,snowboarding-slopestyle-women,1,"The 2022 Olympic Bronze medalist. Coady finished 4th at the X Games last week with a 86.00 and has been a permanent fixture in the top 5 all season. She is a ""Big Event"" specialist who knows how to craft a run for maximum style points."
 Kokomo,Murase,jpn,snowboarding-bigair-women,3,"The current undisputed queen of Big Air. Two days ago (Jan 24, 2026), she won the X Games Big Air Gold and made history as the first woman to land a Triple Cork 1620 in competition. She is currently the highest-ranked woman in the world and has the most technical run in history."
-Miyabi,Onitsuka,jpn,snowboarding-bigair-women,3,
+Reira,Iwabuchi,jpn,snowboarding-bigair-women,2,
 Mari,Fukada,jpn,snowboarding-bigair-women,2,
-Yu,Seungeun,kor,snowboarding-bigair-women,2,
-Mia,Brookes,gbr,snowboarding-bigair-women,2,"Fresh off her Slopestyle gold at X Games, Brookes took Bronze in Big Air this weekend. She is the reigning World Champion and possesses a unique ""flat-spin"" style that judges adore. She is high variance only because she often attempts her most difficult trick (Cab 1440) on her final hit."
-Zoi,Sadowski-Synott,nzl,snowboarding-bigair-women,1,"While she focuses more on Slopestyle, she is the only woman who can match Murase's amplitude. She skipped the X Games Big Air final to rest her knee, but if she’s 100% in Milan, she’s a 5-star threat."
+Yu,Seungeun,kor,snowboarding-bigair-women,3,
+Mia,Brookes,gbr,snowboarding-bigair-women,3,"Fresh off her Slopestyle gold at X Games, Brookes took Bronze in Big Air this weekend. She is the reigning World Champion and possesses a unique ""flat-spin"" style that judges adore. She is high variance only because she often attempts her most difficult trick (Cab 1440) on her final hit."
+Zoi,Sadowski-Synott,nzl,snowboarding-bigair-women,2,"While she focuses more on Slopestyle, she is the only woman who can match Murase's amplitude. She skipped the X Games Big Air final to rest her knee, but if she’s 100% in Milan, she’s a 5-star threat."
 Momo,Suzuki,jpn,snowboarding-bigair-women,1,
 Ally,Hickman,aus,snowboarding-bigair-women,1,
 Meila,Stalker,aus,snowboarding-bigair-women,1,
 Zhang,Xianonan,chn,snowboarding-bigair-women,1,
 Hanna,Karrer,aut,snowboarding-bigair-women,1,
+Lily,Dhawornvej,usa,snowboarding-bigair-women,2,
+Anna,Gasser,aut,snowboarding-bigair-women,1,
+Laurie,Blouin,can,snowboarding-bigair-women,1,
 Choi,Gaon,kor,snowboarding-halfpipe-women,3,"The 17-year-old sensation. She enters the Olympics as the World Cup Leader after winning three consecutive events this winter (Secret Garden, Copper Mountain, and Laax Open). She is the only rider currently pushing Chloe Kim’s technical difficulty, often opening her runs with a switch backside 720 that sets her apart from the Japanese field."
 Rise,Kudo,jpn,snowboarding-halfpipe-women,3,"Another 16-year-old prodigy. She took Silver at the X Games last week and Silver at the Laax Open (Jan 17). She is currently World #2 in the standings. She represents the new wave of Japanese riders who treat the 22-foot pipe like a trampoline, specializing in technical ""alley-oop"" tricks."
 Elizabeth,Hosking,can,snowboarding-halfpipe-women,2,"Canada’s top hope. She won the Calgary World Cup earlier this season and sits World #3. She is exceptionally strong in icy conditions, which could be a factor in the night-time final in Livigno."
@@ -1037,20 +1076,20 @@ Justus,Henkes,usa,snowboarding-slopestyle-men,1,
 Jonas,Hasler,sui,snowboarding-slopestyle-men,1,"The ""Local Hero."" He secured his Olympic qualification with a 6th place in Laax. On European snow, he is known for being incredibly consistent and could sneak onto the podium if the top favorites fall."
 Oyvind,Kirkhus,nor,snowboarding-slopestyle-men,1,
 Red,Gerard,usa,snowboarding-slopestyle-men,1,
-Su,Yiming,chn,snowboarding-bigair-men,5,"The defending Olympic Champion and the newly crowned 2025/26 Big Air Crystal Globe winner. Su won back-to-back World Cups in November and December (Chongli and Beijing) with a staggering 181.00 points. He is the most technically consistent rider in the world, combining ""clean"" 1980s with perfect execution scores. He skipped the final World Cup to focus on his ""secret"" Olympic run."
-Kira,Kimura,jpn,snowboarding-bigair-men,3,"Currently ranked World #2 overall. He took Bronze at the X Games yesterday and pushed Ogiwara to the limit in Steamboat. He is the most reliable ""podium insurance"" for the Japanese team."
-Hiroto,Ogiwara,jpn,snowboarding-bigair-men,3,"The man who just broke the sport. Two days ago (Jan 24, 2026), Ogiwara won X Games Gold by stomping a 2340 (six and a half rotations). He also won the Steamboat World Cup last month. He is ""high variance"" because he regularly crashes on his first two attempts, but if he lands the 2340 in Milan, the gold medal is likely his by a 10-point margin."
-Ryoma,Kimata,jpn,snowboarding-bigair-men,2,
-Taiga,Hasegawa,jpn,snowboarding-bigair-men,2,
+Su,Yiming,chn,snowboarding-bigair-men,4,"The defending Olympic Champion and the newly crowned 2025/26 Big Air Crystal Globe winner. Su won back-to-back World Cups in November and December (Chongli and Beijing) with a staggering 181.00 points. He is the most technically consistent rider in the world, combining ""clean"" 1980s with perfect execution scores. He skipped the final World Cup to focus on his ""secret"" Olympic run."
+Kira,Kimura,jpn,snowboarding-bigair-men,2,"Currently ranked World #2 overall. He took Bronze at the X Games yesterday and pushed Ogiwara to the limit in Steamboat. He is the most reliable ""podium insurance"" for the Japanese team."
+Hiroto,Ogiwara,jpn,snowboarding-bigair-men,2,"The man who just broke the sport. Two days ago (Jan 24, 2026), Ogiwara won X Games Gold by stomping a 2340 (six and a half rotations). He also won the Steamboat World Cup last month. He is ""high variance"" because he regularly crashes on his first two attempts, but if he lands the 2340 in Milan, the gold medal is likely his by a 10-point margin."
+Ryoma,Kimata,jpn,snowboarding-bigair-men,3,
+Taiga,Hasegawa,jpn,snowboarding-bigair-men,3,
 Oliver,Martin,usa,snowboarding-bigair-men,2,"The breakout American of 2026. He took Bronze in the Steamboat World Cup and finished 2nd at the 2025 World Championships. He is a specialist in the ""Frontside Triple 1620"" and represents the U.S. team's best chance at a Big Air medal."
-Ge,Chunyu,chn,snowboarding-bigair-men,1,
+Chunyu,Ge,chn,snowboarding-bigair-men,1,
 Rene,Rinnekangas,fin,snowboarding-bigair-men,1,"A veteran favorite who took Bronze in the Beijing World Cup last month. He doesn't have the 2340, but his ""Style"" scores are consistently 5–10 points higher than the tech-focused riders."
 Ian,Matteoli,ita,snowboarding-bigair-men,1,"The home-crowd favorite. Currently World #5, he has been knocking on the door of a major podium all winter and will be boosted by the local fans in Livigno."
 Redmond,Gerard,usa,snowboarding-bigair-men,1,
 Romain,Allemand,fra,snowboarding-bigair-men,1,
 Rocco,Jamieson,nzl,snowboarding-bigair-men,1,"The surprise Silver Medalist at the X Games (yesterday). Jamieson has mastered the 2160 tail grab, a trick that separates the ""Big Final"" riders from the rest. He is in peak form heading into Italy and has become New Zealand's top hope for a medal."
 Eli,Bouchard,can,snowboarding-bigair-men,1,"The 18-year-old Canadian superstar. He has officially qualified for the Olympic team and possesses the ""Triple Moose Flip,"" a trick no one else in the field can replicate. Bouchard won the Aspen Big Air earlier this month and is currently the most creative threat to the Japanese/Chinese dominance."
-Oyvind,Kirkhus,nor,snowboarding-bigair-men,1,
+Mons,Roisland,nor,snowboarding-bigair-men,1,
 Scotty,James,aus,snowboarding-halfpipe-men,4,"The ""Backside Specialist""; he is currently on a two-month undefeated streak and has the highest technical ""difficulty"" score ever recorded in the sport."
 Yuto,Totskua,jpn,snowboarding-halfpipe-men,3,"The ""Triple Cork King""; he is the only man who has landed a Frontside Triple Cork 1440 in every final he has entered this winter."
 Ruka,Hirano,jpn,snowboarding-halfpipe-men,3,"Currently World #6 and a former Crystal Globe winner. He took Bronze at the Secret Garden World Cup and recently landed a switch backside double cork 1440—a trick once exclusive to Scotty James. He represents Japan's ""insurance policy"" for a medal."
